@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vas_g00 SYSTEM "vas_g00.dtd">
+<vas_g00 format="2">
+  <regions>
+    <region x1="0" y1="0" x2="204" y2="45"/>
+    <region x1="0" y1="0" x2="204" y2="45"/>
+    <region x1="0" y1="46" x2="204" y2="91"/>
+    <region x1="0" y1="92" x2="204" y2="137"/>
+    <region x1="0" y1="92" x2="204" y2="137"/>
+  </regions>
+</vas_g00>
