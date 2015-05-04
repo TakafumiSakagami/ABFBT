@@ -1,0 +1,1 @@
+font: simhei size 15
