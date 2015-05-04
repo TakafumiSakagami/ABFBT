@@ -1,1 +1,3 @@
-font: simhei size 15
+Char images: font - simhei size 15
+
+Location cutins: font - KaiTi size 36
