@@ -1,3 +1,34 @@
 Making changes:
 
 If you are planning to translate something, make a new folder in your name. Move any files you want to translate into your own folder.
+
+ALL IMAGES WILL BE CONVERTED TO G00S AT A LATER DATE
+
+Image Translations:
+
+Create a text file with the same name as the g00 file you are translating, and write the translations there.
+
+Image Edits:
+
+Keep the image close to the original, but make sure all text is translated. Currently fonts being used are - Simhei, KaiTi - You may use these fonts where suitable, but if you'd prefer to use another font, go ahead.
+
+If anyone has a problem with an edited image, bring it up on the forum, and we can discuss alternatives.
+
+Scene Translation:
+
+Move the scene you want to translate to your folder, and begin translating. At the top of the file, place a line that says
+// Translator: *Your Name*
+
+To add comments, type // at the start of a new line, and type in your comment.
+If you are struggling to translate a line, or are unsure of your translation, add a comment that says
+// TLCHECK
+
+Once you have finished with the scene, you should move it to one of the other folders. If you had any TLCHECK comments, move it to the TLCHECK folder. If not, move it to the QC folder.
+
+Quality Checking:
+
+Before checking a scene, make a new text file named
+Propose_*file name*
+For example, if you were checking 00_ab01a_day00-str.txt, you'd make a file named Propose_00_ab01a_day00-str.txt
+
+Look out for any typos, grammar fragments, and confusing sentences. If there is a sentence or phrase that relies heavily on Japanese Culture, note it in the Propose text file. We can then discuss on how best to explain the culture reference.
