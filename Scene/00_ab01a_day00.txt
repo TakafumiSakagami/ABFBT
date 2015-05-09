@@ -25,8 +25,7 @@
 <0006> I slowly pick myself up.
 
 //<0007> どこにも痛みはない。
-<0007> I don't feel pain anywhere.
-//It doesn't hurt anywhere.
+<0007> It doesn't hurt anywhere.
 
 //<0008> さて…
 <0008> Now then...
@@ -57,7 +56,7 @@
 <0016> ??
 
 //<0017> 「ようこそ、『死んでたまるか戦線』へ。唐突だけど、入隊してくれないかしら？」
-<0017> "Welcome, to the 'Like-Hell-I'm Dead' Battlefront. This might sound sudden but would you mind joinig us?"
+<0017> "Welcome, to the 'Like-Hell-I'm Dead' Battlefront. This might sound sudden but would you mind joining us?"
 
 //<0018> 声が後ろから聞こえた。
 <0018> I hear a voice from behind me. 
@@ -66,7 +65,7 @@
 <0019> nothing
 
 //<0020> 振りかえると、そこにはライフルを構えているひとりの女生徒の姿があった。
-<0020> When I looked back, I saw a single schoolgirl gripping a rifle.
+<0020> Looking back, I see a lone schoolgirl gripping a rifle.
 //When I looked back, I saw a lone schoolgirl gripping a rifle.
 
 //<0021> 目はライフルの照準に合わせたままで、こっちは見ていない。
