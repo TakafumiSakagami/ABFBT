@@ -758,9 +758,11 @@
 
 //<0246> 信じる
 <0246> Believe
+//Believe her
 
 //<0247> 疑う
 <0247> Doubt
+//Doubt her
 
 //<0248> selbtn : 
 <0248> selbtn : 
@@ -3981,6 +3983,7 @@
 
 //<1317> 「ゆりっぺ、新人の勧誘の手はずはどうだ」
 <1317> "Yurippe, how goes convincing the newcomer?"
+// "Yurippe, how's convincing the new recruit going?"
 
 //<1318> nothing
 <1318> nothing
@@ -4193,6 +4196,7 @@
 
 //<1387> 「うああぁああぁぁ、勧誘に失敗したああぁぁぁ！」
 <1387> "Waaaaaaaa the convincement failed!"
+// "Waaaaaaa, the recruitment failed!"
 
 //<1388> 日向
 <1388> 日向
