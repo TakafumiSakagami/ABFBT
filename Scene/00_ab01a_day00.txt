@@ -20,7 +20,7 @@
 <0004> I'm lying on my back.
 
 //<0005> 気絶でもしたのだろうか。
-<0005> Did I faint?.
+<0005> Did I faint?
 
 //<0006> ゆっくりと身体を起こし、軽く上半身を動かしてみる。
 <0006> I slowly pick myself up.
@@ -168,7 +168,7 @@
 //"The fact that you're here means that you died."
 
 //<0053> そう女生徒は続けた。本当に学生かはわからない。学生服を着ているから、女生徒と見なしただけで、普通の女生徒はライフルを構えたりしないものだ。
-<0053> So said the schoolgirl. Though I'm not certain that she's really schoolgirl. Schoolgirls usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
+<0053> So said the schoolgirl. Though I'm not certain that she's really a schoolgirl. Schoolgirls usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
 
 //<0054> 音無
 <0054> 音無
@@ -240,7 +240,7 @@
 <0076> I don't understand, but...
 
 //<0077> 率直な感想を述べた。こんな声なのか、俺は。
-<0077> That was my honest impression. Am I right? //not sure about this one.
+<0077> That was my honest impression. Am I right?
 //Not sure how to translate but something related to him doubting his voice, either literally or figuratively (like, was I the kind of person to be unsure, or something to that effect)...maybe.
 
 //<0078> ゆり
@@ -1708,7 +1708,7 @@
 <0562> I look up at the building behind her.
 
 //<0563> 病院には見えない…。学校の校舎のような印象を受ける。
-<0563> It doesn't look like a hopsital...it seems more like a school building.
+<0563> It doesn't look like a hospital...it seems more like a school building.
 
 //<0564> 音無
 <0564> 音無
@@ -1975,18 +1975,18 @@
 <0651> ？？
 
 //<0652> 「最初は『死んだ世界戦線』、ローマ字にした頭３つを取って、
-<0652> "At first it was called the World of the Dead Battlefront, 
+<0652> "At first it was called the SSS, short for the
 {10451} 3e // 0652
 
 //<0653> スリーエス
-<0653> //nothing?
+<0653> Shinda Sekai Sensen
 
 //<0654> ＳＳＳ
-<0654> //nothing?
+<0654> World of the Dead Battlefront
 {1050c} 3d // 0654
 
 //<0655> と略してる」
-<0655> abreviated to SSS."
+<0655> ."
 //TL check: how to explain the SSS with an English translation?
 
 //<0656> 女生徒は、ほら、と制服の袖に付いているワッペンを指さした。
