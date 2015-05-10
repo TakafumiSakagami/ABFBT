@@ -3,6 +3,8 @@
 // 0e = new page
 // anything else is unknown
 
+//translator HeliosAlpha
+
 //<0000> 駐車場のようだった。
 <0000> A parking lot it seems.
 
@@ -19,7 +21,7 @@
 <0004> I could also hear singing. I think I’ve heard this before.
 
 //<0005> 誰かが路上ライブでもやっているようだ。
-<0005> It seems someone is holding a concert here. / It seems someone has chosen this place for a concert. //TLCHeck
+<0005> It seems someone is holding a concert here.
 
 //<0006> となれば、陽動部隊の岩沢以外に考えられないのだが、あの時に聴いた歌声とは明らかに違う。
 <0006> I can’t think of anyone other than Iwasawa from the diversion squad but this voice is completely different from that time.
@@ -50,13 +52,14 @@
 <0014> nothing
 
 //<0015> 人ごみの中に割ってはいると、戦線メンバーの服を着た女生徒があぐらをかいて、アコギを弾き、歌っていた。
-<0015> I pushed my way into the middle of the crowd. A female student wearing a battlefront uniform was sitting cross-legged, playing an acoustic guitar, and singing. 
+<0015> I pushed my way into the middle of the crowd. A female student wearing the battlefront uniform was sitting cross-legged, playing an acoustic guitar, and singing. 
 
 //<0016> 見知らぬ顔。
 <0016> A face I hadn’t seen before. 
 
 //<0017> ゆりが言っていた、他にも何十人と潜伏しているメンバーのひとりか。
-<0017> Is she one of the covert members Yuri mentioned //(referring to 4789 in day01)
+<0017> Is she one of the covert members Yuri mentioned. 
+//(referring to 4789 in day01)
 
 //<0018> しかし、どうしてこんなところでひとりで陽動をしているのだろうか？
 <0018> But, why is she conducting a diversion alone in a place like this? 
@@ -118,7 +121,7 @@
 <0036> nothing
 
 //<0037> ケースから外れたその一枚を拾ってみる。
-<0037> I picked up one of the things from the case.
+<0037> I picked up a paper that fell out of the case.
 
 //<0038> 『チャーハン』と書かれていた。食券だ。
 <0038> It was a meal-ticket with "Chinese Friend Rice" written on it.
@@ -205,7 +208,7 @@
 <0065> 微妙すぎるイケメン
 
 //<0066> ロリコン
-<0066> ロリコン
+<0066> Lolicon
 
 //<0067> メガネ仲間
 <0067> メガネ仲間
@@ -409,7 +412,7 @@
 <0133> 「Eh? That certainly is the battlefront´s uniform isn't it. Doesn't it hurt?」
 
 //<0134> 音無
-<0134> 音無
+<0134> Otonashi
 
 //<0135> クソ坊主
 <0135> クソ坊主
@@ -421,7 +424,7 @@
 <0137> 微妙すぎるイケメン
 
 //<0138> ロリコン
-<0138> ロリコン
+<0138> Lolicon
 
 //<0139> メガネ仲間
 <0139> メガネ仲間
@@ -511,7 +514,7 @@
 <0167> 微妙すぎるイケメン
 
 //<0168> ロリコン
-<0168> ロリコン
+<0168> Lolicon
 
 //<0169> メガネ仲間
 <0169> メガネ仲間
@@ -658,7 +661,7 @@
 <0216> 「Uwa, gross!」
 
 //<0217> 音無
-<0217> 音無
+<0217> Otonashi
 
 //<0218> クソ坊主
 <0218> クソ坊主
@@ -670,7 +673,7 @@
 <0220> 微妙すぎるイケメン
 
 //<0221> ロリコン
-<0221> ロリコン
+<0221> Lolicon
 
 //<0222> メガネ仲間
 <0222> メガネ仲間
@@ -724,10 +727,10 @@
 <0238> ？？
 
 //<0239> 「お前は？」
-<0239> 「and your name is?？」
+<0239> 「and your name is?」
 
 //<0240> 音無
-<0240> 音無
+<0240> Otonashi
 
 //<0241> クソ坊主
 <0241> クソ坊主
@@ -739,7 +742,7 @@
 <0243> 微妙すぎるイケメン
 
 //<0244> ロリコン
-<0244> ロリコン
+<0244> Lolicon
 
 //<0245> メガネ仲間
 <0245> メガネ仲間
@@ -835,7 +838,7 @@
 <0275>  You can quickly tell since the uniform is different.
 
 //<0276> 音無
-<0276> 音無
+<0276> Otonashi
 
 //<0277> クソ坊主
 <0277> クソ坊主
@@ -847,7 +850,7 @@
 <0279> 微妙すぎるイケメン
 
 //<0280> ロリコン
-<0280> ロリコン
+<0280> Lolicon
 
 //<0281> メガネ仲間
 <0281> メガネ仲間
@@ -922,10 +925,10 @@
 <0304> Yui
 
 //<0305> 「これはどうも、こちらこそ初めまして。ユイっていいます！」
-<0305> 「Me too, Pleased to meet you. My name is Yui.」
+<0305> 「Me too, pleased to meet you. My name is Yui.」
 
 //<0306> 音無
-<0306> 音無
+<0306> Otonashi
 
 //<0307> クソ坊主
 <0307> クソ坊主
@@ -937,7 +940,7 @@
 <0309> 微妙すぎるイケメン
 
 //<0310> ロリコン
-<0310> ロリコン
+<0310> Lolicon
 
 //<0311> メガネ仲間
 <0311> メガネ仲間
@@ -1030,7 +1033,7 @@
 <0340> 微妙すぎるイケメン
 
 //<0341> ロリコン
-<0341> ロリコン
+<0341> Lolicon
 
 //<0342> メガネ仲間
 <0342> メガネ仲間
@@ -1087,7 +1090,7 @@
 <0359> 「Are you in charge of gathering meal-tickets?」
 
 //<0360> 音無
-<0360> 音無
+<0360> Otonashi
 
 //<0361> クソ坊主
 <0361> クソ坊主
@@ -1210,7 +1213,7 @@
 <0400> 微妙すぎるイケメン
 
 //<0401> ロリコン
-<0401> ロリコン
+<0401> Lolicon
 
 //<0402> メガネ仲間
 <0402> メガネ仲間
@@ -1285,7 +1288,7 @@
 <0425> Yui
 
 //<0426> 「いえいえ、そんなそんなっ！　この世界にバンドはひとつだけです。ガルデモだけあればいいんです」
-<0426> 「No,no, no way. There's only one band in this world. Everything is fine as long as GDM exsits.」
+<0426> 「No, no, no way. There's only one band in this world. Everything is fine as long as GDM exits.」
 
 //<0427> nothing
 <0427> nothing
@@ -1306,7 +1309,7 @@
 <0432> Yui
 
 //<0433> 「あたしはそれに憧れて、コピーみたいなことをしてるだけです」
-<0433> 「I just act like a copycat because I look up to them.」
+<0433> 「I just copy them because I look up to them.」
 
 //<0434> 音無
 <0434> Otonashi
@@ -1321,7 +1324,7 @@
 <0437> 微妙すぎるイケメン
 
 //<0438> ロリコン
-<0438> ロリコン
+<0438> Lolicon
 
 //<0439> メガネ仲間
 <0439> メガネ仲間
@@ -1469,7 +1472,7 @@
 //TLCheck No idea what this high rank/management thing is about, so that might need correcting
 
 //<0487> 音無
-<0487> 音無
+<0487> Otonashi
 
 //<0488> クソ坊主
 <0488> クソ坊主
@@ -1481,7 +1484,7 @@
 <0490> 微妙すぎるイケメン
 
 //<0491> ロリコン
-<0491> ロリコン
+<0491> Lolicon
 
 //<0492> メガネ仲間
 <0492> メガネ仲間
@@ -1571,7 +1574,7 @@
 <0520> 微妙すぎるイケメン
 
 //<0521> ロリコン
-<0521> ロリコン
+<0521> Lolicon
 
 //<0522> メガネ仲間
 <0522> メガネ仲間
@@ -1652,7 +1655,7 @@
 <0547> Girls Dead Monster
 
 //<0548> 。略してガルデモです！　ガルデモは凄いんですよ！　なんと言っても、ボーカル＆ギターの岩沢さんの存在感！」
-<0548> . Abbreviated as GDM!　GDM are amazing!　Whatever you say the vocalist and guitarist Iwasawa-san´s pressence!」
+<0548> . Abbreviated as GDM!　GDM are amazing!　Whatever you say the vocalist and guitarist Iwasawa-san´s presence!」
 
 
 //<0549> nothing
@@ -1680,7 +1683,7 @@
 <0556> Crow Song
 
 //<0557> は岩沢さんの人生そのもの！ってな歌で泣けるわ、盛り上がるわで、ライブ中にどうしたらいいかよくわかんない、鉄板曲なんですよ！」
-<0557> は岩沢さんの人生そのもの！ってな歌で泣けるわ、盛り上がるわで、ライブ中にどうしたらいいかよくわかんない、鉄板曲なんですよ！」
+<0557> is Iwasawa-san´s life itself. When I hear it during a live event I don't whether to cry or cheer; it's their signature song!」
 {f59e} 10 // 0557
 
 //<0558> 音無
@@ -1696,7 +1699,7 @@
 <0561> 微妙すぎるイケメン
 
 //<0562> ロリコン
-<0562> ロリコン
+<0562> Lolicon
 
 //<0563> メガネ仲間
 <0563> メガネ仲間
@@ -1750,7 +1753,7 @@
 <0579> ？？
 
 //<0580> 「どうしたらいいかよくわからない曲が鉄板曲にはならんだろ…」
-<0580> 「どうしたらいいかよくわからない曲が鉄板曲にはならんだろ…」
+<0580> 「You couldn't have a signature song that makes people unsure what to feel..」
 
 //<0581> nothing
 <0581> nothing
@@ -1768,20 +1771,21 @@
 <0585> nothing
 
 //<0586> ユイ
-<0586> ユイ
+<0586> Yui
 
 //<0587> 「そして、最高に盛り上がるのが
-<0587> 「そして、最高に盛り上がるのが
+<0587> 「And, the song that makes me the most excited is
 
 //<0588> Alchemy
 <0588> Alchemy
 
 //<0589> ！　リードギターのひさ子さんの殺伐としたリフで始まるキラーチューン！　もう殺伐とするわ、興奮するわで、どうしたらいいかよくわからないんですよ！」
-<0589> ！　リードギターのひさ子さんの殺伐としたリフで始まるキラーチューン！　もう殺伐とするわ、興奮するわで、どうしたらいいかよくわからないんですよ！」
+<0589> ! That killer song starting with Lead guitarist Hisako-san´s bloodthirsty riffs. I just don't know wheter to get excited or rip someone to shreds!」
 {10296} 10 // 0589
+//the original "Killer Tune" might be a reference to a song popular in 2007-08, currently not in translation
 
 //<0590> 音無
-<0590> 音無
+<0590> Otonashi
 
 //<0591> クソ坊主
 <0591> クソ坊主
@@ -1793,7 +1797,7 @@
 <0593> 微妙すぎるイケメン
 
 //<0594> ロリコン
-<0594> ロリコン
+<0594> Lolicon
 
 //<0595> メガネ仲間
 <0595> メガネ仲間
@@ -1847,7 +1851,8 @@
 <0611> ？？
 
 //<0612> 「どうしたらいいかよくわからない曲がキラーチューンにはならんだろ…」
-<0612> 「どうしたらいいかよくわからない曲がキラーチューンにはならんだろ…」
+<0612> 「You couldn't have a killer song that makes people so unsure..」
+
 
 //<0613> nothing
 <0613> nothing
@@ -1865,13 +1870,13 @@
 <0617> nothing
 
 //<0618> ユイ
-<0618> ユイ
+<0618> Yui
 
 //<0619> 「とにかくガルデモがこの世界で唯一無二のバンドなんです！　あたしはそのサポートをしているだけの新米です」
-<0619> 「とにかくガルデモがこの世界で唯一無二のバンドなんです！　あたしはそのサポートをしているだけの新米です」
+<0619> 「Anyway, GDM is the only band in this world, and I'm just beginner who supports them.」
 
 //<0620> 音無
-<0620> 音無
+<0620> Otonashi
 
 //<0621> クソ坊主
 <0621> クソ坊主
@@ -1883,7 +1888,7 @@
 <0623> 微妙すぎるイケメン
 
 //<0624> ロリコン
-<0624> ロリコン
+<0624> Lolicon
 
 //<0625> メガネ仲間
 <0625> メガネ仲間
@@ -1937,7 +1942,7 @@
 <0641> ？？
 
 //<0642> 「じゃ、俺と似たような感じだな」
-<0642> 「じゃ、俺と似たような感じだな」
+<0642> 「We're in a similar position then.」
 
 //<0643> nothing
 <0643> nothing
@@ -1955,10 +1960,10 @@
 <0647> nothing
 
 //<0648> ユイ
-<0648> ユイ
+<0648> Yui
 
 //<0649> 「一緒にするなや、ごらあああぁぁーー！！　ガルデモに対する愛は何倍もお前より上じゃああぁぁーー！！　遥か上空じゃあああぁーーーーー！！」
-<0649> 「一緒にするなや、ごらあああぁぁーー！！　ガルデモに対する愛は何倍もお前より上じゃああぁぁーー！！　遥か上空じゃあああぁーーーーー！！」
+<0649> 「Heeyy, don't go lumping me with someone like you!! My love for GDM is much greater than yours!! I'm lightyears ahead!!」
 
 //<0650> nothing
 <0650> nothing
@@ -1976,10 +1981,10 @@
 <0654> nothing
 
 //<0655> なんだ！？　いきなりキレキャラに変わりやがった…！
-<0655> なんだ！？　いきなりキレキャラに変わりやがった…！
+<0655> What now? Her nice personality changed instantly!
 
 //<0656> 音無
-<0656> 音無
+<0656> Otonashi
 
 //<0657> クソ坊主
 <0657> クソ坊主
@@ -1991,7 +1996,7 @@
 <0659> 微妙すぎるイケメン
 
 //<0660> ロリコン
-<0660> ロリコン
+<0660> Lolicon
 
 //<0661> メガネ仲間
 <0661> メガネ仲間
@@ -2045,7 +2050,7 @@
 <0677> ？？
 
 //<0678> 「わかった、わかった、お前のほうが断然上だよ。俺は土の中のモグラぐらいなもんだ」
-<0678> 「わかった、わかった、お前のほうが断然上だよ。俺は土の中のモグラぐらいなもんだ」
+<0678> 「I get it, I get it, you're way ahead of me. I'm like a turtle in a motor race.」
 
 //<0679> nothing
 <0679> nothing
@@ -2063,16 +2068,16 @@
 <0683> nothing
 
 //<0684> ユイ
-<0684> ユイ
+<0684> Yui
 
 //<0685> 「そんなそんな謙遜せずとも、ミミズぐらいでいいじゃないですかっ」
-<0685> 「そんなそんな謙遜せずとも、ミミズぐらいでいいじゃないですかっ」
+<0685> 「You don't have to be so modest, a snail would be more accurate.」
 
 //<0686> 喧嘩売ってんのか…。
-<0686> 喧嘩売ってんのか…。
+<0686> Are you picking a fight?
 
 //<0687> 音無
-<0687> 音無
+<0687> Otonashi
 
 //<0688> クソ坊主
 <0688> クソ坊主
@@ -2084,7 +2089,7 @@
 <0690> 微妙すぎるイケメン
 
 //<0691> ロリコン
-<0691> ロリコン
+<0691> Lolicon
 
 //<0692> メガネ仲間
 <0692> メガネ仲間
@@ -2138,7 +2143,7 @@
 <0708> ？？
 
 //<0709> 「よくわからんが、陽動のサポート、頑張れよ」
-<0709> 「よくわからんが、陽動のサポート、頑張れよ」
+<0709> 「I don't really get it, but good luck supporting the diversion squad」
 
 //<0710> nothing
 <0710> nothing
@@ -2156,10 +2161,10 @@
 <0714> nothing
 
 //<0715> ユイ
-<0715> ユイ
+<0715> Yui
 
 //<0716> 「言われなくても頑張りますよぅ」
-<0716> 「言われなくても頑張りますよぅ」
+<0716> 「You don't have to tell me, I'll work hard regardless.」
 
 //<0717> nothing
 <0717> nothing
@@ -2180,7 +2185,7 @@
 <0722> nothing
 
 //<0723> 後かたづけをするユイと別れた。
-<0723> 後かたづけをするユイと別れた。
+<0723> I walked away from Yui who was cleaning up after her concert.
 
 //<0724> dummy
 <0724> dummy
