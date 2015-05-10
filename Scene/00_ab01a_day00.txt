@@ -758,9 +758,11 @@
 
 //<0246> 信じる
 <0246> Believe
+//Believe her
 
 //<0247> 疑う
 <0247> Doubt
+//Doubt her
 
 //<0248> selbtn : 
 <0248> selbtn : 
