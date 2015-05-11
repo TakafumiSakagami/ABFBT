@@ -1,0 +1,13 @@
+Here you can suggest a translation to image text.
+
+Please check /Translated g00s for untranslated images. If it's not there, then it's not yet translated.
+You may check /g00 pngs for already decompressed images.
+
+If you have a different translation than the existing one, please add it on a new line.
+
+Keep in mind that there's limited space for text in the image, so make the translation as short as possible.
+Keep the translation consistent with scene script.
+If these two don't agree, we can discuss it in the forum.
+
+Current restriction:
+- Text on ef_bg_name_cuting.g00 may not longer than 10em/15en
