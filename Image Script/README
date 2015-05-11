@@ -5,9 +5,11 @@ You may check /g00 pngs for already decompressed images.
 
 If you have a different translation than the existing one, please add it on a new line.
 
-Keep in mind that there's limited space for text in the image, so make the translation as short as possible.
+Keep in mind that there's limited space for text in the image, make the translation as short as possible.
 Keep the translation consistent with scene script.
 If these two don't agree, we can discuss it in the forum.
+
+I'm sorry Yerian for hijacking your work. :)
 
 Current restriction:
 - Text on ef_bg_name_cuting.g00 may not longer than 10em/15en
