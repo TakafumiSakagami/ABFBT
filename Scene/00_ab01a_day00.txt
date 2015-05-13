@@ -57,7 +57,7 @@
 <0016> ??
 
 //<0017> 「ようこそ、『死んでたまるか戦線』へ。唐突だけど、入隊してくれないかしら？」
-<0017> "Welcome, to the 'Like-Hell-I'm Dead' Battlefront. This might sound sudden but would you mind joining us?"
+<0017> "Welcome, to the 'I-Ain't-Dead-Yet' Battlefront. This might sound sudden but would you mind joining us?"
 
 //<0018> 声が後ろから聞こえた。
 <0018> I hear a voice from behind me. 
@@ -155,7 +155,7 @@
 <0048> I feel a chill.
 
 //<0049> ゆり
-<0049> ゆり
+<0049> Yuri
 
 //<0050> 女生徒
 <0050> Schoolgirl
@@ -244,7 +244,7 @@
 //Not sure how to translate but something related to him doubting his voice, either literally or figuratively (like, was I the kind of person to be unsure, or something to that effect)...maybe.
 
 //<0078> ゆり
-<0078> ゆり
+<0078> Yuri
 
 //<0079> 女生徒
 <0079> Schoolgirl
@@ -253,7 +253,7 @@
 <0080> ??
 
 //<0081> 「あなたは死んだの。そしてここは死んだ後の世界。何もしなければ、消されるわよ」
-<0081> "You died. This is the world beyond death. If you don't do anything, you'll be obliterated."
+<0081> "You died. This is the world of the afterlife. If you don't do anything, you'll be erased."
 //"You died. This is the world beyond death. If you don't do anything, you'll be eliminated."
 
 //<0082> 音無
@@ -323,11 +323,11 @@
 <0103> ??
 
 //<0104> 「消される？　誰に？」
-<0104> "Obliterated? By whom?"
+<0104> "Erased? By who?"
 //"Eliminated? By whom?"
 
 //<0105> ゆり
-<0105> ゆり
+<0105> Yuri
 
 //<0106> 女生徒
 <0106> Schoolgirl
@@ -336,7 +336,7 @@
 <0107> ？？
 
 //<0108> 「そりゃあ、神様でしょうね」
-<0108> "By God, obviously."
+<0108> "By God, I imagine."
 
 //<0109> 突拍子もない単語。
 <0109> An astounding statement.
@@ -480,7 +480,7 @@
 <0155> "He exists?"
 
 //<0156> ゆり
-<0156> ゆり
+<0156> Yuri
 
 //<0157> 女生徒
 <0157> Schoolgirl
@@ -562,7 +562,7 @@
 <0182> "This world..."
 
 //<0183> ゆり
-<0183> ゆり
+<0183> Yuri
 
 //<0184> 女生徒
 <0184> Schoolgirl
@@ -571,11 +571,11 @@
 <0185> ？？
 
 //<0186> 「何度も言わせないでくれる？　ここは死んだ世界なの。あなたは死んだの」
-<0186> "How many times do I have to say it? This is the world beyond death. You died."
+<0186> "How many times do I have to say it? This is the afterlife. You died."
 //"Can you stop making me repeat myself? This is the world beyond death. You died."
 
 //<0187> ゆり
-<0187> ゆり
+<0187> Yuri
 
 //<0188> 女生徒
 <0188> Schoolgirl
@@ -655,10 +655,10 @@
 <0212> ??
 
 //<0213> 「覚えてないんだ…」
-<0213> "I don't remember."
+<0213> "I don't remember..."
 
 //<0214> ゆり
-<0214> ゆり
+<0214> Yuri
 
 //<0215> 女生徒
 <0215> Schoolgirl
@@ -737,11 +737,11 @@
 <0239> ??
 
 //<0240> 「本当に…死後の世界なのか…？」
-<0240> "The world beyond death..?"
+<0240> "The afterlife...?"
 //"Is this really...the world beyond death...?"
 
 //<0241> ゆり
-<0241> ゆり
+<0241> Yuri
 
 //<0242> 女生徒
 <0242> Schoolgirl
@@ -753,15 +753,15 @@
 <0244> "Haa... The amnesiacs are always a pain."
 
 //<0245> 辟易されてるが…
-<0245> I winced.
+<0245> I'm a bit confused, but I...
 //I was unsure, but I...
 
 //<0246> 信じる
-<0246> Believe
+<0246> Believe her
 //Believe her
 
 //<0247> 疑う
-<0247> Doubt
+<0247> Doubt her
 //Doubt her
 
 //<0248> selbtn : 
@@ -834,10 +834,10 @@
 <0270> ？？
 
 //<0271> 「信じるよ…」
-<0271> "I believe..."
+<0271> "I believe you..."
 
 //<0272> ゆり
-<0272> ゆり
+<0272> Yuri
 
 //<0273> 女生徒
 <0273> 女生徒
@@ -918,7 +918,7 @@
 <0298> "If you did...what would happen?"
 
 //<0299> ゆり
-<0299> ゆり
+<0299> Yuri
 
 //<0300> 女生徒
 <0300> 女生徒
@@ -927,7 +927,7 @@
 <0301> ？？
 
 //<0302> 「時間が経てば治るのよ。ようは死なないの。死後の世界に居ることを実感するにはもってこいの方法なの」
-<0302> "It'll heal with time. In other words, you won't die. It's great once you actually experience the world beyond death."
+<0302> "It'll heal with time. In other words, you won't die. It's great once you actually experience the afterlife."
 
 //<0303> 音無
 <0303> 音無
@@ -996,10 +996,10 @@
 <0324> ？？
 
 //<0325> 「でも、痛みは？」
-<0325> "But does it hurt?"
+<0325> "But doesn't it hurt?"
 
 //<0326> ゆり
-<0326> ゆり
+<0326> Yuri
 
 //<0327> 女生徒
 <0327> 女生徒
@@ -1077,10 +1077,10 @@
 <0351> ？？
 
 //<0352> 「勘弁してくれ…」
-<0352> "Are you for real..."
+<0352> "Are you for real...?"
 
 //<0353> ゆり
-<0353> ゆり
+<0353> Yuri
 
 //<0354> 女生徒
 <0354> Schoolgirl
@@ -1230,7 +1230,7 @@
 <0402> "...so, what will you do with me?"
 
 //<0403> ゆり
-<0403> ゆり
+<0403> Yuri
 
 //<0404> 女生徒
 <0404> Schoolgirl
@@ -1377,10 +1377,10 @@
 <0451> ??
 
 //<0452> 「これはドラマか映画の撮影じゃないのか？」
-<0452> "This is like some filming of a drama, right?"
+<0452> "This is like a filming of some drama, right?"
 
 //<0453> ゆり
-<0453> ゆり
+<0453> Yuri
 
 //<0454> 女生徒
 <0454> Schoolgirl
@@ -1530,7 +1530,7 @@
 <0502> "Or maybe that's something like a theater prop."
 
 //<0503> ゆり
-<0503> ゆり
+<0503> Yuri
 
 //<0504> 女生徒
 <0504> 女生徒
@@ -1611,7 +1611,7 @@
 <0529> "It does seem like a dream though."
 
 //<0530> 頬をつねるとちゃんと痛い。
-<0530> I pinched my cheek and felt pain.
+<0530> I pinched my cheek and feel pain.
 
 //<0531> 音無
 <0531> 音無
@@ -1680,10 +1680,10 @@
 <0552> ??
 
 //<0553> 「一時的な記憶喪失だろ」
-<0553> "Just a temporory memory loss."
+<0553> "Just a temporary memory loss."
 
 //<0554> ゆり
-<0554> ゆり
+<0554> Yuri
 
 //<0555> 女生徒
 <0555> 女生徒
@@ -1695,7 +1695,7 @@
 <0557> "In that case, why are you here?"
 
 //<0558> ゆり
-<0558> ゆり
+<0558> Yuri
 
 //<0559> 女生徒
 <0559> 女生徒
@@ -1710,7 +1710,7 @@
 <0562> I look up at the building behind her.
 
 //<0563> 病院には見えない…。学校の校舎のような印象を受ける。
-<0563> It doesn't look like a hospital...it seems more like a school building.
+<0563> It doesn't look like a hospital... It seems more like a school building.
 
 //<0564> 音無
 <0564> 音無
@@ -1782,7 +1782,7 @@
 <0586> (It's true that if I had amnesia due to falling from a place like that, I'd be in a hospital bed...)
 
 //<0587> ゆり
-<0587> ゆり
+<0587> Yuri
 
 //<0588> 女生徒
 <0588> 女生徒
@@ -1863,7 +1863,7 @@
 <0613> "Huh?"
 
 //<0614> ゆり
-<0614> ゆり
+<0614> Yuri
 
 //<0615> 女生徒
 <0615> 女生徒
@@ -1872,7 +1872,7 @@
 <0616> ？？
 
 //<0617> 「どうせ、やることないんでしょ。記憶はしばらく戻らないかもしれないし、その間、うちの戦線に居ればいいじゃない？」
-<0617> "It's not like you have anything else to do. Your memory might not return for awhile, so isn't it fine to join our Battlefront in the meantime?"
+<0617> "It's not like you have anything else to do. Your memory might not return for awhile, so isn't it okay to join our Battlefront in the meantime?"
 
 //<0618> 音無
 <0618> 音無
@@ -1941,10 +1941,10 @@
 <0639> ？？
 
 //<0640> 「その戦線ってのはなに」
-<0640> "What's that battlefront?"
+<0640> "What's this battlefront?"
 
 //<0641> ゆり
-<0641> ゆり
+<0641> Yuri
 
 //<0642> 女生徒
 <0642> 女生徒
@@ -1953,10 +1953,10 @@
 <0643> ？？
 
 //<0644> 「『死んでたまるか戦線』」
-<0644> "The 'Like-Hell-I'm Dead' Battlefront."
+<0644> "The 'I-Ain't-Dead-Yet' Battlefront."
 
 //<0645> ゆり
-<0645> ゆり
+<0645> Yuri
 
 //<0646> 女生徒
 <0646> 女生徒
@@ -1968,7 +1968,7 @@
 <0648> "Well, the name changes a lot."
 
 //<0649> ゆり
-<0649> ゆり
+<0649> Yuri
 
 //<0650> 女生徒
 <0650> Schoolgirl
@@ -1984,7 +1984,7 @@
 <0653> Shinda Sekai Sensen
 
 //<0654> ＳＳＳ
-<0654> World of the Dead Battlefront
+<0654> Afterlife Battlefront
 {1050c} 3d // 0654
 
 //<0655> と略してる」
@@ -2001,7 +2001,7 @@
 <0658> nothing
 
 //<0659> ゆり
-<0659> ゆり
+<0659> Yuri
 
 //<0660> 女生徒
 <0660> Schoolgirl
@@ -2010,10 +2010,10 @@
 <0661> ？？
 
 //<0662> 「でも『死んだ世界戦線』って、死んだことを認めてることになるんじゃね？という意見により破棄」
-<0662> "But some argued that 'World of the Dead Battlefront' would mean accepting we died."
+<0662> "But some argued that 'Afterlife Battlefront' would mean accepting we died."
 
 //<0663> ゆり
-<0663> ゆり
+<0663> Yuri
 
 //<0664> 女生徒
 <0664> 女生徒
@@ -2022,10 +2022,10 @@
 <0665> ？？
 
 //<0666> 「以後、変遷を続けてる。今は『死んでたまるか戦線』」
-<0666> "It kept changing after that. Now it's the 'Like-Hell-I'm-Dead Battlefront.'"
+<0666> "It kept changing after that. Now it's the 'I-Ain't-Dead-Yet' Battlefront."
 
 //<0667> ゆり
-<0667> ゆり
+<0667> Yuri
 
 //<0668> 女生徒
 <0668> Schoolgirl
@@ -2034,10 +2034,10 @@
 <0669> ？？
 
 //<0670> 「その前は『生きた心地がしない戦線』だったわ。完全にネタだったから一日で変わったけど」
-<0670> "Before it was the 'Not Feeling Alive Battlefront.' It was a joke though so it got changed after a day."
+<0670> "Before it was the 'It-Doesn't-Feel-Like-I'm-Alive' Battlefront. That was a real joke though, so it got changed within a day."
 
 //<0671> ゆり
-<0671> ゆり
+<0671> Yuri
 
 //<0672> 女生徒
 <0672> Schoolgirl
@@ -2046,11 +2046,11 @@
 <0673> ？？
 
 //<0674> 「冗談で言ったら『マリッジブルー戦線』になったこともあったわ。何と戦う集団なのよって話ね」
-<0674> "Even if it was a joke, it became the 'Marriage Blues Battlefront.' What kind of fighting group is that?"
+<0674> "Even if it was a joke, it once became the 'Marriage Blues Battlefront.' What kind of fighting group is that?"
 //TL check
 
 //<0675> ゆり
-<0675> ゆり
+<0675> Yuri
 
 //<0676> 女生徒
 <0676> Schoolgirl
@@ -2134,7 +2134,7 @@
 <0702> "So...is that a real gun?"
 
 //<0703> ゆり
-<0703> ゆり
+<0703> Yuri
 
 //<0704> 女生徒
 <0704> Schoolgirl
@@ -2143,7 +2143,7 @@
 <0705> ？？
 
 //<0706> 「はぁ…ここに来た奴はみんなそんな反応するのよね。順応性を高めなさいよ。あるがままを受け止めなさい」
-<0706> "Haa...newcomers always ask that. You need to be more flexible and just accept reality."
+<0706> "Haa... Newcomers always ask that. You need to be more flexible and just accept reality."
 
 //<0707> 音無
 <0707> 音無
@@ -2215,7 +2215,7 @@
 <0729> "Accept it...how..."
 
 //<0730> ゆり
-<0730> ゆり
+<0730> Yuri
 
 //<0731> 女生徒
 <0731> 女生徒
@@ -2293,10 +2293,10 @@
 <0755> ？？
 
 //<0756> 「何と？」
-<0756> "With what?"
+<0756> "Against what?"
 
 //<0757> ゆり
-<0757> ゆり
+<0757> Yuri
 
 //<0758> 女生徒
 <0758> 女生徒
@@ -2314,7 +2314,7 @@
 <0762> She points at something just ahead.
 
 //<0763> ゆり
-<0763> ゆり
+<0763> Yuri
 
 //<0764> 女生徒
 <0764> 女生徒
@@ -2323,7 +2323,7 @@
 <0765> ？？
 
 //<0766> 「あれが『死んでたまるか戦線』の敵…『天使』よ。やっぱ『死んでたまるか戦線』はとっとと変えたいわ…あなた考えておいて」
-<0766> "That's the 'Like-Hell-I'm-Dead Battlefront's" enemy...'Tenshi.' Actually yeah, 'Like-Hell-I'm-Dead Battlefront' should be changed...you think of something."
+<0766> "That's the 'I-Ain't-Dead-Yet' Battlefront's enemy...'Tenshi.' Actually yeah, 'I-Ain't-Dead-Yet' Battlefront should be changed to something else... You. Think of something."
 
 //<0767> nothing
 <0767> nothing
@@ -2413,10 +2413,10 @@
 <0795> ？？
 
 //<0796> 「天使？　…普通の女の子じゃないか」
-<0796> "Angel?...It's just a normal girl."
+<0796> "Tenshi?...It's just a normal girl."
 
 //<0797> ゆり
-<0797> ゆり
+<0797> Yuri
 
 //<0798> 女生徒
 <0798> 女生徒
@@ -2497,7 +2497,7 @@
 <0823> "Huh?"
 
 //<0824> ゆり
-<0824> ゆり
+<0824> Yuri
 
 //<0825> 女生徒
 <0825> 女生徒
@@ -2581,7 +2581,7 @@
 <0851> Wait, wait a moment...
 
 //<0852> ゆり
-<0852> ゆり
+<0852> Yuri
 
 //<0853> 女生徒
 <0853> 女生徒
@@ -2593,7 +2593,7 @@
 <0855> "If you're found, you'll immediately be put on her blacklist."
 
 //<0856> ゆり
-<0856> ゆり
+<0856> Yuri
 
 //<0857> 女生徒
 <0857> 女生徒
@@ -2602,7 +2602,7 @@
 <0858> ？？
 
 //<0859> 「そこから始まるのは…退屈な授業、疲れるだけの部活、馬鹿を試されるだけのテストの数々…」
-<0859> "And then it begins...boring classes, tiresome club activities, and a bunch of tests to make you look like an idiot..."
+<0859> "And then it begins... Boring classes, tiresome club activities, and a bunch of tests to make you look like an idiot..."
 
 //<0860> 聞きながら、冷や汗が出てきた…。
 <0860> A cold sweat starts while I'm listening to her...
@@ -2690,7 +2690,7 @@
 <0887> ？？
 
 //<0888> 「あの…向こうの方にいっていい？」
-<0888> "Umm...is it fine to go over there?"
+<0888> "Umm... Mind if I go over there?"
 
 //<0889> nothing
 <0889> nothing
@@ -2708,7 +2708,7 @@
 <0893> nothing
 
 //<0894> ゆり
-<0894> ゆり
+<0894> Yuri
 
 //<0895> 女生徒
 <0895> 女生徒
@@ -2753,7 +2753,7 @@
 <0908> nothing
 
 //<0909> ゆり
-<0909> ゆり
+<0909> Yuri
 
 //<0910> 女生徒
 <0910> 女生徒
@@ -2762,7 +2762,7 @@
 <0911> ？？
 
 //<0912> 「あなた、信じるって言ったじゃない！？　なのになぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
-<0912> "Didn't you say you believed me!? So why!? I don't get your logic! Why would you think to do that!? Is your head alright!?" 
+<0912> "Didn't you say you believed me!? So why!? I don't get your logic! How did you come up with that!? Is there something wrong with your head!?" 
 
 //<0913> これは完全に、こいつの言っていることがおかしい。そう確信した。
 <0913> Everything she's saying is absurd. I'm sure of it now.
@@ -2837,7 +2837,7 @@
 <0936> ？？
 
 //<0937> 「あの…向こうの方にいっていい？」
-<0937> "Umm...is it fine to go over there?"
+<0937> "Umm... Mind if I go over there?"
 
 //<0938> nothing
 <0938> nothing
@@ -2855,7 +2855,7 @@
 <0942> nothing
 
 //<0943> ゆり
-<0943> ゆり
+<0943> Yuri
 
 //<0944> 女生徒
 <0944> 女生徒
@@ -2900,7 +2900,7 @@
 <0957> nothing
 
 //<0958> ゆり
-<0958> ゆり
+<0958> Yuri
 
 //<0959> 女生徒
 <0959> 女生徒
@@ -2909,7 +2909,7 @@
 <0960> ？？
 
 //<0961> 「なぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
-<0961> "Why!? I don't get your logic! Why would you think to do that!? Is your head alright!?" 
+<0961> "Why!? I don't get your logic! Why would you think to do that!? Is there something wrong with your head!?" 
 
 //<0962> nothing
 <0962> nothing
@@ -3015,7 +3015,7 @@
 <0995> nothing
 
 //<0996> ゆり
-<0996> ゆり
+<0996> Yuri
 
 //<0997> 女生徒
 <0997> 女生徒
@@ -3093,7 +3093,7 @@
 <1021> ？？
 
 //<1022> 「すごく矛盾したことを言う奴だな…。『死んでたまるか戦線』じゃなかったのか？」
-<1022> "Isn't that quite a contradiction...to the 'Like-Hell-I'm-Dead Battlefront'?"
+<1022> "Isn't that quite a contradiction...to the 'I-Ain't-Dead-Yet' Battlefront?"
 
 //<1023> nothing
 <1023> nothing
@@ -3111,7 +3111,7 @@
 <1027> nothing
 
 //<1028> ゆり
-<1028> ゆり
+<1028> Yuri
 
 //<1029> 女生徒
 <1029> 女生徒
@@ -3120,7 +3120,7 @@
 <1030> ？？
 
 //<1031> 「その『死んでたまるか』は、このまま死んでたまるかっ、て意味！」
-<1031> "That 'Like-Hell-I'm-Dead' means like hell I'll die this way!"
+<1031> "That 'I-Ain't-Dead-Yet' means we won't die like this!"
 
 //<1032> 音無
 <1032> 音無
@@ -3207,7 +3207,7 @@
 <1059> nothing
 
 //<1060> ゆり
-<1060> ゆり
+<1060> Yuri
 
 //<1061> 女生徒
 <1061> 女生徒
@@ -3216,7 +3216,7 @@
 <1062> ？？
 
 //<1063> 「あのねぇ…死んじゃったけど、このまま死ねるかってぎりぎりのところで抗ってるの！　そこに今居るのよっ、ここはそういう世界なのよっ、そんな世界で授業を受ける義務なんてあるわけないじゃない！」
-<1063> "You know...we died but we're fighting against this world of death! We're alive here. This is that kind of world, so there's no reason why we'd have to take tests!"
+<1063> "You know... We died but we're fighting against this world of death! We're alive here. This is that kind of world, so there's no reason why we'd have to take tests!"
 //TL check
 {1d4aa} 10 // 1063
 
@@ -3236,7 +3236,7 @@
 <1068> nothing
 
 //<1069> ゆり
-<1069> ゆり
+<1069> Yuri
 
 //<1070> 女生徒
 <1070> 女生徒
@@ -3357,7 +3357,7 @@
 <1108> nothing
 
 //<1109> ゆり
-<1109> ゆり
+<1109> Yuri
 
 //<1110> 女生徒
 <1110> 女生徒
@@ -3366,7 +3366,7 @@
 <1111> ？？
 
 //<1112> 「なんて乾いた笑い！　この世界では鉄板ジョークなのに！」
-<1112> "Such a weak laugh! Even though this world is a surefire joke!"
+<1112> "Such a weak laugh! Even though this world is a sure-fire joke!"
 
 //<1113> 音無
 <1113> 音無
@@ -3591,7 +3591,7 @@
 <1186> nothing
 
 //<1187> ゆり
-<1187> ゆり
+<1187> Yuri
 
 //<1188> 女生徒
 <1188> 女生徒
@@ -3621,7 +3621,7 @@
 <1196> nothing
 
 //<1197> ゆり
-<1197> ゆり
+<1197> Yuri
 
 //<1198> 女生徒
 <1198> 女生徒
@@ -3717,7 +3717,7 @@
 <1228> nothing
 
 //<1229> ゆり
-<1229> ゆり
+<1229> Yuri
 
 //<1230> 女生徒
 <1230> 女生徒
@@ -3813,7 +3813,7 @@
 <1260> nothing
 
 //<1261> ゆり
-<1261> ゆり
+<1261> Yuri
 
 //<1262> 女生徒
 <1262> 女生徒
@@ -3844,7 +3844,7 @@
 <1270> nothing
 
 //<1271> ゆり
-<1271> ゆり
+<1271> Yuri
 
 //<1272> 女生徒
 <1272> 女生徒
@@ -3871,7 +3871,7 @@
 <1279> nothing
 
 //<1280> ゆり
-<1280> ゆり
+<1280> Yuri
 
 //<1281> 女生徒
 <1281> 女生徒
@@ -4186,7 +4186,7 @@
 //TL check
 
 //<1384> ゆり
-<1384> ゆり
+<1384> Yuri
 
 //<1385> 女生徒
 <1385> 女生徒
@@ -4229,7 +4229,7 @@
 <1397> "Eh? Is it my fault?"
 
 //<1398> ゆり
-<1398> ゆり
+<1398> Yuri
 
 //<1399> 女生徒
 <1399> 女生徒
