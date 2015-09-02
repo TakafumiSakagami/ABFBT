@@ -1,0 +1,353 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 
+<0000> 
+
+//<0001> $bs_action_start
+<0001> $bs_action_start
+
+//<0002> $bs_action_start
+<0002> $bs_action_start
+
+//<0003> $bs_action_start
+<0003> $bs_action_start
+
+//<0004> $bs_action_start
+<0004> $bs_action_start
+
+//<0005> $bs_action_start
+<0005> $bs_action_start
+
+//<0006> $bs_action_start
+<0006> $bs_action_start
+
+//<0007> nothing
+<0007> nothing
+
+//<0008> nothing
+<0008> nothing
+
+//<0009> nothing
+<0009> nothing
+
+//<0010> nothing
+<0010> nothing
+
+//<0011> nothing
+<0011> nothing
+
+//<0012> nothing
+<0012> nothing
+
+//<0013> nothing
+<0013> nothing
+
+//<0014> nothing
+<0014> nothing
+
+//<0015> EV
+<0015> EV
+
+//<0016> BG
+<0016> BG
+
+//<0017> EV
+<0017> EV
+
+//<0018> $bg_action_start01
+<0018> $bg_action_start01
+
+//<0019> $bg_action_start01
+<0019> $bg_action_start01
+
+//<0020> $bg_action_start02
+<0020> $bg_action_start02
+
+//<0021> $bg_action_start02
+<0021> $bg_action_start02
+
+//<0022> $bg_action_start03
+<0022> $bg_action_start03
+
+//<0023> $bg_action_start03
+<0023> $bg_action_start03
+
+//<0024> $bg_action_start04
+<0024> $bg_action_start04
+
+//<0025> $bg_action_start04
+<0025> $bg_action_start04
+
+//<0026> $bg_action_start05
+<0026> $bg_action_start05
+
+//<0027> $bg_action_start05
+<0027> $bg_action_start05
+
+//<0028> nothing
+<0028> nothing
+
+//<0029> 
+<0029> 
+
+//<0030> 
+<0030> 
+
+//<0031> nothing
+<0031> nothing
+
+//<0032> nothing
+<0032> nothing
+
+//<0033> 
+<0033> 
+
+//<0034> 
+<0034> 
+
+//<0035> nothing
+<0035> nothing
+
+//<0036> nothing
+<0036> nothing
+
+//<0037> 
+<0037> 
+
+//<0038> 
+<0038> 
+
+//<0039> nothing
+<0039> nothing
+
+//<0040> nothing
+<0040> nothing
+
+//<0041> 
+<0041> 
+
+//<0042> 
+<0042> 
+
+//<0043> nothing
+<0043> nothing
+
+//<0044> nothing
+<0044> nothing
+
+//<0045> 
+<0045> 
+
+//<0046> 
+<0046> 
+
+//<0047> nothing
+<0047> nothing
+
+//<0048> nothing
+<0048> nothing
+
+//<0049> 
+<0049> 
+
+//<0050> 
+<0050> 
+
+//<0051> nothing
+<0051> nothing
+
+//<0052> nothing
+<0052> nothing
+
+//<0053> 
+<0053> 
+
+//<0054> 
+<0054> 
+
+//<0055> nothing
+<0055> nothing
+
+//<0056> nothing
+<0056> nothing
+
+//<0057> 
+<0057> 
+
+//<0058> 
+<0058> 
+
+//<0059> nothing
+<0059> nothing
+
+//<0060> nothing
+<0060> nothing
+
+//<0061> 
+<0061> 
+
+//<0062> 
+<0062> 
+
+//<0063> nothing
+<0063> nothing
+
+//<0064> nothing
+<0064> nothing
+
+//<0065> 
+<0065> 
+
+//<0066> 
+<0066> 
+
+//<0067> nothing
+<0067> nothing
+
+//<0068> nothing
+<0068> nothing
+
+//<0069> 
+<0069> 
+
+//<0070> 
+<0070> 
+
+//<0071> nothing
+<0071> nothing
+
+//<0072> a0
+<0072> a0
+
+//<0073> b0
+<0073> b0
+
+//<0074> c0
+<0074> c0
+
+//<0075> d0
+<0075> d0
+
+//<0076> e0
+<0076> e0
+
+//<0077> f0
+<0077> f0
+
+//<0078> g0
+<0078> g0
+
+//<0079> r1
+<0079> r1
+
+//<0080> r2
+<0080> r2
+
+//<0081> r3
+<0081> r3
+
+//<0082> r4
+<0082> r4
+
+//<0083> r5
+<0083> r5
+
+//<0084> l1
+<0084> l1
+
+//<0085> l2
+<0085> l2
+
+//<0086> l3
+<0086> l3
+
+//<0087> l4
+<0087> l4
+
+//<0088> l5
+<0088> l5
+
+//<0089> d1
+<0089> d1
+
+//<0090> d2
+<0090> d2
+
+//<0091> d3
+<0091> d3
+
+//<0092> d4
+<0092> d4
+
+//<0093> d5
+<0093> d5
+
+//<0094> u1
+<0094> u1
+
+//<0095> u2
+<0095> u2
+
+//<0096> u3
+<0096> u3
+
+//<0097> u4
+<0097> u4
+
+//<0098> u5
+<0098> u5
+
+//<0099> h0
+<0099> h0
+
+//<0100> i0
+<0100> i0
+
+//<0101> j0
+<0101> j0
+
+//<0102> k0
+<0102> k0
+
+//<0103> l0
+<0103> l0
+
+//<0104> m0
+<0104> m0
+
+//<0105> n0
+<0105> n0
+
+//<0106> o0
+<0106> o0
+
+//<0107> p0
+<0107> p0
+
+//<0108> q0
+<0108> q0
+
+//<0109> r0
+<0109> r0
+
+//<0110> s0
+<0110> s0
+
+//<0111> t0
+<0111> t0
+
+//<0112> u0
+<0112> u0
+
+//<0113> v0
+<0113> v0
+
+//<0114> w0
+<0114> w0
+
+//<0115> dummy
+<0115> dummy
+

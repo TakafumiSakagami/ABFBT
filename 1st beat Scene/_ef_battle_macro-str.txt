@@ -1,0 +1,502 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> l
+<0000> l
+
+//<0001> ot
+<0001> ot
+
+//<0002> r
+<0002> r
+
+//<0003> nd
+<0003> nd
+
+//<0004> l
+<0004> l
+
+//<0005> r
+<0005> r
+
+//<0006> ef_battle_lifebar_
+<0006> ef_battle_lifebar_
+
+//<0007> ef_battle_character_
+<0007> ef_battle_character_
+
+//<0008> r
+<0008> r
+
+//<0009> ef_battle_character_
+<0009> ef_battle_character_
+
+//<0010> ef_battle_character_name
+<0010> ef_battle_character_name
+
+//<0011> r
+<0011> r
+
+//<0012> ef_battle_lifebar_
+<0012> ef_battle_lifebar_
+
+//<0013> r
+<0013> r
+
+//<0014> ef_battle_lifebar_
+<0014> ef_battle_lifebar_
+
+//<0015> _mask
+<0015> _mask
+
+//<0016> r
+<0016> r
+
+//<0017> ot
+<0017> ot
+
+//<0018> nd
+<0018> nd
+
+//<0019> ot
+<0019> ot
+
+//<0020> nd
+<0020> nd
+
+//<0021> se_kyupeen
+<0021> se_kyupeen
+
+//<0022> none
+<0022> none
+
+//<0023> none
+<0023> none
+
+//<0024> None
+<0024> None
+{5ff2} 07 // 0024
+
+//<0025> none
+<0025> none
+
+//<0026> se_punch
+<0026> se_punch
+
+//<0027> none
+<0027> none
+
+//<0028> none
+<0028> none
+
+//<0029> se_kyupeen
+<0029> se_kyupeen
+
+//<0030> none
+<0030> none
+
+//<0031> None
+<0031> None
+{6fab} 07 // 0031
+
+//<0032> se_punch
+<0032> se_punch
+
+//<0033> none
+<0033> none
+
+//<0034> se_kyupeen
+<0034> se_kyupeen
+
+//<0035> nothing
+<0035> nothing
+
+//<0036> nothing
+<0036> nothing
+
+//<0037> nothing
+<0037> nothing
+
+//<0038> nothing
+<0038> nothing
+
+//<0039> nothing
+<0039> nothing
+
+//<0040> nothing
+<0040> nothing
+
+//<0041> nothing
+<0041> nothing
+
+//<0042> nothing
+<0042> nothing
+
+//<0043> nothing
+<0043> nothing
+
+//<0044> nothing
+<0044> nothing
+
+//<0045> nothing
+<0045> nothing
+
+//<0046> 
+<0046> 
+
+//<0047> 
+<0047> 
+
+//<0048> nothing
+<0048> nothing
+
+//<0049> None
+<0049> None
+
+//<0050> nothing
+<0050> nothing
+
+//<0051> nothing
+<0051> nothing
+
+//<0052> nothing
+<0052> nothing
+
+//<0053> nothing
+<0053> nothing
+
+//<0054> nothing
+<0054> nothing
+
+//<0055> nothing
+<0055> nothing
+
+//<0056> nothing
+<0056> nothing
+
+//<0057> nothing
+<0057> nothing
+
+//<0058> nothing
+<0058> nothing
+
+//<0059> nothing
+<0059> nothing
+
+//<0060> nothing
+<0060> nothing
+
+//<0061> 
+<0061> 
+
+//<0062> 
+<0062> 
+
+//<0063> nothing
+<0063> nothing
+
+//<0064> se_punch
+<0064> se_punch
+
+//<0065> nothing
+<0065> nothing
+
+//<0066> nothing
+<0066> nothing
+
+//<0067> nothing
+<0067> nothing
+
+//<0068> nothing
+<0068> nothing
+
+//<0069> nothing
+<0069> nothing
+
+//<0070> nothing
+<0070> nothing
+
+//<0071> nothing
+<0071> nothing
+
+//<0072> nothing
+<0072> nothing
+
+//<0073> nothing
+<0073> nothing
+
+//<0074> nothing
+<0074> nothing
+
+//<0075> nothing
+<0075> nothing
+
+//<0076> 
+<0076> 
+
+//<0077> 
+<0077> 
+
+//<0078> nothing
+<0078> nothing
+
+//<0079> nothing
+<0079> nothing
+
+//<0080> nothing
+<0080> nothing
+
+//<0081> nothing
+<0081> nothing
+
+//<0082> nothing
+<0082> nothing
+
+//<0083> nothing
+<0083> nothing
+
+//<0084> nothing
+<0084> nothing
+
+//<0085> 
+<0085> 
+
+//<0086> 
+<0086> 
+
+//<0087> nothing
+<0087> nothing
+
+//<0088> nothing
+<0088> nothing
+
+//<0089> nothing
+<0089> nothing
+
+//<0090> nothing
+<0090> nothing
+
+//<0091> nothing
+<0091> nothing
+
+//<0092> nothing
+<0092> nothing
+
+//<0093> nothing
+<0093> nothing
+
+//<0094> nothing
+<0094> nothing
+
+//<0095> 
+<0095> 
+
+//<0096> 
+<0096> 
+
+//<0097> nothing
+<0097> nothing
+
+//<0098> dummy
+<0098> dummy
+
+//<0099> ef_battle_info
+<0099> ef_battle_info
+
+//<0100> ef_battle_combo_bg
+<0100> ef_battle_combo_bg
+
+//<0101> ef_battle_combo_bg
+<0101> ef_battle_combo_bg
+
+//<0102> ef_battle_combo_hit
+<0102> ef_battle_combo_hit
+
+//<0103> ef_battle_combo_number
+<0103> ef_battle_combo_number
+
+//<0104> ef_battle_combo_number
+<0104> ef_battle_combo_number
+
+//<0105> ef_battle_combo_number
+<0105> ef_battle_combo_number
+
+//<0106> ef_battle_result
+<0106> ef_battle_result
+
+//<0107> ef_battle_knockout
+<0107> ef_battle_knockout
+
+//<0108> ef_battle_knockout
+<0108> ef_battle_knockout
+
+//<0109> se_ko
+<0109> se_ko
+
+//<0110> bs3_nd0505
+<0110> bs3_nd0505
+
+//<0111> bs3_nd0505
+<0111> bs3_nd0505
+
+//<0112> bs3_nd0504_07
+<0112> bs3_nd0504_07
+
+//<0113> bs3_nd0404_05
+<0113> bs3_nd0404_05
+
+//<0114> bs3_nd0403_06
+<0114> bs3_nd0403_06
+
+//<0115> se_bassari
+<0115> se_bassari
+
+//<0116> se_blade
+<0116> se_blade
+
+//<0117> se_bassari
+<0117> se_bassari
+
+//<0118> se_blade
+<0118> se_blade
+
+//<0119> bs3_ot0104
+<0119> bs3_ot0104
+
+//<0120> bs3_ot0104
+<0120> bs3_ot0104
+
+//<0121> bs3_ot0104
+<0121> bs3_ot0104
+
+//<0122> bs3_ot0104
+<0122> bs3_ot0104
+
+//<0123> bs3_ot0104
+<0123> bs3_ot0104
+
+//<0124> bs3_ot0104
+<0124> bs3_ot0104
+
+//<0125> bs3_nd0505
+<0125> bs3_nd0505
+
+//<0126> bs3_nd0505
+<0126> bs3_nd0505
+
+//<0127> bs3_nd0505
+<0127> bs3_nd0505
+
+//<0128> bs3_nd0505
+<0128> bs3_nd0505
+
+//<0129> bs3_nd0505
+<0129> bs3_nd0505
+
+//<0130> bs3_nd0505
+<0130> bs3_nd0505
+
+//<0131> bs3_ot0104
+<0131> bs3_ot0104
+
+//<0132> bs3_ot0104
+<0132> bs3_ot0104
+
+//<0133> bs3_ot0104
+<0133> bs3_ot0104
+
+//<0134> bs3_ot0104
+<0134> bs3_ot0104
+
+//<0135> bs3_ot0104
+<0135> bs3_ot0104
+
+//<0136> bs3_ot0104
+<0136> bs3_ot0104
+
+//<0137> bs3_nd0505
+<0137> bs3_nd0505
+
+//<0138> bs3_nd0505
+<0138> bs3_nd0505
+
+//<0139> bs3_nd0505
+<0139> bs3_nd0505
+
+//<0140> bs3_nd0505
+<0140> bs3_nd0505
+
+//<0141> bs3_nd0505
+<0141> bs3_nd0505
+
+//<0142> bs3_nd0505
+<0142> bs3_nd0505
+
+//<0143> bs3_ot0107
+<0143> bs3_ot0107
+
+//<0144> bs3_ot0107
+<0144> bs3_ot0107
+
+//<0145> bs3_ot0107
+<0145> bs3_ot0107
+
+//<0146> bs3_ot0107
+<0146> bs3_ot0107
+
+//<0147> bs3_ot0107
+<0147> bs3_ot0107
+
+//<0148> bs3_ot0107
+<0148> bs3_ot0107
+
+//<0149> bs3_nd0504_05
+<0149> bs3_nd0504_05
+
+//<0150> bs3_nd0504_05
+<0150> bs3_nd0504_05
+
+//<0151> bs3_nd0504_05
+<0151> bs3_nd0504_05
+
+//<0152> bs3_nd0504_05
+<0152> bs3_nd0504_05
+
+//<0153> bs3_nd0504_05
+<0153> bs3_nd0504_05
+
+//<0154> bs3_nd0504_05
+<0154> bs3_nd0504_05
+
+//<0155> bs3_nd0403_06
+<0155> bs3_nd0403_06
+
+//<0156> bs3_nd0403_06
+<0156> bs3_nd0403_06
+
+//<0157> bs3_nd0403_06
+<0157> bs3_nd0403_06
+
+//<0158> bs3_nd0403_06
+<0158> bs3_nd0403_06
+
+//<0159> bs3_nd0403_06
+<0159> bs3_nd0403_06
+
+//<0160> bs3_nd0403_06
+<0160> bs3_nd0403_06
+
+//<0161> se_bassari
+<0161> se_bassari
+
+//<0162> se_blade
+<0162> se_blade
+
+//<0163> ef_sline_bg
+<0163> ef_sline_bg
+
+//<0164> ef_sline_v
+<0164> ef_sline_v
+

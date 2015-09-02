@@ -1,0 +1,11 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> dummy
+<0000> dummy
+
+//<0001> sys_mw_info00
+<0001> sys_mw_info00
+

@@ -1,0 +1,552 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> sys_sa_page_cbtn01
+<0000> sys_sa_page_cbtn01
+
+//<0001> sys_sa_page_cbtn02
+<0001> sys_sa_page_cbtn02
+
+//<0002> sys_sa_page000
+<0002> sys_sa_page000
+
+//<0003> sys_sa_page101
+<0003> sys_sa_page101
+
+//<0004> sys_sa_page102
+<0004> sys_sa_page102
+
+//<0005> sys_sa_helpbtn00
+<0005> sys_sa_helpbtn00
+
+//<0006> sys_sa_page
+<0006> sys_sa_page
+
+//<0007> sys_sa_page
+<0007> sys_sa_page
+
+//<0008> sys_sa_data01
+<0008> sys_sa_data01
+
+//<0009> sys_sa_data02
+<0009> sys_sa_data02
+
+//<0010> sys_sa_lockbtn00
+<0010> sys_sa_lockbtn00
+
+//<0011> sys_sa_sbtn01
+<0011> sys_sa_sbtn01
+
+//<0012> sys_sa_mark01
+<0012> sys_sa_mark01
+
+//<0013> sys_sa_mark02
+<0013> sys_sa_mark02
+
+//<0014> sys_sa_sbtn02
+<0014> sys_sa_sbtn02
+
+//<0015> sys_sa_num00
+<0015> sys_sa_num00
+
+//<0016> sys_lo_page_cbtn01
+<0016> sys_lo_page_cbtn01
+
+//<0017> sys_lo_page_cbtn02
+<0017> sys_lo_page_cbtn02
+
+//<0018> sys_lo_page000
+<0018> sys_lo_page000
+
+//<0019> sys_lo_page101
+<0019> sys_lo_page101
+
+//<0020> sys_lo_page102
+<0020> sys_lo_page102
+
+//<0021> sys_lo_helpbtn00
+<0021> sys_lo_helpbtn00
+
+//<0022> sys_lo_page
+<0022> sys_lo_page
+
+//<0023> sys_lo_page
+<0023> sys_lo_page
+
+//<0024> sys_lo_data01
+<0024> sys_lo_data01
+
+//<0025> sys_lo_data02
+<0025> sys_lo_data02
+
+//<0026> sys_lo_lockbtn00
+<0026> sys_lo_lockbtn00
+
+//<0027> sys_lo_sbtn01
+<0027> sys_lo_sbtn01
+
+//<0028> sys_lo_mark01
+<0028> sys_lo_mark01
+
+//<0029> sys_lo_mark02
+<0029> sys_lo_mark02
+
+//<0030> sys_lo_sbtn02
+<0030> sys_lo_sbtn02
+
+//<0031> sys_lo_num00
+<0031> sys_lo_num00
+
+//<0032> 
+<0032> 
+
+//<0033> 
+<0033> 
+
+//<0034> (
+<0034> (
+
+//<0035> )
+<0035> )
+
+//<0036> /
+<0036> /
+
+//<0037>  
+<0037>  
+
+//<0038> :
+<0038> :
+
+//<0039> 
+<0039> 
+
+//<0040> 
+<0040> 
+
+//<0041> (
+<0041> (
+
+//<0042> )
+<0042> )
+
+//<0043> /
+<0043> /
+
+//<0044>  
+<0044>  
+
+//<0045> :
+<0045> :
+
+//<0046> 
+<0046> 
+
+//<0047> 
+<0047> 
+
+//<0048> (
+<0048> (
+
+//<0049> )
+<0049> )
+
+//<0050> /
+<0050> /
+
+//<0051>  
+<0051>  
+
+//<0052> :
+<0052> :
+
+//<0053> 
+<0053> 
+
+//<0054> 
+<0054> 
+
+//<0055> (
+<0055> (
+
+//<0056> )
+<0056> )
+
+//<0057> /
+<0057> /
+
+//<0058>  
+<0058>  
+
+//<0059> :
+<0059> :
+
+//<0060> 
+<0060> 
+
+//<0061> 
+<0061> 
+
+//<0062> (
+<0062> (
+
+//<0063> )
+<0063> )
+
+//<0064> /
+<0064> /
+
+//<0065>  
+<0065>  
+
+//<0066> :
+<0066> :
+
+//<0067> 
+<0067> 
+
+//<0068> 
+<0068> 
+
+//<0069> (
+<0069> (
+
+//<0070> )
+<0070> )
+
+//<0071> /
+<0071> /
+
+//<0072>  
+<0072>  
+
+//<0073> :
+<0073> :
+
+//<0074> 
+<0074> 
+
+//<0075> 
+<0075> 
+
+//<0076> (
+<0076> (
+
+//<0077> )
+<0077> )
+
+//<0078> /
+<0078> /
+
+//<0079>  
+<0079>  
+
+//<0080> :
+<0080> :
+
+//<0081> 
+<0081> 
+
+//<0082> 
+<0082> 
+
+//<0083> (
+<0083> (
+
+//<0084> )
+<0084> )
+
+//<0085> /
+<0085> /
+
+//<0086>  
+<0086>  
+
+//<0087> :
+<0087> :
+
+//<0088> 
+<0088> 
+
+//<0089> 
+<0089> 
+
+//<0090> (
+<0090> (
+
+//<0091> )
+<0091> )
+
+//<0092> /
+<0092> /
+
+//<0093>  
+<0093>  
+
+//<0094> :
+<0094> :
+
+//<0095> 
+<0095> 
+
+//<0096> 
+<0096> 
+
+//<0097> (
+<0097> (
+
+//<0098> )
+<0098> )
+
+//<0099> /
+<0099> /
+
+//<0100>  
+<0100>  
+
+//<0101> :
+<0101> :
+
+//<0102> 
+<0102> 
+
+//<0103> 
+<0103> 
+
+//<0104> 
+<0104> 
+
+//<0105> 
+<0105> 
+
+//<0106>  クリックでコメントを入力できます
+<0106>  クリックでコメントを入力できます
+
+//<0107> 1st_beat
+<0107> 1st_beat
+
+//<0108> 2nd_beat
+<0108> 2nd_beat
+
+//<0109> 3rd_beat
+<0109> 3rd_beat
+
+//<0110> 4th_beat
+<0110> 4th_beat
+
+//<0111> 5th_beat
+<0111> 5th_beat
+
+//<0112> 6th_beat
+<0112> 6th_beat
+
+//<0113> 
+<0113> 
+
+//<0114> 
+<0114> 
+
+//<0115> (
+<0115> (
+
+//<0116> )
+<0116> )
+
+//<0117> /
+<0117> /
+
+//<0118>  
+<0118>  
+
+//<0119> :
+<0119> :
+
+//<0120> 1st_beat
+<0120> 1st_beat
+
+//<0121> 2nd_beat
+<0121> 2nd_beat
+
+//<0122> 3rd_beat
+<0122> 3rd_beat
+
+//<0123> 4th_beat
+<0123> 4th_beat
+
+//<0124> 5th_beat
+<0124> 5th_beat
+
+//<0125> 6th_beat
+<0125> 6th_beat
+
+//<0126> 
+<0126> 
+
+//<0127> 
+<0127> 
+
+//<0128> セーブできてないよ
+<0128> セーブできてないよ
+
+//<0129> $sys_change_mark
+<0129> $sys_change_mark
+{2a3e5} 23 // 0129
+
+//<0130> dummy
+<0130> dummy
+
+//<0131> _sys_menu_cf01
+<0131> _sys_menu_cf01
+
+//<0132> sys_sm_page01
+<0132> sys_sm_page01
+
+//<0133> sys_sm_page02
+<0133> sys_sm_page02
+
+//<0134> sys_sm_page03
+<0134> sys_sm_page03
+
+//<0135> sys_sm_page04
+<0135> sys_sm_page04
+
+//<0136> sys_sm_page05
+<0136> sys_sm_page05
+
+//<0137> sys_sm_page06
+<0137> sys_sm_page06
+
+//<0138> sys_sl_page_info00
+<0138> sys_sl_page_info00
+
+//<0139> sys_sl_page_info_num00
+<0139> sys_sl_page_info_num00
+
+//<0140> sys_sl_page_info_num00
+<0140> sys_sl_page_info_num00
+
+//<0141> sys_sl_page_info_num00
+<0141> sys_sl_page_info_num00
+
+//<0142> sys_sa_bg00
+<0142> sys_sa_bg00
+
+//<0143> sys_lo_bg00
+<0143> sys_lo_bg00
+
+//<0144> sys_sl_page_info_bg00
+<0144> sys_sl_page_info_bg00
+
+//<0145> sys_sa_setbtn_bg00
+<0145> sys_sa_setbtn_bg00
+
+//<0146> sys_sa_setbtn01
+<0146> sys_sa_setbtn01
+
+//<0147> sys_sa_setbtn02
+<0147> sys_sa_setbtn02
+
+//<0148> sys_sa_chk00
+<0148> sys_sa_chk00
+
+//<0149> sys_lo_setbtn_bg00
+<0149> sys_lo_setbtn_bg00
+
+//<0150> sys_lo_setbtn01
+<0150> sys_lo_setbtn01
+
+//<0151> sys_lo_setbtn02
+<0151> sys_lo_setbtn02
+
+//<0152> sys_lo_chk00
+<0152> sys_lo_chk00
+
+//<0153> sys_sa_setbtn_bg00
+<0153> sys_sa_setbtn_bg00
+
+//<0154> sys_sa_setbtn01
+<0154> sys_sa_setbtn01
+
+//<0155> sys_sa_setbtn02
+<0155> sys_sa_setbtn02
+
+//<0156> sys_sa_chk00
+<0156> sys_sa_chk00
+
+//<0157> sys_lo_setbtn_bg00
+<0157> sys_lo_setbtn_bg00
+
+//<0158> sys_lo_setbtn01
+<0158> sys_lo_setbtn01
+
+//<0159> sys_lo_setbtn02
+<0159> sys_lo_setbtn02
+
+//<0160> sys_lo_chk00
+<0160> sys_lo_chk00
+
+//<0161> sys_sa_setbtn_bg00
+<0161> sys_sa_setbtn_bg00
+
+//<0162> sys_sa_setbtn01
+<0162> sys_sa_setbtn01
+
+//<0163> sys_sa_setbtn02
+<0163> sys_sa_setbtn02
+
+//<0164> sys_sa_chk00
+<0164> sys_sa_chk00
+
+//<0165> sys_lo_setbtn_bg00
+<0165> sys_lo_setbtn_bg00
+
+//<0166> sys_lo_setbtn01
+<0166> sys_lo_setbtn01
+
+//<0167> sys_lo_setbtn02
+<0167> sys_lo_setbtn02
+
+//<0168> sys_lo_chk00
+<0168> sys_lo_chk00
+
+//<0169> sys_sa_info01
+<0169> sys_sa_info01
+
+//<0170> sys_sa_info01
+<0170> sys_sa_info01
+
+//<0171> sys_sa_info02
+<0171> sys_sa_info02
+
+//<0172> sys_lo_info00
+<0172> sys_lo_info00
+
+//<0173> sys_sa_info02
+<0173> sys_sa_info02
+
+//<0174> sys_lo_info00
+<0174> sys_lo_info00
+
+//<0175> sys_sa_chkmark00
+<0175> sys_sa_chkmark00
+
+//<0176> sys_mw_setbtn_bg00
+<0176> sys_mw_setbtn_bg00
+
+//<0177> sys_sa_setbtn01
+<0177> sys_sa_setbtn01
+
+//<0178> sys_sa_setbtn02
+<0178> sys_sa_setbtn02
+
+//<0179> sys_sa_chk00
+<0179> sys_sa_chk00
+
+//<0180> bg_kuro
+<0180> bg_kuro
+
+//<0181> bg_kuro
+<0181> bg_kuro
+

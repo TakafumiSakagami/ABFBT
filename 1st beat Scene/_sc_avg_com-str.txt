@@ -1,0 +1,23 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 日向
+<0000> 日向
+
+//<0001> かなで
+<0001> かなで
+
+//<0002> 松下
+<0002> 松下
+
+//<0003> 音無
+<0003> 音無
+
+//<0004> dummy
+<0004> dummy
+
+//<0005> sys_ve_icon00
+<0005> sys_ve_icon00
+

@@ -1,0 +1,21 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> nothing
+<0000> nothing
+
+//<0001> nothing
+<0001> nothing
+
+//<0002> 
+<0002> 
+
+//<0003> 
+<0003> 
+{0a3c} 0a // 0003
+
+//<0004> dummy
+<0004> dummy
+

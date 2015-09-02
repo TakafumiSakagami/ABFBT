@@ -1,0 +1,74 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> ef_em21
+<0000> ef_em21
+
+//<0001> ef_em21
+<0001> ef_em21
+
+//<0002> sd_em37
+<0002> sd_em37
+
+//<0003> ef_sline0
+<0003> ef_sline0
+
+//<0004> ef_sline0
+<0004> ef_sline0
+
+//<0005> ef_recollect0
+<0005> ef_recollect0
+
+//<0006> ef_spark02
+<0006> ef_spark02
+
+//<0007> ef_spark01
+<0007> ef_spark01
+
+//<0008> ef_glitter01
+<0008> ef_glitter01
+
+//<0009> ef_glitter02
+<0009> ef_glitter02
+
+//<0010> ef_glitter03
+<0010> ef_glitter03
+
+//<0011> ef_twinkle01
+<0011> ef_twinkle01
+
+//<0012> ef_twinkle02
+<0012> ef_twinkle02
+
+//<0013> dummy
+<0013> dummy
+
+//<0014> bg_kuro
+<0014> bg_kuro
+
+//<0015> bg_kuro
+<0015> bg_kuro
+
+//<0016> bg_kuro
+<0016> bg_kuro
+
+//<0017> bg_kuro
+<0017> bg_kuro
+
+//<0018> ef_hblast00
+<0018> ef_hblast00
+
+//<0019> ef_unrest01
+<0019> ef_unrest01
+
+//<0020> sd_em21b
+<0020> sd_em21b
+
+//<0021> ef_steam01
+<0021> ef_steam01
+
+//<0022> ef_sunset01
+<0022> ef_sunset01
+

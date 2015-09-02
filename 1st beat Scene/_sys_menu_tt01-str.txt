@@ -1,0 +1,126 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> dummy
+<0000> dummy
+
+//<0001> m102
+<0001> m102
+
+//<0002> m202
+<0002> m202
+
+//<0003> sys_tm_ef01
+<0003> sys_tm_ef01
+
+//<0004> sys_tm_1st_bg01
+<0004> sys_tm_1st_bg01
+
+//<0005> sys_tm_1st_bg01
+<0005> sys_tm_1st_bg01
+
+//<0006> sys_tm_1st_bg02
+<0006> sys_tm_1st_bg02
+
+//<0007> sys_tm_1st_bg03
+<0007> sys_tm_1st_bg03
+
+//<0008> sys_tm_ef02
+<0008> sys_tm_ef02
+
+//<0009> evsp_1401
+<0009> evsp_1401
+
+//<0010> sys_tm_1st_btn11
+<0010> sys_tm_1st_btn11
+
+//<0011> sys_tm_1st_btn12
+<0011> sys_tm_1st_btn12
+
+//<0012> sys_tm_1st_btn13
+<0012> sys_tm_1st_btn13
+
+//<0013> sys_tm_1st_btn14
+<0013> sys_tm_1st_btn14
+
+//<0014> sys_tm_1st_btn15
+<0014> sys_tm_1st_btn15
+
+//<0015> sys_tm_1st_btn16
+<0015> sys_tm_1st_btn16
+
+//<0016> sys_tm_1st_btn17
+<0016> sys_tm_1st_btn17
+
+//<0017> sys_tm_1st_btn01
+<0017> sys_tm_1st_btn01
+
+//<0018> sys_tm_1st_btn02
+<0018> sys_tm_1st_btn02
+
+//<0019> sys_tm_1st_btn03
+<0019> sys_tm_1st_btn03
+
+//<0020> sys_tm_1st_btn04
+<0020> sys_tm_1st_btn04
+
+//<0021> sys_tm_1st_btn05
+<0021> sys_tm_1st_btn05
+
+//<0022> sys_tm_1st_btn06
+<0022> sys_tm_1st_btn06
+
+//<0023> sys_tm_1st_btn07
+<0023> sys_tm_1st_btn07
+
+//<0024> bg_siro
+<0024> bg_siro
+
+//<0025> sys_logo01
+<0025> sys_logo01
+
+//<0026> bg_siro
+<0026> bg_siro
+
+//<0027> sys_tm_1st_bg04
+<0027> sys_tm_1st_bg04
+
+//<0028> sys_tm_1st_logo01
+<0028> sys_tm_1st_logo01
+
+//<0029> sys_tm_1st_logo02
+<0029> sys_tm_1st_logo02
+
+//<0030> sys_tm_1st_btn00
+<0030> sys_tm_1st_btn00
+
+//<0031> bg_siro
+<0031> bg_siro
+
+//<0032> bg_siro
+<0032> bg_siro
+
+//<0033> bg_kuro
+<0033> bg_kuro
+
+//<0034> bg_kuro
+<0034> bg_kuro
+
+//<0035> _sys_menu_sl01
+<0035> _sys_menu_sl01
+{9a6d} 04 // 0035
+
+//<0036> _sys_menu_cf01
+<0036> _sys_menu_cf01
+
+//<0037> bg_kuro
+<0037> bg_kuro
+
+//<0038> _extra_mode
+<0038> _extra_mode
+
+//<0039> bg_kuro
+<0039> bg_kuro
+

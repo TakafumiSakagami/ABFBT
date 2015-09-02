@@ -1,0 +1,20 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> dummy
+<0000> dummy
+
+//<0001> hidechin_kyuff
+<0001> hidechin_kyuff
+
+//<0002> 99_ゲームメイン
+<0002> 99_ゲームメイン
+
+//<0003> dummy
+<0003> dummy
+
+//<0004> sys_tm_war00
+<0004> sys_tm_war00
+

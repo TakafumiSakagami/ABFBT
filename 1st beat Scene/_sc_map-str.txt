@@ -1,0 +1,367 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 【ゆり】_【戦線本部】
+<0000> 【ゆり】_【戦線本部】
+
+//<0001> 【かなで】_【学習棟Ｂ棟_教室】
+<0001> 【かなで】_【学習棟Ｂ棟_教室】
+
+//<0002> 【かなで】_【学習棟Ｂ棟_廊下】
+<0002> 【かなで】_【学習棟Ｂ棟_廊下】
+
+//<0003> 【かなで】_【学習棟Ａ棟_廊下】
+<0003> 【かなで】_【学習棟Ａ棟_廊下】
+
+//<0004> 【岩沢】_【学習棟Ａ棟_空き教室】
+<0004> 【岩沢】_【学習棟Ａ棟_空き教室】
+
+//<0005> 【ユイ】_【駐車場】
+<0005> 【ユイ】_【駐車場】
+
+//<0006> 【ユイ】_【学習棟Ｂ棟_廊下】
+<0006> 【ユイ】_【学習棟Ｂ棟_廊下】
+
+//<0007> 【松下】_【体育館裏】
+<0007> 【松下】_【体育館裏】
+
+//<0008> 【日向】_【野球場】
+<0008> 【日向】_【野球場】
+
+//<0009> 【ひさ子】_【学習棟Ａ棟_空き教室】
+<0009> 【ひさ子】_【学習棟Ａ棟_空き教室】
+
+//<0010> 【野田】_【第二連絡橋下_河原】
+<0010> 【野田】_【第二連絡橋下_河原】
+
+//<0011> 【ＴＫ】_【学習棟Ｂ棟_廊下】
+<0011> 【ＴＫ】_【学習棟Ｂ棟_廊下】
+
+//<0012> 【図書館】
+<0012> 【図書館】
+
+//<0013> 【大食堂】
+<0013> 【大食堂】
+
+//<0014> 【保健室】
+<0014> 【保健室】
+
+//<0015> 【ガルデモ】_【学習棟Ａ棟_空き教室】
+<0015> 【ガルデモ】_【学習棟Ａ棟_空き教室】
+
+//<0016> 【大山】_【男子寮】
+<0016> 【大山】_【男子寮】
+
+//<0017> 【松下スリム】_【体育館裏】
+<0017> 【松下スリム】_【体育館裏】
+
+//<0018> ◆マップ選択_【
+<0018> ◆マップ選択_【
+
+//<0019> 日目
+<0019> 日目
+
+//<0020> 午前】_
+<0020> 午前】_
+
+//<0021> 午後】_
+<0021> 午後】_
+
+//<0022> dummy
+<0022> dummy
+
+//<0023> bg_siro
+<0023> bg_siro
+
+//<0024> sys_ecatch00
+<0024> sys_ecatch00
+
+//<0025> sys_ecatch00
+<0025> sys_ecatch00
+{0677} 7e // 0025
+
+//<0026> bg_siro
+<0026> bg_siro
+
+//<0027> bg_kuro
+<0027> bg_kuro
+
+//<0028> m302
+<0028> m302
+{0bf7} 1e // 0028
+
+//<0029> sys_bk_selline00
+<0029> sys_bk_selline00
+{0cc0} 02 // 0029
+
+//<0030> bg_kuro
+<0030> bg_kuro
+{a3a3} 1f // 0030
+
+//<0031> sys_mp_bg00
+<0031> sys_mp_bg00
+
+//<0032> sys_mp_bg01
+<0032> sys_mp_bg01
+
+//<0033> sys_mp_bg02
+<0033> sys_mp_bg02
+
+//<0034> sys_mp_bg03
+<0034> sys_mp_bg03
+
+//<0035> sys_mp_bg04
+<0035> sys_mp_bg04
+
+//<0036> sys_mp_spot00
+<0036> sys_mp_spot00
+
+//<0037> sys_mp_cha00
+<0037> sys_mp_cha00
+
+//<0038> sys_mp_selcname01
+<0038> sys_mp_selcname01
+
+//<0039> sys_mp_selcname02a
+<0039> sys_mp_selcname02a
+
+//<0040> sys_mp_selcname03
+<0040> sys_mp_selcname03
+
+//<0041> sys_mp_selcname04
+<0041> sys_mp_selcname04
+
+//<0042> sys_mp_selcname05
+<0042> sys_mp_selcname05
+
+//<0043> sys_mp_selcname06a
+<0043> sys_mp_selcname06a
+
+//<0044> sys_mp_selcname07
+<0044> sys_mp_selcname07
+
+//<0045> sys_mp_selcname08a
+<0045> sys_mp_selcname08a
+
+//<0046> sys_mp_selcname09
+<0046> sys_mp_selcname09
+
+//<0047> sys_mp_selcname10
+<0047> sys_mp_selcname10
+
+//<0048> sys_mp_selcname10
+<0048> sys_mp_selcname10
+
+//<0049> sys_mp_selcname10
+<0049> sys_mp_selcname10
+
+//<0050> sys_mp_selcname10
+<0050> sys_mp_selcname10
+
+//<0051> sys_mp_selcname11
+<0051> sys_mp_selcname11
+
+//<0052> sys_mp_selcname05
+<0052> sys_mp_selcname05
+
+//<0053> sys_mp_selcname10
+<0053> sys_mp_selcname10
+
+//<0054> sys_mp_selcname02b
+<0054> sys_mp_selcname02b
+
+//<0055> sys_mp_selcname02a
+<0055> sys_mp_selcname02a
+
+//<0056> sys_mp_selcname06a
+<0056> sys_mp_selcname06a
+
+//<0057> sys_mp_selcname06b
+<0057> sys_mp_selcname06b
+
+//<0058> sys_mp_selcname06c
+<0058> sys_mp_selcname06c
+
+//<0059> sys_mp_selcname06d
+<0059> sys_mp_selcname06d
+
+//<0060> sys_mp_selcname06e
+<0060> sys_mp_selcname06e
+
+//<0061> sys_mp_selcname08a
+<0061> sys_mp_selcname08a
+
+//<0062> sys_mp_selcname08b
+<0062> sys_mp_selcname08b
+{f225} 03 // 0062
+
+//<0063> sys_mp_selbtn01
+<0063> sys_mp_selbtn01
+
+//<0064> sys_mp_selbtn01b
+<0064> sys_mp_selbtn01b
+
+//<0065> sys_mp_selbtn02
+<0065> sys_mp_selbtn02
+
+//<0066> sys_mp_selbtn02b
+<0066> sys_mp_selbtn02b
+
+//<0067> sys_mp_selbtn01
+<0067> sys_mp_selbtn01
+
+//<0068> sys_mp_selbtn01b
+<0068> sys_mp_selbtn01b
+
+//<0069> sys_mp_selbtn01
+<0069> sys_mp_selbtn01
+
+//<0070> sys_mp_selbtn01b
+<0070> sys_mp_selbtn01b
+
+//<0071> sys_mp_selbtn01
+<0071> sys_mp_selbtn01
+
+//<0072> sys_mp_selbtn01b
+<0072> sys_mp_selbtn01b
+
+//<0073> sys_mp_selbtn01
+<0073> sys_mp_selbtn01
+
+//<0074> sys_mp_selbtn01b
+<0074> sys_mp_selbtn01b
+
+//<0075> sys_mp_selbtn01
+<0075> sys_mp_selbtn01
+
+//<0076> sys_mp_selbtn01b
+<0076> sys_mp_selbtn01b
+
+//<0077> sys_mp_selbtn02
+<0077> sys_mp_selbtn02
+
+//<0078> sys_mp_selbtn02b
+<0078> sys_mp_selbtn02b
+
+//<0079> sys_mp_selbtn02
+<0079> sys_mp_selbtn02
+
+//<0080> sys_mp_selbtn02b
+<0080> sys_mp_selbtn02b
+
+//<0081> sys_mp_selbtn02
+<0081> sys_mp_selbtn02
+
+//<0082> sys_mp_selbtn02b
+<0082> sys_mp_selbtn02b
+
+//<0083> sys_mp_selbtn02
+<0083> sys_mp_selbtn02
+
+//<0084> sys_mp_selbtn02b
+<0084> sys_mp_selbtn02b
+
+//<0085> sys_mp_selbtn01
+<0085> sys_mp_selbtn01
+
+//<0086> sys_mp_selbtn01b
+<0086> sys_mp_selbtn01b
+
+//<0087> sys_mp_selbtn01
+<0087> sys_mp_selbtn01
+
+//<0088> sys_mp_selbtn01b
+<0088> sys_mp_selbtn01b
+
+//<0089> sys_mp_selbtn01
+<0089> sys_mp_selbtn01
+
+//<0090> sys_mp_selbtn01b
+<0090> sys_mp_selbtn01b
+
+//<0091> sys_mp_selbtn01
+<0091> sys_mp_selbtn01
+
+//<0092> sys_mp_selbtn01b
+<0092> sys_mp_selbtn01b
+
+//<0093> sys_mp_selbtn02
+<0093> sys_mp_selbtn02
+
+//<0094> sys_mp_selbtn02b
+<0094> sys_mp_selbtn02b
+
+//<0095> sys_mp_selbtn04
+<0095> sys_mp_selbtn04
+
+//<0096> sys_mp_selbtn04b
+<0096> sys_mp_selbtn04b
+
+//<0097> sys_mp_selbtn02
+<0097> sys_mp_selbtn02
+
+//<0098> sys_mp_selbtn02b
+<0098> sys_mp_selbtn02b
+
+//<0099> sys_mp_selbtn02
+<0099> sys_mp_selbtn02
+
+//<0100> sys_mp_selbtn02b
+<0100> sys_mp_selbtn02b
+
+//<0101> sys_mp_selbtn04
+<0101> sys_mp_selbtn04
+
+//<0102> sys_mp_selbtn04b
+<0102> sys_mp_selbtn04b
+
+//<0103> sys_mp_selbtn02
+<0103> sys_mp_selbtn02
+
+//<0104> sys_mp_selbtn02b
+<0104> sys_mp_selbtn02b
+
+//<0105> sys_mp_selbtn02
+<0105> sys_mp_selbtn02
+
+//<0106> sys_mp_selbtn02b
+<0106> sys_mp_selbtn02b
+
+//<0107> sys_mp_selbtn04
+<0107> sys_mp_selbtn04
+
+//<0108> sys_mp_selbtn04b
+<0108> sys_mp_selbtn04b
+
+//<0109> sys_mp_selbtn02
+<0109> sys_mp_selbtn02
+
+//<0110> sys_mp_selbtn02b
+<0110> sys_mp_selbtn02b
+
+//<0111> sys_mp_selbtn04
+<0111> sys_mp_selbtn04
+
+//<0112> sys_mp_selbtn04b
+<0112> sys_mp_selbtn04b
+
+//<0113> sys_mp_selbtn04
+<0113> sys_mp_selbtn04
+
+//<0114> sys_mp_selbtn04b
+<0114> sys_mp_selbtn04b
+
+//<0115> sys_mp_selbtn02
+<0115> sys_mp_selbtn02
+
+//<0116> sys_mp_selbtn02b
+<0116> sys_mp_selbtn02b
+
+//<0117> sys_mp_selbtn02
+<0117> sys_mp_selbtn02
+
+//<0118> sys_mp_selbtn02b
+<0118> sys_mp_selbtn02b
+

@@ -1,0 +1,1097 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> 
+<0000> 
+
+//<0001> thumb_loading
+<0001> thumb_loading
+
+//<0002> 
+<0002> 
+
+//<0003> 
+<0003> 
+
+//<0004> type
+<0004> type
+
+//<0005> wh_over
+<0005> wh_over
+
+//<0006> harmo
+<0006> harmo
+
+//<0007> y_min
+<0007> y_min
+
+//<0008> y_max
+<0008> y_max
+
+//<0009> x_min
+<0009> x_min
+
+//<0010> x_max
+<0010> x_max
+
+//<0011> bg_kuro
+<0011> bg_kuro
+
+//<0012> $on_select_tab_buttons
+<0012> $on_select_tab_buttons
+
+//<0013> $on_select_tab_buttons
+<0013> $on_select_tab_buttons
+
+//<0014> $on_select_tab_buttons
+<0014> $on_select_tab_buttons
+
+//<0015> $on_select_title_button
+<0015> $on_select_title_button
+{6022} 02 // 0015
+
+//<0016> sys_ex_bg01
+<0016> sys_ex_bg01
+
+//<0017> sys_ex_header_explain
+<0017> sys_ex_header_explain
+
+//<0018> $frame_action_manage_patno
+<0018> $frame_action_manage_patno
+
+//<0019> $on_select_cg_slide_bar
+<0019> $on_select_cg_slide_bar
+
+//<0020> $on_select_cg_slide_bar
+<0020> $on_select_cg_slide_bar
+
+//<0021> thumb_loading
+<0021> thumb_loading
+
+//<0022> sys_ex_cg_diff_bg
+<0022> sys_ex_cg_diff_bg
+
+//<0023> sys_ex_cg_diff_num
+<0023> sys_ex_cg_diff_num
+
+//<0024> sys_ex_cg_diff_num
+<0024> sys_ex_cg_diff_num
+
+//<0025> sys_ex_cg_diff_num
+<0025> sys_ex_cg_diff_num
+
+//<0026> sys_ex_cg_diff_num
+<0026> sys_ex_cg_diff_num
+
+//<0027> sys_ex_cg_diff_num
+<0027> sys_ex_cg_diff_num
+
+//<0028> 
+<0028> 
+
+//<0029> M102
+<0029> M102
+
+//<0030> 
+<0030> 
+
+//<0031> themeofSSS
+<0031> themeofSSS
+
+//<0032> 01
+<0032> 01
+
+//<0033> M103
+<0033> M103
+
+//<0034> N103
+<0034> N103
+
+//<0035> schooldays
+<0035> schooldays
+
+//<0036> 01
+<0036> 01
+
+//<0037> M104
+<0037> M104
+
+//<0038> N104
+<0038> N104
+
+//<0039> girlshop
+<0039> girlshop
+
+//<0040> 01
+<0040> 01
+
+//<0041> M105
+<0041> M105
+
+//<0042> N105
+<0042> N105
+
+//<0043> artofwar
+<0043> artofwar
+
+//<0044> 01
+<0044> 01
+
+//<0045> M106
+<0045> M106
+
+//<0046> N106
+<0046> N106
+
+//<0047> todayisok
+<0047> todayisok
+
+//<0048> 01
+<0048> 01
+
+//<0049> M107
+<0049> M107
+
+//<0050> N107
+<0050> N107
+
+//<0051> memory
+<0051> memory
+
+//<0052> 01
+<0052> 01
+
+//<0053> M108
+<0053> M108
+
+//<0054> 
+<0054> 
+
+//<0055> mymostprecioustreasure
+<0055> mymostprecioustreasure
+
+//<0056> 02
+<0056> 02
+
+//<0057> M109
+<0057> M109
+
+//<0058> N109
+<0058> N109
+
+//<0059> tactics
+<0059> tactics
+
+//<0060> 01
+<0060> 01
+
+//<0061> M110
+<0061> M110
+
+//<0062> N110
+<0062> N110
+
+//<0063> enemycountry
+<0063> enemycountry
+
+//<0064> 01
+<0064> 01
+
+//<0065> M111
+<0065> M111
+
+//<0066> N111
+<0066> N111
+
+//<0067> operationstart
+<0067> operationstart
+
+//<0068> 01
+<0068> 01
+
+//<0069> M112
+<0069> M112
+
+//<0070> N112
+<0070> N112
+
+//<0071> decisivebattle
+<0071> decisivebattle
+
+//<0072> 01
+<0072> 01
+
+//<0073> M113
+<0073> M113
+
+//<0074> N113
+<0074> N113
+
+//<0075> attack
+<0075> attack
+
+//<0076> 01
+<0076> 01
+
+//<0077> M114
+<0077> M114
+
+//<0078> N114
+<0078> N114
+
+//<0079> criticalpoint
+<0079> criticalpoint
+
+//<0080> 01
+<0080> 01
+
+//<0081> M115
+<0081> M115
+
+//<0082> N115
+<0082> N115
+
+//<0083> studytime
+<0083> studytime
+
+//<0084> 01
+<0084> 01
+
+//<0085> M116
+<0085> M116
+
+//<0086> N116
+<0086> N116
+
+//<0087> nikuudon
+<0087> nikuudon
+
+//<0088> 01
+<0088> 01
+
+//<0089> M117
+<0089> M117
+
+//<0090> N117
+<0090> N117
+
+//<0091> invention
+<0091> invention
+
+//<0092> 01
+<0092> 01
+
+//<0093> M118
+<0093> M118
+
+//<0094> N118
+<0094> N118
+
+//<0095> toyofspring
+<0095> toyofspring
+
+//<0096> 01
+<0096> 01
+
+//<0097> M119
+<0097> M119
+
+//<0098> N119
+<0098> N119
+
+//<0099> deochi
+<0099> deochi
+
+//<0100> 01
+<0100> 01
+
+//<0101> M120
+<0101> M120
+
+//<0102> N120
+<0102> N120
+
+//<0103> lightdrop
+<0103> lightdrop
+
+//<0104> 01
+<0104> 01
+
+//<0105> M121
+<0105> M121
+
+//<0106> N121
+<0106> N121
+
+//<0107> worthyrival
+<0107> worthyrival
+
+//<0108> 01
+<0108> 01
+
+//<0109> M122
+<0109> M122
+
+//<0110> N122
+<0110> N122
+
+//<0111> burial
+<0111> burial
+
+//<0112> 01
+<0112> 01
+
+//<0113> M123
+<0113> M123
+
+//<0114> N123
+<0114> N123
+
+//<0115> playball
+<0115> playball
+
+//<0116> 01
+<0116> 01
+
+//<0117> M124
+<0117> M124
+
+//<0118> 
+<0118> 
+
+//<0119> walkure
+<0119> walkure
+
+//<0120> 01
+<0120> 01
+
+//<0121> M125
+<0121> M125
+
+//<0122> 
+<0122> 
+
+//<0123> letsoperation
+<0123> letsoperation
+
+//<0124> 01
+<0124> 01
+
+//<0125> M126
+<0125> M126
+
+//<0126> N126
+<0126> N126
+
+//<0127> eveningbreeze
+<0127> eveningbreeze
+
+//<0128> 01
+<0128> 01
+
+//<0129> M127
+<0129> M127
+
+//<0130> N127
+<0130> N127
+
+//<0131> momentofrest
+<0131> momentofrest
+
+//<0132> 01
+<0132> 01
+
+//<0133> M201
+<0133> M201
+
+//<0134> N201
+<0134> N201
+
+//<0135> initialimpulse
+<0135> initialimpulse
+
+//<0136> 01
+<0136> 01
+
+//<0137> M202
+<0137> M202
+
+//<0138> N202
+<0138> N202
+
+//<0139> myheart
+<0139> myheart
+
+//<0140> 02
+<0140> 02
+
+//<0141> M203
+<0141> M203
+
+//<0142> N203
+<0142> N203
+
+//<0143> soulfriends
+<0143> soulfriends
+
+//<0144> 02
+<0144> 02
+
+//<0145> M204
+<0145> M204
+
+//<0146> N204
+<0146> N204
+
+//<0147> kanade
+<0147> kanade
+
+//<0148> 02
+<0148> 02
+
+//<0149> M205
+<0149> M205
+
+//<0150> N205
+<0150> N205
+
+//<0151> mymostprecioustreasureorgel
+<0151> mymostprecioustreasureorgel
+
+//<0152> 02
+<0152> 02
+
+//<0153> M206
+<0153> M206
+
+//<0154> 
+<0154> 
+
+//<0155> memoryorgel
+<0155> memoryorgel
+
+//<0156> 01
+<0156> 01
+
+//<0157> M207
+<0157> M207
+
+//<0158> 
+<0158> 
+
+//<0159> unjustlife
+<0159> unjustlife
+
+//<0160> 01
+<0160> 01
+
+//<0161> M208
+<0161> M208
+
+//<0162> N208
+<0162> N208
+
+//<0163> nocturneintheafternoon
+<0163> nocturneintheafternoon
+
+//<0164> 01
+<0164> 01
+
+//<0165> M209
+<0165> M209
+
+//<0166> N209
+<0166> N209
+
+//<0167> anxiety
+<0167> anxiety
+
+//<0168> 01
+<0168> 01
+
+//<0169> M210
+<0169> M210
+
+//<0170> N210
+<0170> N210
+
+//<0171> abyss
+<0171> abyss
+
+//<0172> 01
+<0172> 01
+
+//<0173> M211
+<0173> M211
+
+//<0174> N211
+<0174> N211
+
+//<0175> alterego
+<0175> alterego
+
+//<0176> 01
+<0176> 01
+
+//<0177> M212
+<0177> M212
+
+//<0178> N212
+<0178> N212
+
+//<0179> siren
+<0179> siren
+
+//<0180> 01
+<0180> 01
+
+//<0181> M213
+<0181> M213
+
+//<0182> N213
+<0182> N213
+
+//<0183> transformstotheshadow
+<0183> transformstotheshadow
+
+//<0184> 01
+<0184> 01
+
+//<0185> M214
+<0185> M214
+
+//<0186> N214
+<0186> N214
+
+//<0187> otonashi
+<0187> otonashi
+
+//<0188> 01
+<0188> 01
+
+//<0189> M215
+<0189> M215
+
+//<0190> N215
+<0190> N215
+
+//<0191> angelsflight
+<0191> angelsflight
+
+//<0192> 01
+<0192> 01
+
+//<0193> M216
+<0193> M216
+
+//<0194> N216
+<0194> N216
+
+//<0195> firingpreparation
+<0195> firingpreparation
+
+//<0196> 01
+<0196> 01
+
+//<0197> M217
+<0197> M217
+
+//<0198> N217
+<0198> N217
+
+//<0199> desperation
+<0199> desperation
+
+//<0200> 01
+<0200> 01
+
+//<0201> M218
+<0201> M218
+
+//<0202> N218
+<0202> N218
+
+//<0203> breakthrough
+<0203> breakthrough
+
+//<0204> 01
+<0204> 01
+
+//<0205> m301
+<0205> m301
+
+//<0206> N301
+<0206> N301
+
+//<0207> sprout
+<0207> sprout
+
+//<0208> 03
+<0208> 03
+
+//<0209> m302
+<0209> m302
+
+//<0210> N302
+<0210> N302
+
+//<0211> somebodydays
+<0211> somebodydays
+
+//<0212> 03
+<0212> 03
+
+//<0213> m303
+<0213> m303
+
+//<0214> N303
+<0214> N303
+
+//<0215> easyoff
+<0215> easyoff
+
+//<0216> 03
+<0216> 03
+
+//<0217> M092
+<0217> M092
+
+//<0218> 
+<0218> 
+
+//<0219> stillhere
+<0219> stillhere
+
+//<0220> 02
+<0220> 02
+
+//<0221> HajimariPf
+<0221> HajimariPf
+
+//<0222> 
+<0222> 
+
+//<0223> beginningoftheend
+<0223> beginningoftheend
+
+//<0224> 04
+<0224> 04
+
+//<0225> M090
+<0225> M090
+
+//<0226> M091
+<0226> M091
+
+//<0227> ufufuthese
+<0227> ufufuthese
+
+//<0228> 05
+<0228> 05
+
+//<0229> HeartilySong
+<0229> HeartilySong
+
+//<0230> 
+<0230> 
+
+//<0231> HeartilySong
+<0231> HeartilySong
+
+//<0232> 08
+<0232> 08
+
+//<0233> CrowSong
+<0233> CrowSong
+
+//<0234> _CrowSong
+<0234> _CrowSong
+
+//<0235> CrowSong
+<0235> CrowSong
+
+//<0236> 06
+<0236> 06
+
+//<0237> Alchemy
+<0237> Alchemy
+
+//<0238> _Alchemy
+<0238> _Alchemy
+
+//<0239> Alchemy
+<0239> Alchemy
+
+//<0240> 06
+<0240> 06
+
+//<0241> MySong
+<0241> MySong
+
+//<0242> _MySong
+<0242> _MySong
+
+//<0243> MySong
+<0243> MySong
+
+//<0244> 06
+<0244> 06
+
+//<0245> MySoul
+<0245> MySoul
+
+//<0246> _MySoul
+<0246> _MySoul
+
+//<0247> MySoulYourBeatsGldemover
+<0247> MySoulYourBeatsGldemover
+
+//<0248> 09
+<0248> 09
+
+//<0249> HotMeal
+<0249> HotMeal
+
+//<0250> _HotMeal
+<0250> _HotMeal
+
+//<0251> HotMeal
+<0251> HotMeal
+
+//<0252> 06
+<0252> 06
+
+//<0253> ThousandEnemies
+<0253> ThousandEnemies
+
+//<0254> _ThousandEnemies
+<0254> _ThousandEnemies
+
+//<0255> ThousandEnemies
+<0255> ThousandEnemies
+
+//<0256> 09
+<0256> 09
+
+//<0257> Treasure1
+<0257> Treasure1
+
+//<0258> _Treasure
+<0258> _Treasure
+
+//<0259> ichibanyui
+<0259> ichibanyui
+
+//<0260> 09
+<0260> 09
+
+//<0261> Hajimari
+<0261> Hajimari
+
+//<0262> 
+<0262> 
+
+//<0263> subeteno
+<0263> subeteno
+
+//<0264> 07
+<0264> 07
+{eb71} 23 // 0264
+
+//<0265> PLAYLIST_
+<0265> PLAYLIST_
+
+//<0266> PLAYLIST_
+<0266> PLAYLIST_
+
+//<0267> none
+<0267> none
+{f3ec} 23 // 0267
+
+//<0268> $on_select_music_title_buttons
+<0268> $on_select_music_title_buttons
+
+//<0269> □
+<0269> □
+
+//<0270> ■
+<0270> ■
+
+//<0271> $on_select_music_check_box_buttons
+<0271> $on_select_music_check_box_buttons
+
+//<0272> $on_select_music_multi_check_buttons
+<0272> $on_select_music_multi_check_buttons
+{111aa} 04 // 0272
+
+//<0273> $on_select_achievement_slide_bar
+<0273> $on_select_achievement_slide_bar
+
+//<0274> $on_select_achievement_slide_bar
+<0274> $on_select_achievement_slide_bar
+
+//<0275> No.
+<0275> No.
+
+//<0276>  #110C
+<0276>  #110C
+
+//<0277> ？？？？？？
+<0277> ？？？？？？
+
+//<0278> #110CNo.
+<0278> #110CNo.
+
+//<0279>  
+<0279>  
+{134ab} 23 // 0279
+
+//<0280> sys_ex_player_volume_bar_w
+<0280> sys_ex_player_volume_bar_w
+
+//<0281> $on_select_music_player_volume
+<0281> $on_select_music_player_volume
+
+//<0282> sys_ex_player_volume_bar_y
+<0282> sys_ex_player_volume_bar_y
+
+//<0283> sys_ex_player_volume_plus_button
+<0283> sys_ex_player_volume_plus_button
+
+//<0284> $on_select_music_player_volume
+<0284> $on_select_music_player_volume
+
+//<0285> sys_ex_player_volume_minus_button
+<0285> sys_ex_player_volume_minus_button
+
+//<0286> $on_select_music_player_volume
+<0286> $on_select_music_player_volume
+{16394} 04 // 0286
+
+//<0287> M109
+<0287> M109
+
+//<0288> M102
+<0288> M102
+
+//<0289> PLAYER_
+<0289> PLAYER_
+
+//<0290> PLAYER_INFO_
+<0290> PLAYER_INFO_
+
+//<0291> 
+<0291> 
+
+//<0292> $on_select_music_player_buttons
+<0292> $on_select_music_player_buttons
+
+//<0293> sys_ex_rate_bg01
+<0293> sys_ex_rate_bg01
+
+//<0294> sys_ex_rate_num
+<0294> sys_ex_rate_num
+
+//<0295> sys_ex_rate_num
+<0295> sys_ex_rate_num
+
+//<0296> sys_ex_rate_num
+<0296> sys_ex_rate_num
+
+//<0297> sys_ex_rate_bg01
+<0297> sys_ex_rate_bg01
+
+//<0298> sys_ex_rate_num
+<0298> sys_ex_rate_num
+
+//<0299> sys_ex_rate_num
+<0299> sys_ex_rate_num
+
+//<0300> sys_ex_rate_num
+<0300> sys_ex_rate_num
+
+//<0301> $frame_action_on_bgm_play
+<0301> $frame_action_on_bgm_play
+
+//<0302> type
+<0302> type
+
+//<0303> default
+<0303> default
+{230e7} 23 // 0303
+
+//<0304> base_face
+<0304> base_face
+{232ad} 23 // 0304
+
+//<0305> base___00
+<0305> base___00
+
+//<0306> face
+<0306> face
+
+//<0307> wh_over
+<0307> wh_over
+
+//<0308> x_min
+<0308> x_min
+
+//<0309> 
+<0309> 
+
+//<0310> x_max
+<0310> x_max
+
+//<0311> 
+<0311> 
+
+//<0312> y_min
+<0312> y_min
+
+//<0313> 
+<0313> 
+
+//<0314> y_max
+<0314> y_max
+
+//<0315> 
+<0315> 
+
+//<0316> x_init
+<0316> x_init
+
+//<0317> 
+<0317> 
+
+//<0318> y_init
+<0318> y_init
+
+//<0319> 
+<0319> 
+
+//<0320> harmo
+<0320> harmo
+
+//<0321> x_init
+<0321> x_init
+
+//<0322> 
+<0322> 
+
+//<0323> y_init
+<0323> y_init
+
+//<0324> 
+<0324> 
+
+//<0325> 
+<0325> 
+
+//<0326> 
+<0326> 
+
+//<0327> 
+<0327> 
+
+//<0328> ,
+<0328> ,
+
+//<0329> =
+<0329> =
+
+//<0330> =
+<0330> =
+
+//<0331> dummy
+<0331> dummy
+
+//<0332> sys_ex_graphic_menu_button
+<0332> sys_ex_graphic_menu_button
+
+//<0333> sys_ex_music_menu_button
+<0333> sys_ex_music_menu_button
+
+//<0334> sys_ex_record_menu_button
+<0334> sys_ex_record_menu_button
+{57e0} 04 // 0334
+
+//<0335> sys_sm_page02
+<0335> sys_sm_page02
+
+//<0336> sys_ex_right_bar_paddle
+<0336> sys_ex_right_bar_paddle
+
+//<0337> sys_ex_right_bar_bg_collision
+<0337> sys_ex_right_bar_bg_collision
+
+//<0338> sys_ex_right_bar_bg
+<0338> sys_ex_right_bar_bg
+
+//<0339> sys_ex_cg_none
+<0339> sys_ex_cg_none
+
+//<0340> sys_ex_music_check
+<0340> sys_ex_music_check
+
+//<0341> sys_ex_music_check_all
+<0341> sys_ex_music_check_all
+
+//<0342> sys_ex_music_uncheck_all
+<0342> sys_ex_music_uncheck_all
+
+//<0343> sys_ex_music_check_gldemo
+<0343> sys_ex_music_check_gldemo
+
+//<0344> sys_ex_right_bar_paddle
+<0344> sys_ex_right_bar_paddle
+
+//<0345> sys_ex_right_bar_bg_collision
+<0345> sys_ex_right_bar_bg_collision
+
+//<0346> sys_ex_right_bar_bg
+<0346> sys_ex_right_bar_bg
+
+//<0347> sys_ex_record_title_bg
+<0347> sys_ex_record_title_bg
+
+//<0348> sys_ex_player_prev_button
+<0348> sys_ex_player_prev_button
+
+//<0349> sys_ex_player_stop_button
+<0349> sys_ex_player_stop_button
+
+//<0350> sys_ex_player_pause_button
+<0350> sys_ex_player_pause_button
+
+//<0351> sys_ex_player_play_button
+<0351> sys_ex_player_play_button
+
+//<0352> sys_ex_player_next_button
+<0352> sys_ex_player_next_button
+
+//<0353> sys_ex_player_repeat_button
+<0353> sys_ex_player_repeat_button
+
+//<0354> sys_ex_player_shuffle_button
+<0354> sys_ex_player_shuffle_button
+
+//<0355> sys_ex_player_play_button
+<0355> sys_ex_player_play_button
+
+//<0356> sys_ex_player_play_button
+<0356> sys_ex_player_play_button
+
+//<0357> sys_ex_player_play_button
+<0357> sys_ex_player_play_button
+
+//<0358> sys_ex_player_play_button
+<0358> sys_ex_player_play_button
+
+//<0359> sys_ex_player_play_button
+<0359> sys_ex_player_play_button
+
+//<0360> sys_ex_player_play_button
+<0360> sys_ex_player_play_button
+

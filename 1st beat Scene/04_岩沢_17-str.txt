@@ -1,0 +1,39 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> nothing
+<0000> nothing
+
+//<0001> nothing
+<0001> nothing
+
+//<0002> nothing
+<0002> nothing
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> nothing
+<0004> nothing
+
+//<0005> ガルデモは練習中だ。
+<0005> ガルデモは練習中だ。
+
+//<0006> 一瞬だけ岩沢の歌う姿を見て、その場から立ち去る。
+<0006> 一瞬だけ岩沢の歌う姿を見て、その場から立ち去る。
+
+//<0007> dummy
+<0007> dummy
+
+//<0008> ep03_bg015
+<0008> ep03_bg015
+{009b} 0a // 0008
+
+//<0009> bs2_iw0104_08
+<0009> bs2_iw0104_08
+
+//<0010> bg_kuro
+<0010> bg_kuro
+

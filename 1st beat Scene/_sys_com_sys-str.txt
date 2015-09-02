@@ -1,0 +1,123 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> $qs_action1
+<0000> $qs_action1
+{b16f} 60 // 0000
+
+//<0001> $qs_action2
+<0001> $qs_action2
+
+//<0002> dummy
+<0002> dummy
+
+//<0003> sys_mw_setbtn_bg00
+<0003> sys_mw_setbtn_bg00
+
+//<0004> sys_sa_setbtn01
+<0004> sys_sa_setbtn01
+
+//<0005> sys_sa_setbtn02
+<0005> sys_sa_setbtn02
+
+//<0006> sys_sa_chk00
+<0006> sys_sa_chk00
+
+//<0007> bg_kuro
+<0007> bg_kuro
+
+//<0008> sys_mw_setbtn_bg00
+<0008> sys_mw_setbtn_bg00
+
+//<0009> sys_lo_setbtn01
+<0009> sys_lo_setbtn01
+
+//<0010> sys_lo_setbtn02
+<0010> sys_lo_setbtn02
+
+//<0011> sys_lo_chk00
+<0011> sys_lo_chk00
+
+//<0012> bg_kuro
+<0012> bg_kuro
+
+//<0013> bg_kuro
+<0013> bg_kuro
+
+//<0014> sys_mw_setbtn_bg00
+<0014> sys_mw_setbtn_bg00
+
+//<0015> sys_sa_setbtn01
+<0015> sys_sa_setbtn01
+
+//<0016> sys_sa_setbtn02
+<0016> sys_sa_setbtn02
+
+//<0017> sys_sa_chk00
+<0017> sys_sa_chk00
+
+//<0018> bg_kuro
+<0018> bg_kuro
+
+//<0019> bg_kuro
+<0019> bg_kuro
+
+//<0020> sys_mw_info00
+<0020> sys_mw_info00
+
+//<0021> sys_mw_setbtn_bg00
+<0021> sys_mw_setbtn_bg00
+
+//<0022> sys_sa_setbtn01
+<0022> sys_sa_setbtn01
+
+//<0023> sys_sa_setbtn02
+<0023> sys_sa_setbtn02
+
+//<0024> sys_sa_chk00
+<0024> sys_sa_chk00
+
+//<0025> bg_kuro
+<0025> bg_kuro
+
+//<0026> bg_kuro
+<0026> bg_kuro
+
+//<0027> sys_mw_setbtn_bg00
+<0027> sys_mw_setbtn_bg00
+
+//<0028> sys_sa_setbtn01
+<0028> sys_sa_setbtn01
+
+//<0029> sys_sa_setbtn02
+<0029> sys_sa_setbtn02
+
+//<0030> sys_sa_chk00
+<0030> sys_sa_chk00
+
+//<0031> bg_kuro
+<0031> bg_kuro
+
+//<0032> bg_kuro
+<0032> bg_kuro
+
+//<0033> sys_bk_setbtn_bg00
+<0033> sys_bk_setbtn_bg00
+
+//<0034> sys_bk_setbtn01
+<0034> sys_bk_setbtn01
+
+//<0035> sys_bk_setbtn02
+<0035> sys_bk_setbtn02
+
+//<0036> sys_bk_chk00
+<0036> sys_bk_chk00
+
+//<0037> bg_kuro
+<0037> bg_kuro
+
+//<0038> bg_kuro
+<0038> bg_kuro
+

@@ -1,0 +1,279 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> none
+<0000> none
+
+//<0001> none
+<0001> none
+
+//<0002> cutin_maskc
+<0002> cutin_maskc
+
+//<0003> cutin_maskl
+<0003> cutin_maskl
+
+//<0004> cutin_maskr
+<0004> cutin_maskr
+
+//<0005> cutin_maskl2
+<0005> cutin_maskl2
+
+//<0006> cutin_maskr2
+<0006> cutin_maskr2
+
+//<0007> cutin_masku
+<0007> cutin_masku
+
+//<0008> cutin_masku
+<0008> cutin_masku
+
+//<0009> cutin_masku
+<0009> cutin_masku
+
+//<0010> none
+<0010> none
+
+//<0011> none
+<0011> none
+{40eb} 23 // 0011
+
+//<0012> bs
+<0012> bs
+
+//<0013> bs2_
+<0013> bs2_
+
+//<0014> nothing
+<0014> nothing
+
+//<0015> nothing
+<0015> nothing
+
+//<0016> nothing
+<0016> nothing
+
+//<0017> nothing
+<0017> nothing
+
+//<0018> nothing
+<0018> nothing
+
+//<0019> 9999
+<0019> 9999
+
+//<0020> nothing
+<0020> nothing
+
+//<0021> nothing
+<0021> nothing
+
+//<0022> nothing
+<0022> nothing
+
+//<0023> nothing
+<0023> nothing
+
+//<0024> nothing
+<0024> nothing
+
+//<0025> 9999
+<0025> 9999
+
+//<0026> 9999
+<0026> 9999
+
+//<0027> 9999
+<0027> 9999
+
+//<0028> 9999
+<0028> 9999
+
+//<0029> 9999
+<0029> 9999
+
+//<0030> bs
+<0030> bs
+
+//<0031> bs2_
+<0031> bs2_
+
+//<0032> OT
+<0032> OT
+
+//<0033> KN
+<0033> KN
+
+//<0034> YR
+<0034> YR
+
+//<0035> HN
+<0035> HN
+
+//<0036> YI
+<0036> YI
+
+//<0037> IW
+<0037> IW
+
+//<0038> MT
+<0038> MT
+
+//<0039> MS
+<0039> MS
+
+//<0040> ND
+<0040> ND
+
+//<0041> TM
+<0041> TM
+
+//<0042> OY
+<0042> OY
+
+//<0043> FJ
+<0043> FJ
+
+//<0044> TK
+<0044> TK
+
+//<0045> SN
+<0045> SN
+
+//<0046> YS
+<0046> YS
+
+//<0047> HS
+<0047> HS
+
+//<0048> SK
+<0048> SK
+
+//<0049> IR
+<0049> IR
+
+//<0050> CH
+<0050> CH
+
+//<0051> TY
+<0051> TY
+
+//<0052> NA
+<0052> NA
+
+//<0053> ST
+<0053> ST
+
+//<0054> IG
+<0054> IG
+
+//<0055> A1
+<0055> A1
+
+//<0056> A2
+<0056> A2
+
+//<0057> K1
+<0057> K1
+
+//<0058> K2
+<0058> K2
+
+//<0059> K3
+<0059> K3
+
+//<0060> K4
+<0060> K4
+
+//<0061> ef_cutin_kn01(0, 0, 1) | ef_cutin_kn01(0, 0, 2)
+<0061> ef_cutin_kn01(0, 0, 1) | ef_cutin_kn01(0, 0, 2)
+
+//<0062> ef_cutin_kn01(0, 0, 4) | ef_cutin_kn01(0, 0, 5)
+<0062> ef_cutin_kn01(0, 0, 4) | ef_cutin_kn01(0, 0, 5)
+
+//<0063> ef_cutin_kn01
+<0063> ef_cutin_kn01
+
+//<0064> ef_cutin_kn01
+<0064> ef_cutin_kn01
+
+//<0065> ef_cutin_kn01
+<0065> ef_cutin_kn01
+
+//<0066> dummy
+<0066> dummy
+
+//<0067> bg_kuro
+<0067> bg_kuro
+
+//<0068> cutin_border01
+<0068> cutin_border01
+
+//<0069> cutin_border01
+<0069> cutin_border01
+
+//<0070> cutin_border01
+<0070> cutin_border01
+
+//<0071> cutin_border01
+<0071> cutin_border01
+
+//<0072> cutin_border03
+<0072> cutin_border03
+
+//<0073> cutin_border03
+<0073> cutin_border03
+
+//<0074> cutin_border02
+<0074> cutin_border02
+
+//<0075> cutin_border02
+<0075> cutin_border02
+
+//<0076> cutin_border02
+<0076> cutin_border02
+
+//<0077> cutin_border02
+<0077> cutin_border02
+
+//<0078> cutin_border02
+<0078> cutin_border02
+
+//<0079> cutin_border02
+<0079> cutin_border02
+
+//<0080> cutin_border02
+<0080> cutin_border02
+
+//<0081> cutin_border02
+<0081> cutin_border02
+
+//<0082> cutin_border02
+<0082> cutin_border02
+
+//<0083> cutin_border02
+<0083> cutin_border02
+
+//<0084> cutin_border02
+<0084> cutin_border02
+
+//<0085> cutin_border02
+<0085> cutin_border02
+
+//<0086> evyi_0613
+<0086> evyi_0613
+
+//<0087> ep88_bg043
+<0087> ep88_bg043
+
+//<0088> ep02_bg064
+<0088> ep02_bg064
+
+//<0089> bg_siro
+<0089> bg_siro
+
+//<0090> ep08_bg020
+<0090> ep08_bg020
+

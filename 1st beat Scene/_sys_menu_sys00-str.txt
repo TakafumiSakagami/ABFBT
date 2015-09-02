@@ -1,0 +1,128 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> $Menu_btn_disp
+<0000> $Menu_btn_disp
+
+//<0001> $Menu_btn_disp
+<0001> $Menu_btn_disp
+
+//<0002> $Menu_btn_disp
+<0002> $Menu_btn_disp
+
+//<0003> $Menu_btn_disp
+<0003> $Menu_btn_disp
+
+//<0004> $Menu_btn_disp
+<0004> $Menu_btn_disp
+
+//<0005> $Menu_btn_disp
+<0005> $Menu_btn_disp
+
+//<0006> $Menu_btn_disp
+<0006> $Menu_btn_disp
+
+//<0007> $Menu_btn_disp
+<0007> $Menu_btn_disp
+
+//<0008> $Menu_btn_disp
+<0008> $Menu_btn_disp
+
+//<0009> $Menu_btn_disp
+<0009> $Menu_btn_disp
+
+//<0010> $Menu_btn_disp
+<0010> $Menu_btn_disp
+
+//<0011> $Menu_btn_disp
+<0011> $Menu_btn_disp
+
+//<0012> dummy
+<0012> dummy
+
+//<0013> _sys_menu_sl01
+<0013> _sys_menu_sl01
+
+//<0014> _sys_menu_sl01
+<0014> _sys_menu_sl01
+
+//<0015> _sys_menu_cf01
+<0015> _sys_menu_cf01
+
+//<0016> sys_qm_bg00
+<0016> sys_qm_bg00
+
+//<0017> sys_qm_btn01
+<0017> sys_qm_btn01
+
+//<0018> sys_qm_btn02
+<0018> sys_qm_btn02
+
+//<0019> sys_qm_btn03
+<0019> sys_qm_btn03
+
+//<0020> sys_qm_btn04
+<0020> sys_qm_btn04
+
+//<0021> sys_qm_btn05
+<0021> sys_qm_btn05
+
+//<0022> sys_qm_btn06
+<0022> sys_qm_btn06
+
+//<0023> sys_qm_btn01b
+<0023> sys_qm_btn01b
+
+//<0024> sys_qm_btn02b
+<0024> sys_qm_btn02b
+
+//<0025> sys_qm_btn03b
+<0025> sys_qm_btn03b
+
+//<0026> sys_qm_btn04b
+<0026> sys_qm_btn04b
+
+//<0027> sys_qm_btn05b
+<0027> sys_qm_btn05b
+
+//<0028> sys_qm_btn06b
+<0028> sys_qm_btn06b
+
+//<0029> sys_qm_selbtn00
+<0029> sys_qm_selbtn00
+
+//<0030> sys_qm_selbtn00
+<0030> sys_qm_selbtn00
+
+//<0031> sys_qm_selbtn00
+<0031> sys_qm_selbtn00
+
+//<0032> sys_qm_selbtn00
+<0032> sys_qm_selbtn00
+
+//<0033> sys_qm_selbtn00
+<0033> sys_qm_selbtn00
+
+//<0034> sys_qm_selbtn00
+<0034> sys_qm_selbtn00
+
+//<0035> sys_mw_setbtn_bg00
+<0035> sys_mw_setbtn_bg00
+
+//<0036> sys_sa_setbtn01
+<0036> sys_sa_setbtn01
+
+//<0037> sys_sa_setbtn02
+<0037> sys_sa_setbtn02
+
+//<0038> sys_sa_chk00
+<0038> sys_sa_chk00
+
+//<0039> bg_kuro
+<0039> bg_kuro
+
+//<0040> bg_kuro
+<0040> bg_kuro
+

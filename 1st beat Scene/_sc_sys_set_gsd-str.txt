@@ -1,0 +1,41 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> nothing
+<0000> nothing
+
+//<0001> nothing
+<0001> nothing
+
+//<0002> nothing
+<0002> nothing
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> nothing
+<0004> nothing
+
+//<0005> nothing
+<0005> nothing
+
+//<0006> _sys_com_mwnd
+<0006> _sys_com_mwnd
+
+//<0007> $msg_btn_watch
+<0007> $msg_btn_watch
+
+//<0008> 現在の@Days = 
+<0008> 現在の@Days = 
+
+//<0009> dummy
+<0009> dummy
+
+//<0010> sys_day_num02
+<0010> sys_day_num02
+
+//<0011> sys_mw01_btnpos00
+<0011> sys_mw01_btnpos00
+

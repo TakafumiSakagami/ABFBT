@@ -1,0 +1,145 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> -1st beat- タイトルメニュー
+<0000> -1st beat- タイトルメニュー
+
+//<0001> -1st beat- EPISODE.11 Change the World
+<0001> -1st beat- EPISODE.11 Change the World
+
+//<0002> 00_AB20a_day27
+<0002> 00_AB20a_day27
+
+//<0003> 
+<0003> 
+{033c} 07 // 0003
+
+//<0004> -1st beat- EPISODE.01 Departure
+<0004> -1st beat- EPISODE.01 Departure
+
+//<0005> 00_AB01a_day00
+<0005> 00_AB01a_day00
+
+//<0006> 00_AB01b_day01
+<0006> 00_AB01b_day01
+
+//<0007> -1st beat- EPISODE.02 Guild
+<0007> -1st beat- EPISODE.02 Guild
+
+//<0008> 00_AB02a_day02
+<0008> 00_AB02a_day02
+
+//<0009> -1st beat- EPISODE.03 My Song
+<0009> -1st beat- EPISODE.03 My Song
+
+//<0010> 00_AB03a_day03
+<0010> 00_AB03a_day03
+
+//<0011> 00_AB04a_day04
+<0011> 00_AB04a_day04
+
+//<0012> 00_AB05a_day05
+<0012> 00_AB05a_day05
+
+//<0013> -1st beat- EPISODE.04 Day Game
+<0013> -1st beat- EPISODE.04 Day Game
+
+//<0014> 00_AB06a_day06
+<0014> 00_AB06a_day06
+
+//<0015> 00_AB06b_day06
+<0015> 00_AB06b_day06
+
+//<0016> 00_AB07a_day07
+<0016> 00_AB07a_day07
+
+//<0017> -1st beat- EPISODE.05 Favorite Flavor
+<0017> -1st beat- EPISODE.05 Favorite Flavor
+
+//<0018> 00_AB08a_day08
+<0018> 00_AB08a_day08
+
+//<0019> 00_AB09a_day09-15
+<0019> 00_AB09a_day09-15
+
+//<0020> 00_AB09b_day09-15
+<0020> 00_AB09b_day09-15
+
+//<0021> 00_AB09c_day09-15
+<0021> 00_AB09c_day09-15
+
+//<0022> 00_AB10a_day16-17
+<0022> 00_AB10a_day16-17
+
+//<0023> -1st beat- EPISODE.06 Family Affair
+<0023> -1st beat- EPISODE.06 Family Affair
+
+//<0024> 00_AB11a_day18
+<0024> 00_AB11a_day18
+
+//<0025> 00_AB12a_day19
+<0025> 00_AB12a_day19
+
+//<0026> 00_AB13a_day20
+<0026> 00_AB13a_day20
+
+//<0027> 00_AB14a_day21
+<0027> 00_AB14a_day21
+
+//<0028> 00_AB14b_day21
+<0028> 00_AB14b_day21
+
+//<0029> -1st beat- EPISODE.07 Alive
+<0029> -1st beat- EPISODE.07 Alive
+
+//<0030> 00_AB15a_day22
+<0030> 00_AB15a_day22
+
+//<0031> 00_AB15b_day23
+<0031> 00_AB15b_day23
+
+//<0032> -1st beat- EPISODE.08 Dancer in the Dark
+<0032> -1st beat- EPISODE.08 Dancer in the Dark
+
+//<0033> 00_AB16a_day24
+<0033> 00_AB16a_day24
+
+//<0034> 00_AB17a_day25
+<0034> 00_AB17a_day25
+
+//<0035> 00_AB17b_day25
+<0035> 00_AB17b_day25
+
+//<0036> 00_AB18a_day26
+<0036> 00_AB18a_day26
+
+//<0037> -1st beat- EPISODE.10 Goodbye Days
+<0037> -1st beat- EPISODE.10 Goodbye Days
+
+//<0038> 00_AB19a_day27
+<0038> 00_AB19a_day27
+
+//<0039> dummy
+<0039> dummy
+
+//<0040> _sys_menu_tt01
+<0040> _sys_menu_tt01
+
+//<0041> bg_siro
+<0041> bg_siro
+
+//<0042> sys_logo01
+<0042> sys_logo01
+
+//<0043> bg_kuro
+<0043> bg_kuro
+
+//<0044> bg_kuro
+<0044> bg_kuro
+{090d} 06 // 0044
+
+//<0045> bg_kuro
+<0045> bg_kuro
+

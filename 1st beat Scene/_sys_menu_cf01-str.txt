@@ -1,0 +1,803 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> モトヤLシータ゛3等幅
+<0000> モトヤLシータ゛3等幅
+
+//<0001> モトヤLマルベリ3等幅
+<0001> モトヤLマルベリ3等幅
+
+//<0002> テキストの速度表示サンプルです。
+<0002> テキストの速度表示サンプルです。
+
+//<0003> モトヤLシータ゛3等幅
+<0003> モトヤLシータ゛3等幅
+
+//<0004> モトヤLマルベリ3等幅
+<0004> モトヤLマルベリ3等幅
+
+//<0005> モトヤLシータ゛3等幅
+<0005> モトヤLシータ゛3等幅
+
+//<0006> モトヤLマルベリ3等幅
+<0006> モトヤLマルベリ3等幅
+
+//<0007> モトヤLシータ゛3等幅
+<0007> モトヤLシータ゛3等幅
+
+//<0008> モトヤLマルベリ3等幅
+<0008> モトヤLマルベリ3等幅
+{67a95} 8e // 0008
+
+//<0009> モトヤLシータ゛3等幅
+<0009> モトヤLシータ゛3等幅
+{67f7e} 12a // 0009
+
+//<0010> dummy
+<0010> dummy
+
+//<0011> _sys_menu_sl01
+<0011> _sys_menu_sl01
+
+//<0012> sys_cf_page01
+<0012> sys_cf_page01
+
+//<0013> sys_cf_page02
+<0013> sys_cf_page02
+
+//<0014> sys_cf_page03
+<0014> sys_cf_page03
+
+//<0015> sys_sm_page01
+<0015> sys_sm_page01
+
+//<0016> sys_sm_page02
+<0016> sys_sm_page02
+
+//<0017> sys_sm_page03
+<0017> sys_sm_page03
+
+//<0018> sys_sm_page04
+<0018> sys_sm_page04
+
+//<0019> sys_sm_page05
+<0019> sys_sm_page05
+
+//<0020> sys_sm_page06
+<0020> sys_sm_page06
+
+//<0021> sys_cf_bg01
+<0021> sys_cf_bg01
+
+//<0022> sys_cf_btn01
+<0022> sys_cf_btn01
+
+//<0023> sys_cf_btn02
+<0023> sys_cf_btn02
+
+//<0024> sys_cf_btn03
+<0024> sys_cf_btn03
+
+//<0025> sys_cf_btn04
+<0025> sys_cf_btn04
+
+//<0026> sys_cf_btn05
+<0026> sys_cf_btn05
+
+//<0027> sys_cf_btn06
+<0027> sys_cf_btn06
+
+//<0028> sys_cf_btn07
+<0028> sys_cf_btn07
+
+//<0029> sys_cf_btn06
+<0029> sys_cf_btn06
+
+//<0030> sys_cf_btn07
+<0030> sys_cf_btn07
+
+//<0031> sys_cf_btn06
+<0031> sys_cf_btn06
+
+//<0032> sys_cf_btn07
+<0032> sys_cf_btn07
+
+//<0033> sys_cf_btn06
+<0033> sys_cf_btn06
+
+//<0034> sys_cf_btn07
+<0034> sys_cf_btn07
+
+//<0035> sys_cf_btn06
+<0035> sys_cf_btn06
+
+//<0036> sys_cf_btn07
+<0036> sys_cf_btn07
+
+//<0037> sys_cf_btn08
+<0037> sys_cf_btn08
+
+//<0038> sys_cf_btn09
+<0038> sys_cf_btn09
+
+//<0039> sys_cf_btn10
+<0039> sys_cf_btn10
+
+//<0040> sys_cf_btn11
+<0040> sys_cf_btn11
+
+//<0041> sys_cf_btn12
+<0041> sys_cf_btn12
+
+//<0042> sys_cf_btn13
+<0042> sys_cf_btn13
+
+//<0043> sys_cf_btn04
+<0043> sys_cf_btn04
+
+//<0044> sys_cf_btn05
+<0044> sys_cf_btn05
+
+//<0045> sys_cf_btn14
+<0045> sys_cf_btn14
+
+//<0046> sys_cf_btn15
+<0046> sys_cf_btn15
+
+//<0047> sys_cf_btn16
+<0047> sys_cf_btn16
+
+//<0048> sys_cf_btn17
+<0048> sys_cf_btn17
+
+//<0049> sys_cf_btn18
+<0049> sys_cf_btn18
+
+//<0050> sys_cf_btn19
+<0050> sys_cf_btn19
+
+//<0051> sys_cf_btn20
+<0051> sys_cf_btn20
+
+//<0052> sys_cf_btn21
+<0052> sys_cf_btn21
+
+//<0053> sys_cf_btn22
+<0053> sys_cf_btn22
+
+//<0054> sys_cf_btn23
+<0054> sys_cf_btn23
+
+//<0055> sys_cf_btn24
+<0055> sys_cf_btn24
+
+//<0056> sys_cf_btn25
+<0056> sys_cf_btn25
+
+//<0057> sys_cf_btn26
+<0057> sys_cf_btn26
+
+//<0058> sys_cf_chk01
+<0058> sys_cf_chk01
+
+//<0059> sys_cf_chk02
+<0059> sys_cf_chk02
+
+//<0060> sys_cf_btn27
+<0060> sys_cf_btn27
+
+//<0061> sys_cf_bg02
+<0061> sys_cf_bg02
+
+//<0062> sys_cf_btn28
+<0062> sys_cf_btn28
+
+//<0063> sys_cf_btn29
+<0063> sys_cf_btn29
+
+//<0064> sys_cf_btn30
+<0064> sys_cf_btn30
+
+//<0065> sys_cf_chk03
+<0065> sys_cf_chk03
+
+//<0066> sys_cf_bar01
+<0066> sys_cf_bar01
+
+//<0067> sys_cf_ctl01
+<0067> sys_cf_ctl01
+
+//<0068> sys_cf_bar01
+<0068> sys_cf_bar01
+
+//<0069> sys_cf_btn31
+<0069> sys_cf_btn31
+
+//<0070> sys_cf_bar02
+<0070> sys_cf_bar02
+
+//<0071> sys_cf_ctl01
+<0071> sys_cf_ctl01
+
+//<0072> sys_cf_bar02
+<0072> sys_cf_bar02
+
+//<0073> sys_cf_bar03
+<0073> sys_cf_bar03
+
+//<0074> sys_cf_ctl01
+<0074> sys_cf_ctl01
+
+//<0075> sys_cf_bar03
+<0075> sys_cf_bar03
+
+//<0076> sys_cf_bar04
+<0076> sys_cf_bar04
+
+//<0077> sys_cf_ctl01
+<0077> sys_cf_ctl01
+
+//<0078> sys_cf_bar04
+<0078> sys_cf_bar04
+
+//<0079> sys_cf_bar05
+<0079> sys_cf_bar05
+
+//<0080> sys_cf_ctl01
+<0080> sys_cf_ctl01
+
+//<0081> sys_cf_bar05
+<0081> sys_cf_bar05
+
+//<0082> sys_cf_msfilter00
+<0082> sys_cf_msfilter00
+
+//<0083> sys_cf_btn31
+<0083> sys_cf_btn31
+
+//<0084> sys_cf_chk04
+<0084> sys_cf_chk04
+
+//<0085> sys_cf_bar06
+<0085> sys_cf_bar06
+
+//<0086> sys_cf_ctl01
+<0086> sys_cf_ctl01
+
+//<0087> sys_cf_bar06
+<0087> sys_cf_bar06
+
+//<0088> sys_cf_bar06
+<0088> sys_cf_bar06
+
+//<0089> sys_cf_ctl01
+<0089> sys_cf_ctl01
+
+//<0090> sys_cf_bar06
+<0090> sys_cf_bar06
+
+//<0091> sys_cf_num00
+<0091> sys_cf_num00
+
+//<0092> sys_cf_num00
+<0092> sys_cf_num00
+
+//<0093> sys_cf_num00
+<0093> sys_cf_num00
+
+//<0094> sys_cf_num00
+<0094> sys_cf_num00
+
+//<0095> sys_cf_num00
+<0095> sys_cf_num00
+
+//<0096> sys_cf_num00
+<0096> sys_cf_num00
+
+//<0097> sys_cf_num00
+<0097> sys_cf_num00
+
+//<0098> sys_cf_num00
+<0098> sys_cf_num00
+
+//<0099> sys_cf_num00
+<0099> sys_cf_num00
+
+//<0100> sys_cf_btn31
+<0100> sys_cf_btn31
+
+//<0101> sys_cf_bg03
+<0101> sys_cf_bg03
+
+//<0102> sys_cf_chk05
+<0102> sys_cf_chk05
+
+//<0103> sys_cf_bar01
+<0103> sys_cf_bar01
+
+//<0104> sys_cf_ctl01
+<0104> sys_cf_ctl01
+
+//<0105> sys_cf_bar01
+<0105> sys_cf_bar01
+
+//<0106> sys_cf_chk06
+<0106> sys_cf_chk06
+
+//<0107> sys_cf_bar01
+<0107> sys_cf_bar01
+
+//<0108> sys_cf_ctl01
+<0108> sys_cf_ctl01
+
+//<0109> sys_cf_bar01
+<0109> sys_cf_bar01
+
+//<0110> sys_cf_chk07
+<0110> sys_cf_chk07
+
+//<0111> sys_cf_bar01
+<0111> sys_cf_bar01
+
+//<0112> sys_cf_ctl01
+<0112> sys_cf_ctl01
+
+//<0113> sys_cf_bar01
+<0113> sys_cf_bar01
+
+//<0114> sys_cf_chk08
+<0114> sys_cf_chk08
+
+//<0115> sys_cf_bar01
+<0115> sys_cf_bar01
+
+//<0116> sys_cf_ctl01
+<0116> sys_cf_ctl01
+
+//<0117> sys_cf_bar01
+<0117> sys_cf_bar01
+
+//<0118> sys_cf_chk09
+<0118> sys_cf_chk09
+
+//<0119> sys_cf_bar01
+<0119> sys_cf_bar01
+
+//<0120> sys_cf_ctl01
+<0120> sys_cf_ctl01
+
+//<0121> sys_cf_bar01
+<0121> sys_cf_bar01
+
+//<0122> sys_cf_chk10
+<0122> sys_cf_chk10
+
+//<0123> sys_cf_bar01
+<0123> sys_cf_bar01
+
+//<0124> sys_cf_ctl01
+<0124> sys_cf_ctl01
+
+//<0125> sys_cf_bar01
+<0125> sys_cf_bar01
+
+//<0126> sys_cf_chk11
+<0126> sys_cf_chk11
+
+//<0127> sys_cf_bar01
+<0127> sys_cf_bar01
+
+//<0128> sys_cf_ctl01
+<0128> sys_cf_ctl01
+
+//<0129> sys_cf_bar01
+<0129> sys_cf_bar01
+
+//<0130> sys_cf_btn31
+<0130> sys_cf_btn31
+
+//<0131> sys_cf_btn32
+<0131> sys_cf_btn32
+
+//<0132> sys_cf_btn32
+<0132> sys_cf_btn32
+
+//<0133> sys_cf_btn32
+<0133> sys_cf_btn32
+
+//<0134> sys_cf_btn32
+<0134> sys_cf_btn32
+
+//<0135> sys_cf_btn32
+<0135> sys_cf_btn32
+
+//<0136> sys_cf_btn32
+<0136> sys_cf_btn32
+
+//<0137> sys_cf_btn32
+<0137> sys_cf_btn32
+
+//<0138> sys_cf_chk12
+<0138> sys_cf_chk12
+
+//<0139> sys_cf_cvbtn01
+<0139> sys_cf_cvbtn01
+
+//<0140> sys_cf_cvbtn02
+<0140> sys_cf_cvbtn02
+
+//<0141> sys_cf_cvbtn03
+<0141> sys_cf_cvbtn03
+
+//<0142> sys_cf_cvbtn04
+<0142> sys_cf_cvbtn04
+
+//<0143> sys_cf_cvbtn05
+<0143> sys_cf_cvbtn05
+
+//<0144> sys_cf_cvbtn06
+<0144> sys_cf_cvbtn06
+
+//<0145> sys_cf_cvbtn07
+<0145> sys_cf_cvbtn07
+
+//<0146> sys_cf_cvbtn08
+<0146> sys_cf_cvbtn08
+
+//<0147> sys_cf_cvbtn09
+<0147> sys_cf_cvbtn09
+
+//<0148> sys_cf_cvbtn10
+<0148> sys_cf_cvbtn10
+
+//<0149> sys_cf_cvbtn11
+<0149> sys_cf_cvbtn11
+
+//<0150> sys_cf_cvbtn12
+<0150> sys_cf_cvbtn12
+
+//<0151> sys_cf_cvbtn13
+<0151> sys_cf_cvbtn13
+
+//<0152> sys_cf_cvbtn14
+<0152> sys_cf_cvbtn14
+
+//<0153> sys_cf_cvbtn15
+<0153> sys_cf_cvbtn15
+
+//<0154> sys_cf_cvbtn16
+<0154> sys_cf_cvbtn16
+
+//<0155> sys_cf_cvbtn17
+<0155> sys_cf_cvbtn17
+
+//<0156> sys_cf_cvbtn18
+<0156> sys_cf_cvbtn18
+
+//<0157> sys_cf_cvbtn19
+<0157> sys_cf_cvbtn19
+
+//<0158> sys_cf_cvbtn20
+<0158> sys_cf_cvbtn20
+
+//<0159> sys_cf_cvbtn21
+<0159> sys_cf_cvbtn21
+
+//<0160> sys_cf_cvbtn22
+<0160> sys_cf_cvbtn22
+
+//<0161> sys_cf_cvbtn00
+<0161> sys_cf_cvbtn00
+
+//<0162> sys_cf_cvbtn00
+<0162> sys_cf_cvbtn00
+
+//<0163> sys_cf_cvbtn00
+<0163> sys_cf_cvbtn00
+
+//<0164> sys_cf_cvbtn00
+<0164> sys_cf_cvbtn00
+
+//<0165> sys_cf_cvbtn00
+<0165> sys_cf_cvbtn00
+
+//<0166> sys_cf_cvbtn00
+<0166> sys_cf_cvbtn00
+
+//<0167> sys_cf_cvbtn00
+<0167> sys_cf_cvbtn00
+
+//<0168> sys_cf_cvbtn00
+<0168> sys_cf_cvbtn00
+
+//<0169> sys_cf_cvbtn00
+<0169> sys_cf_cvbtn00
+
+//<0170> sys_cf_cvbtn00
+<0170> sys_cf_cvbtn00
+
+//<0171> sys_cf_cvbtn00
+<0171> sys_cf_cvbtn00
+
+//<0172> sys_cf_cvbtn00
+<0172> sys_cf_cvbtn00
+
+//<0173> sys_cf_cvbtn00
+<0173> sys_cf_cvbtn00
+
+//<0174> sys_cf_cvbtn00
+<0174> sys_cf_cvbtn00
+
+//<0175> sys_cf_cvbtn00
+<0175> sys_cf_cvbtn00
+
+//<0176> sys_cf_cvbtn00
+<0176> sys_cf_cvbtn00
+
+//<0177> sys_cf_cvbtn00
+<0177> sys_cf_cvbtn00
+
+//<0178> sys_cf_cvbtn00
+<0178> sys_cf_cvbtn00
+
+//<0179> sys_cf_cvbtn00
+<0179> sys_cf_cvbtn00
+
+//<0180> sys_cf_cvbtn00
+<0180> sys_cf_cvbtn00
+
+//<0181> sys_cf_cvbtn00
+<0181> sys_cf_cvbtn00
+
+//<0182> sys_cf_cvbtn00
+<0182> sys_cf_cvbtn00
+
+//<0183> sys_cf_bar07
+<0183> sys_cf_bar07
+
+//<0184> sys_cf_bar07
+<0184> sys_cf_bar07
+
+//<0185> sys_cf_bar07
+<0185> sys_cf_bar07
+
+//<0186> sys_cf_bar07
+<0186> sys_cf_bar07
+
+//<0187> sys_cf_bar07
+<0187> sys_cf_bar07
+
+//<0188> sys_cf_bar07
+<0188> sys_cf_bar07
+
+//<0189> sys_cf_bar07
+<0189> sys_cf_bar07
+
+//<0190> sys_cf_bar07
+<0190> sys_cf_bar07
+
+//<0191> sys_cf_bar07
+<0191> sys_cf_bar07
+
+//<0192> sys_cf_bar07
+<0192> sys_cf_bar07
+
+//<0193> sys_cf_bar07
+<0193> sys_cf_bar07
+
+//<0194> sys_cf_bar07
+<0194> sys_cf_bar07
+
+//<0195> sys_cf_bar07
+<0195> sys_cf_bar07
+
+//<0196> sys_cf_bar07
+<0196> sys_cf_bar07
+
+//<0197> sys_cf_bar07
+<0197> sys_cf_bar07
+
+//<0198> sys_cf_bar07
+<0198> sys_cf_bar07
+
+//<0199> sys_cf_bar07
+<0199> sys_cf_bar07
+
+//<0200> sys_cf_bar07
+<0200> sys_cf_bar07
+
+//<0201> sys_cf_bar07
+<0201> sys_cf_bar07
+
+//<0202> sys_cf_bar07
+<0202> sys_cf_bar07
+
+//<0203> sys_cf_bar07
+<0203> sys_cf_bar07
+
+//<0204> sys_cf_bar07
+<0204> sys_cf_bar07
+
+//<0205> sys_cf_ctl02
+<0205> sys_cf_ctl02
+
+//<0206> sys_cf_ctl02
+<0206> sys_cf_ctl02
+
+//<0207> sys_cf_ctl02
+<0207> sys_cf_ctl02
+
+//<0208> sys_cf_ctl02
+<0208> sys_cf_ctl02
+
+//<0209> sys_cf_ctl02
+<0209> sys_cf_ctl02
+
+//<0210> sys_cf_ctl02
+<0210> sys_cf_ctl02
+
+//<0211> sys_cf_ctl02
+<0211> sys_cf_ctl02
+
+//<0212> sys_cf_ctl02
+<0212> sys_cf_ctl02
+
+//<0213> sys_cf_ctl02
+<0213> sys_cf_ctl02
+
+//<0214> sys_cf_ctl02
+<0214> sys_cf_ctl02
+
+//<0215> sys_cf_ctl02
+<0215> sys_cf_ctl02
+
+//<0216> sys_cf_ctl02
+<0216> sys_cf_ctl02
+
+//<0217> sys_cf_ctl02
+<0217> sys_cf_ctl02
+
+//<0218> sys_cf_ctl02
+<0218> sys_cf_ctl02
+
+//<0219> sys_cf_ctl02
+<0219> sys_cf_ctl02
+
+//<0220> sys_cf_ctl02
+<0220> sys_cf_ctl02
+
+//<0221> sys_cf_ctl02
+<0221> sys_cf_ctl02
+
+//<0222> sys_cf_ctl02
+<0222> sys_cf_ctl02
+
+//<0223> sys_cf_ctl02
+<0223> sys_cf_ctl02
+
+//<0224> sys_cf_ctl02
+<0224> sys_cf_ctl02
+
+//<0225> sys_cf_ctl02
+<0225> sys_cf_ctl02
+
+//<0226> sys_cf_ctl02
+<0226> sys_cf_ctl02
+
+//<0227> sys_cf_bar07
+<0227> sys_cf_bar07
+
+//<0228> sys_cf_bar07
+<0228> sys_cf_bar07
+
+//<0229> sys_cf_bar07
+<0229> sys_cf_bar07
+
+//<0230> sys_cf_bar07
+<0230> sys_cf_bar07
+
+//<0231> sys_cf_bar07
+<0231> sys_cf_bar07
+
+//<0232> sys_cf_bar07
+<0232> sys_cf_bar07
+
+//<0233> sys_cf_bar07
+<0233> sys_cf_bar07
+
+//<0234> sys_cf_bar07
+<0234> sys_cf_bar07
+
+//<0235> sys_cf_bar07
+<0235> sys_cf_bar07
+
+//<0236> sys_cf_bar07
+<0236> sys_cf_bar07
+
+//<0237> sys_cf_bar07
+<0237> sys_cf_bar07
+
+//<0238> sys_cf_bar07
+<0238> sys_cf_bar07
+
+//<0239> sys_cf_bar07
+<0239> sys_cf_bar07
+
+//<0240> sys_cf_bar07
+<0240> sys_cf_bar07
+
+//<0241> sys_cf_bar07
+<0241> sys_cf_bar07
+
+//<0242> sys_cf_bar07
+<0242> sys_cf_bar07
+
+//<0243> sys_cf_bar07
+<0243> sys_cf_bar07
+
+//<0244> sys_cf_bar07
+<0244> sys_cf_bar07
+
+//<0245> sys_cf_bar07
+<0245> sys_cf_bar07
+
+//<0246> sys_cf_bar07
+<0246> sys_cf_bar07
+
+//<0247> sys_cf_bar07
+<0247> sys_cf_bar07
+
+//<0248> sys_cf_bar07
+<0248> sys_cf_bar07
+
+//<0249> sys_cf_btn33
+<0249> sys_cf_btn33
+
+//<0250> sys_cf_btn34
+<0250> sys_cf_btn34
+
+//<0251> sys_cf_btn31
+<0251> sys_cf_btn31
+{1673e} 60 // 0251
+
+//<0252> mn_ss_se12
+<0252> mn_ss_se12
+
+//<0253> mn_ss_se12
+<0253> mn_ss_se12
+
+//<0254> mn_ss_se12
+<0254> mn_ss_se12
+
+//<0255> mn_ss_se12
+<0255> mn_ss_se12
+
+//<0256> mn_ss_se12
+<0256> mn_ss_se12
+
+//<0257> mn_ss_se12
+<0257> mn_ss_se12
+
+//<0258> mn_ss_se12
+<0258> mn_ss_se12
+
+//<0259> sys_mw_setbtn_bg00
+<0259> sys_mw_setbtn_bg00
+
+//<0260> sys_sa_setbtn01
+<0260> sys_sa_setbtn01
+
+//<0261> sys_sa_setbtn02
+<0261> sys_sa_setbtn02
+
+//<0262> sys_sa_chk00
+<0262> sys_sa_chk00
+
+//<0263> bg_kuro
+<0263> bg_kuro
+
+//<0264> bg_kuro
+<0264> bg_kuro
+

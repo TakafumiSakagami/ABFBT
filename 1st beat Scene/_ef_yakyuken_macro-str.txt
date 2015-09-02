@@ -1,0 +1,260 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> se_kyupeen
+<0000> se_kyupeen
+
+//<0001> nothing
+<0001> nothing
+
+//<0002> nothing
+<0002> nothing
+
+//<0003> nothing
+<0003> nothing
+
+//<0004> nothing
+<0004> nothing
+
+//<0005> nothing
+<0005> nothing
+
+//<0006> nothing
+<0006> nothing
+
+//<0007> nothing
+<0007> nothing
+
+//<0008> nothing
+<0008> nothing
+
+//<0009> nothing
+<0009> nothing
+
+//<0010> nothing
+<0010> nothing
+
+//<0011> nothing
+<0011> nothing
+
+//<0012> 
+<0012> 
+
+//<0013> 
+<0013> 
+
+//<0014> nothing
+<0014> nothing
+
+//<0015> None
+<0015> None
+
+//<0016> nothing
+<0016> nothing
+
+//<0017> nothing
+<0017> nothing
+
+//<0018> nothing
+<0018> nothing
+
+//<0019> nothing
+<0019> nothing
+
+//<0020> nothing
+<0020> nothing
+
+//<0021> nothing
+<0021> nothing
+
+//<0022> nothing
+<0022> nothing
+
+//<0023> nothing
+<0023> nothing
+
+//<0024> nothing
+<0024> nothing
+
+//<0025> nothing
+<0025> nothing
+
+//<0026> nothing
+<0026> nothing
+
+//<0027> 
+<0027> 
+
+//<0028> 
+<0028> 
+
+//<0029> nothing
+<0029> nothing
+
+//<0030> nothing
+<0030> nothing
+
+//<0031> nothing
+<0031> nothing
+
+//<0032> nothing
+<0032> nothing
+
+//<0033> nothing
+<0033> nothing
+
+//<0034> nothing
+<0034> nothing
+
+//<0035> nothing
+<0035> nothing
+
+//<0036> nothing
+<0036> nothing
+
+//<0037> nothing
+<0037> nothing
+
+//<0038> nothing
+<0038> nothing
+
+//<0039> nothing
+<0039> nothing
+
+//<0040> nothing
+<0040> nothing
+
+//<0041> 
+<0041> 
+
+//<0042> 
+<0042> 
+
+//<0043> nothing
+<0043> nothing
+
+//<0044> dummy
+<0044> dummy
+
+//<0045> ef_sline_v
+<0045> ef_sline_v
+
+//<0046> ef_sline_bg
+<0046> ef_sline_bg
+
+//<0047> ef_spark
+<0047> ef_spark
+
+//<0048> bs3_ot0303
+<0048> bs3_ot0303
+
+//<0049> bs3_ot0303
+<0049> bs3_ot0303
+
+//<0050> bs3_ot0303
+<0050> bs3_ot0303
+
+//<0051> bs3_ot0303
+<0051> bs3_ot0303
+
+//<0052> bs3_ot0303
+<0052> bs3_ot0303
+
+//<0053> bs3_ot0303
+<0053> bs3_ot0303
+
+//<0054> bs3_iw0104_10
+<0054> bs3_iw0104_10
+
+//<0055> bs3_iw0104_10
+<0055> bs3_iw0104_10
+
+//<0056> bs3_iw0104_10
+<0056> bs3_iw0104_10
+
+//<0057> bs3_iw0104_10
+<0057> bs3_iw0104_10
+
+//<0058> bs3_iw0104_10
+<0058> bs3_iw0104_10
+
+//<0059> bs3_iw0104_10
+<0059> bs3_iw0104_10
+
+//<0060> bs3_ot0303
+<0060> bs3_ot0303
+
+//<0061> bs3_ot0303
+<0061> bs3_ot0303
+
+//<0062> bs3_ot0303
+<0062> bs3_ot0303
+
+//<0063> bs3_ot0303
+<0063> bs3_ot0303
+
+//<0064> bs3_ot0303
+<0064> bs3_ot0303
+
+//<0065> bs3_ot0303
+<0065> bs3_ot0303
+
+//<0066> bs3_iw0104_10
+<0066> bs3_iw0104_10
+
+//<0067> bs3_iw0104_10
+<0067> bs3_iw0104_10
+
+//<0068> bs3_iw0104_10
+<0068> bs3_iw0104_10
+
+//<0069> bs3_iw0104_10
+<0069> bs3_iw0104_10
+
+//<0070> bs3_iw0104_10
+<0070> bs3_iw0104_10
+
+//<0071> bs3_iw0104_10
+<0071> bs3_iw0104_10
+
+//<0072> se_blade
+<0072> se_blade
+
+//<0073> bs3_ot0303
+<0073> bs3_ot0303
+
+//<0074> bs3_ot0303
+<0074> bs3_ot0303
+
+//<0075> bs3_ot0303
+<0075> bs3_ot0303
+
+//<0076> bs3_ot0303
+<0076> bs3_ot0303
+
+//<0077> bs3_ot0303
+<0077> bs3_ot0303
+
+//<0078> bs3_ot0303
+<0078> bs3_ot0303
+
+//<0079> bs3_iw0104_10
+<0079> bs3_iw0104_10
+
+//<0080> bs3_iw0104_10
+<0080> bs3_iw0104_10
+
+//<0081> bs3_iw0104_10
+<0081> bs3_iw0104_10
+
+//<0082> bs3_iw0104_10
+<0082> bs3_iw0104_10
+
+//<0083> bs3_iw0104_10
+<0083> bs3_iw0104_10
+
+//<0084> bs3_iw0104_10
+<0084> bs3_iw0104_10
+

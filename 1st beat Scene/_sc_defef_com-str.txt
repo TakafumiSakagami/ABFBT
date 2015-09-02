@@ -1,0 +1,56 @@
+﻿// Newline command format: {0000} (newline type)
+// 0d = append
+// 0e = new page
+// anything else is unknown
+
+//<0000> none
+<0000> none
+
+//<0001> $sc_flash_wl
+<0001> $sc_flash_wl
+
+//<0002> None
+<0002> None
+
+//<0003> 白
+<0003> 白
+
+//<0004> ef_gs_hs01
+<0004> ef_gs_hs01
+
+//<0005> ef_gs_hs02
+<0005> ef_gs_hs02
+
+//<0006> ef_gs_hs03
+<0006> ef_gs_hs03
+
+//<0007> ef_gs_hs04
+<0007> ef_gs_hs04
+
+//<0008> dummy
+<0008> dummy
+
+//<0009> ef_rec_white00
+<0009> ef_rec_white00
+
+//<0010> ef_rec_black00
+<0010> ef_rec_black00
+
+//<0011> ef_rec_noise00
+<0011> ef_rec_noise00
+
+//<0012> ef_em21
+<0012> ef_em21
+
+//<0013> ef_em21
+<0013> ef_em21
+
+//<0014> ef_bath01
+<0014> ef_bath01
+
+//<0015> ef_bath02
+<0015> ef_bath02
+
+//<0016> ef_bath02
+<0016> ef_bath02
+
