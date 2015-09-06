@@ -91,10 +91,10 @@
 <0028> nothing
 
 //<0029> 振りかえると、そこにはライフルを構えているひとりの女生徒の姿があった。
-<0029> Turning around, I see a lone schoolgirl gripping a rifle.
+<0029> I turn around to see a lone schoolgirl gripping a rifle.
 
 //<0030> 目はライフルの照準に合わせたままで、こっちは見ていない。
-<0030> She doesn't look at me, her gaze is glued the scope of her rifle.
+<0030> She doesn't look at me, and keeps her eyes glued to the scope of her rifle.
 
 //<0031> なんなんだ、この非日常的な光景は…。
 <0031> What is this strange scene...
@@ -115,7 +115,8 @@
 <0036> Substitute
 
 //<0037> 微妙すぎるイケメン
-<0037> Uncanny Hunk
+<0037> Uncanny Stud
+//"Stud" seemed too outdated
 
 //<0038> ロリコン
 <0038> Lolicon
@@ -132,41 +133,41 @@
 //<0042> 記憶ナシ男
 <0042> Amnesiac
 
-//<0043> 音速
-<0043> 音速
+//<0043> Onsoku
+<0043> Onsoku
 
-//<0044> 無限
-<0044> 無限
+//<0044> Mugen
+<0044> Mugen
 
-//<0045> エロ侍
-<0045> エロ侍
+//<0045> Ero Samurai
+<0045> Ero Samurai
 
 //<0046> エロエロ団ナンバー１
 <0046> エロエロ団ナンバー１
 
-//<0047> ただのエロ少年
-<0047> ただのエロ少年
+//<0047> Just a Pervert
+<0047> Just a Pervert
 
-//<0048> ユリブサイク
-<0048> ユリブサイク
+//<0048> Uglyuri
+<0048> Uglyuri
 
 //<0049> ドピュッシー
 <0049> ドピュッシー
 
-//<0050> アメリカンエロドッグ
-<0050> アメリカンエロドッグ
+//<0050> Horndog
+<0050> Horndog
 
-//<0051> ゼウス
-<0051> ゼウス
+//<0051> Zeus
+<0051> Zeus
 
-//<0052> 日向markⅡ
-<0052> 日向markⅡ
+//<0052> Hinata Mk.Ⅱ
+<0052> Hinata Mk.Ⅱ
 
-//<0053> 糞虫
-<0053> 糞虫
+//<0053> Dung Beatle
+<0053> Dung Beatle
 
-//<0054> 量産型日向
-<0054> 量産型日向
+//<0054> Hinata Clone
+<0054> Hinata Clone
 
 //<0055> ??
 <0055> ??
@@ -190,7 +191,7 @@
 <0061> "If you're here, then that means you're dead."
 
 //<0062> そう女生徒は続けた。本当に学生かはわからない。学生服を着ているから、女生徒と見なしただけで、普通の女生徒はライフルを構えたりしないものだ。
-<0062> So said the schoolgirl. Though I'm not certain that she's really a schoolgirl. Schoolgirls usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
+<0062> So safd the schoolgirl. Though I'm not sure she's really a studnet. Students usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
 
 //<0063> Otonashi
 <0063> Otonashi
@@ -201,8 +202,8 @@
 //<0065> Substitute
 <0065> Substitute
 
-//<0066> Uncanny Hunk
-<0066> Uncanny Hunk
+//<0066> Uncanny Stud
+<0066> Uncanny Stud
 
 //<0067> Lolicon
 <0067> Lolicon
@@ -219,41 +220,41 @@
 //<0071> Amnesiac
 <0071> Amnesiac
 
-//<0072> 音速
-<0072> 音速
+//<0072> Onsoku
+<0072> Onsoku
 
-//<0073> 無限
-<0073> 無限
+//<0073> Mugen
+<0073> Mugen
 
-//<0074> エロ侍
-<0074> エロ侍
+//<0074> Ero Samurai
+<0074> Ero Samurai
 
 //<0075> エロエロ団ナンバー１
 <0075> エロエロ団ナンバー１
 
-//<0076> ただのエロ少年
-<0076> ただのエロ少年
+//<0076> Just a Pervert
+<0076> Just a Pervert
 
-//<0077> ユリブサイク
-<0077> ユリブサイク
+//<0077> Uglyuri
+<0077> Uglyuri
 
 //<0078> ドピュッシー
 <0078> ドピュッシー
 
-//<0079> アメリカンエロドッグ
-<0079> アメリカンエロドッグ
+//<0079> Horndog
+<0079> Horndog
 
-//<0080> ゼウス
-<0080> ゼウス
+//<0080> Zeus
+<0080> Zeus
 
-//<0081> 日向markⅡ
-<0081> 日向markⅡ
+//<0081> Hinata Mk.Ⅱ
+<0081> Hinata Mk.Ⅱ
 
-//<0082> 糞虫
-<0082> 糞虫
+//<0082> Dung Beatle
+<0082> Dung Beatle
 
-//<0083> 量産型日向
-<0083> 量産型日向
+//<0083> Hinata Clone
+<0083> Hinata Clone
 
 //<0084> ??
 <0084> ??
@@ -262,7 +263,7 @@
 <0085> "I don't understand, but..."
 
 //<0086> 率直な感想を述べた。こんな声なのか、俺は。
-<0086> nothing
+<0086> Since when do I voice my thoughts so frankly?
 //Not sure how to translate but something related to him doubting his voice, either literally or figuratively (like, was I the kind of person to be unsure, or something to that effect)...maybe.
 
 //<0087> Yuri
@@ -275,7 +276,7 @@
 <0089> ??
 
 //<0090> 「あなたは死んだの。そしてここは死んだ後の世界。何もしなければ、消されるわよ」
-<0090> "You died. This is the world of the afterlife. If you don't do anything, you'll be erased."
+<0090> "You died. This is the world of the afterlife. If you don't do anything, you'll be obliterated."
 
 //<0091> Otonashi
 <0091> Otonashi
@@ -286,8 +287,8 @@
 //<0093> Substitute
 <0093> Substitute
 
-//<0094> Uncanny Hunk
-<0094> Uncanny Hunk
+//<0094> Uncanny Stud
+<0094> Uncanny Stud
 
 //<0095> Lolicon
 <0095> Lolicon
@@ -304,47 +305,47 @@
 //<0099> Amnesiac
 <0099> Amnesiac
 
-//<0100> 音速
-<0100> 音速
+//<0100> Onsoku
+<0100> Onsoku
 
-//<0101> 無限
-<0101> 無限
+//<0101> Mugen
+<0101> Mugen
 
-//<0102> エロ侍
-<0102> エロ侍
+//<0102> Ero Samurai
+<0102> Ero Samurai
 
 //<0103> エロエロ団ナンバー１
 <0103> エロエロ団ナンバー１
 
-//<0104> ただのエロ少年
-<0104> ただのエロ少年
+//<0104> Just a Pervert
+<0104> Just a Pervert
 
-//<0105> ユリブサイク
-<0105> ユリブサイク
+//<0105> Uglyuri
+<0105> Uglyuri
 
 //<0106> ドピュッシー
 <0106> ドピュッシー
 
-//<0107> アメリカンエロドッグ
-<0107> アメリカンエロドッグ
+//<0107> Horndog
+<0107> Horndog
 
-//<0108> ゼウス
-<0108> ゼウス
+//<0108> Zeus
+<0108> Zeus
 
-//<0109> 日向markⅡ
-<0109> 日向markⅡ
+//<0109> Hinata Mk.Ⅱ
+<0109> Hinata Mk.Ⅱ
 
-//<0110> 糞虫
-<0110> 糞虫
+//<0110> Dung Beatle
+<0110> Dung Beatle
 
-//<0111> 量産型日向
-<0111> 量産型日向
+//<0111> Hinata Clone
+<0111> Hinata Clone
 
 //<0112> ??
 <0112> ??
 
 //<0113> 「消される？　誰に？」
-<0113> "Erased? By whom?"
+<0113> "Obliterated? By whom?"
 
 //<0114> Yuri
 <0114> Yuri
@@ -356,7 +357,7 @@
 <0116> ??
 
 //<0117> 「そりゃあ、神様でしょうね」
-<0117> "By God, I imagine."
+<0117> "By God, I'd imagine."
 
 //<0118> 突拍子もない単語。
 <0118> An astounding statement.
@@ -370,8 +371,8 @@
 //<0121> Substitute
 <0121> Substitute
 
-//<0122> Uncanny Hunk
-<0122> Uncanny Hunk
+//<0122> Uncanny Stud
+<0122> Uncanny Stud
 
 //<0123> Lolicon
 <0123> Lolicon
@@ -388,41 +389,41 @@
 //<0127> Amnesiac
 <0127> Amnesiac
 
-//<0128> 音速
-<0128> 音速
+//<0128> Onsoku
+<0128> Onsoku
 
-//<0129> 無限
-<0129> 無限
+//<0129> Mugen
+<0129> Mugen
 
-//<0130> エロ侍
-<0130> エロ侍
+//<0130> Ero Samurai
+<0130> Ero Samurai
 
 //<0131> エロエロ団ナンバー１
 <0131> エロエロ団ナンバー１
 
-//<0132> ただのエロ少年
-<0132> ただのエロ少年
+//<0132> Just a Pervert
+<0132> Just a Pervert
 
-//<0133> ユリブサイク
-<0133> ユリブサイク
+//<0133> Uglyuri
+<0133> Uglyuri
 
 //<0134> ドピュッシー
 <0134> ドピュッシー
 
-//<0135> アメリカンエロドッグ
-<0135> アメリカンエロドッグ
+//<0135> Horndog
+<0135> Horndog
 
-//<0136> ゼウス
-<0136> ゼウス
+//<0136> Zeus
+<0136> Zeus
 
-//<0137> 日向markⅡ
-<0137> 日向markⅡ
+//<0137> Hinata Mk.Ⅱ
+<0137> Hinata Mk.Ⅱ
 
-//<0138> 糞虫
-<0138> 糞虫
+//<0138> Dung Beatle
+<0138> Dung BEatle
 
-//<0139> 量産型日向
-<0139> 量産型日向
+//<0139> Hinata Clone
+<0139> Hinata Clone
 
 //<0140> ??
 <0140> ??
@@ -439,8 +440,8 @@
 //<0144> Substitute
 <0144> Substitute
 
-//<0145> Uncanny Hunk
-<0145> Uncanny Hunk
+//<0145> Uncanny Stud
+<0145> Uncanny Stud
 
 //<0146> Lolicon
 <0146> Lolicon
@@ -457,41 +458,41 @@
 //<0150> Amnesiac
 <0150> Amnesiac
 
-//<0151> 音速
-<0151> 音速
+//<0151> Onsoku
+<0151> Onsoku
 
-//<0152> 無限
-<0152> 無限
+//<0152> Mugen
+<0152> Mugen
 
-//<0153> エロ侍
-<0153> エロ侍
+//<0153> Ero Samurai
+<0153> Ero Samurai
 
 //<0154> エロエロ団ナンバー１
 <0154> エロエロ団ナンバー１
 
-//<0155> ただのエロ少年
-<0155> ただのエロ少年
+//<0155> Just a Pervert
+<0155> Just a Pervert
 
-//<0156> ユリブサイク
-<0156> ユリブサイク
+//<0156> Uglyuri
+<0156> Uglyuri
 
 //<0157> ドピュッシー
 <0157> ドピュッシー
 
-//<0158> アメリカンエロドッグ
-<0158> アメリカンエロドッグ
+//<0158> Horndog
+<0158> Horndog
 
-//<0159> ゼウス
-<0159> ゼウス
+//<0159> Zeus
+<0159> Zeus
 
-//<0160> 日向markⅡ
-<0160> 日向markⅡ
+//<0160> Hinata Mk.Ⅱ
+<0160> Hinata Mk.Ⅱ
 
-//<0161> 糞虫
-<0161> 糞虫
+//<0161> Dung Beatle
+<0161> Dung Beatle
 
-//<0162> 量産型日向
-<0162> 量産型日向
+//<0162> Hinata Clone
+<0162> Hinata Clone
 
 //<0163> ??
 <0163> ??
@@ -520,8 +521,8 @@
 //<0171> Substitute
 <0171> Substitute
 
-//<0172> Uncanny Hunk
-<0172> Uncanny Hunk
+//<0172> Uncanny Stud
+<0172> Uncanny Stud
 
 //<0173> Lolicon
 <0173> Lolicon
@@ -538,41 +539,41 @@
 //<0177> Amnesiac
 <0177> Amnesiac
 
-//<0178> 音速
-<0178> 音速
+//<0178> Onsoku
+<0178> Onsoku
 
-//<0179> 無限
-<0179> 無限
+//<0179> Mugen
+<0179> Mugen
 
-//<0180> エロ侍
-<0180> エロ侍
+//<0180> Ero Samurai
+<0180> Ero Samurai
 
 //<0181> エロエロ団ナンバー１
 <0181> エロエロ団ナンバー１
 
-//<0182> ただのエロ少年
-<0182> ただのエロ少年
+//<0182> Just a Pervert
+<0182> Just a Pervert
 
-//<0183> ユリブサイク
-<0183> ユリブサイク
+//<0183> Uglyuri
+<0183> Uglyuri
 
 //<0184> ドピュッシー
 <0184> ドピュッシー
 
-//<0185> アメリカンエロドッグ
-<0185> アメリカンエロドッグ
+//<0185> Horndog
+<0185> Horndog
 
-//<0186> ゼウス
-<0186> ゼウス
+//<0186> Zeus
+<0186> Zeus
 
-//<0187> 日向markⅡ
-<0187> 日向markⅡ
+//<0187> Hinata Mk.Ⅱ
+<0187> Hinata Mk.Ⅱ
 
-//<0188> 糞虫
-<0188> 糞虫
+//<0188> Dung Beatle
+<0188> Dung Beatle
 
-//<0189> 量産型日向
-<0189> 量産型日向
+//<0189> Hinata Clone
+<0189> Hinata Clone
 
 //<0190> ??
 <0190> ??
@@ -602,7 +603,7 @@
 <0198> ??
 
 //<0199> 「まあ、いきなり即死とかだったら、死んだ自覚はないでしょうけど」
-<0199> "I guess you wouldn't know that if you died all of a sudden."
+<0199> "I guess you wouldn't realize it if you died all of a sudden."
 
 //<0200> Otonashi
 <0200> Otonashi
@@ -613,8 +614,8 @@
 //<0202> Substitute
 <0202> Substitute
 
-//<0203> Uncanny Hunk
-<0203> Uncanny Hunk
+//<0203> Uncanny Stud
+<0203> Uncanny Stud
 
 //<0204> Lolicon
 <0204> Lolicon
@@ -631,41 +632,41 @@
 //<0208> Amnesiac
 <0208> Amnesiac
 
-//<0209> 音速
-<0209> 音速
+//<0209> Onsoku
+<0209> Onsoku
 
-//<0210> 無限
-<0210> 無限
+//<0210> Mugen
+<0210> Mugen
 
-//<0211> エロ侍
-<0211> エロ侍
+//<0211> Ero Samurai
+<0211> Ero Samurai
 
 //<0212> エロエロ団ナンバー１
 <0212> エロエロ団ナンバー１
 
-//<0213> ただのエロ少年
-<0213> ただのエロ少年
+//<0213> Just a Pervert
+<0213> Just a Pervert
 
-//<0214> ユリブサイク
-<0214> ユリブサイク
+//<0214> Uglyuri
+<0214> Uglyuri
 
 //<0215> ドピュッシー
 <0215> ドピュッシー
 
-//<0216> アメリカンエロドッグ
-<0216> アメリカンエロドッグ
+//<0216> Horndog
+<0216> Horndog
 
-//<0217> ゼウス
-<0217> ゼウス
+//<0217> Zeus
+<0217> Zeus
 
-//<0218> 日向markⅡ
-<0218> 日向markⅡ
+//<0218> Hinata Mk.Ⅱ
+<0218> Hinata Mk.Ⅱ
 
-//<0219> 糞虫
-<0219> 糞虫
+//<0219> Dung Beatle
+<0219> Dung Beatle
 
-//<0220> 量産型日向
-<0220> 量産型日向
+//<0220> Hinata Clone
+<0220> Hinata Clone
 
 //<0221> ??
 <0221> ??
@@ -683,7 +684,7 @@
 <0225> ??
 
 //<0226> 「じゃあ、即死だったのかもね。じき記憶は戻るわ。そういう世界なの」
-<0226> "Well, you were probably killed suddenly. You will get your memories back soon enough. That's how this world works."
+<0226> "Well, you were probably killed suddenly. You'll get your memories back soon enough. That's how this world works."
 
 //<0227> Otonashi
 <0227> Otonashi
@@ -694,8 +695,8 @@
 //<0229> Substitute
 <0229> Substitute
 
-//<0230> Uncanny Hunk
-<0230> Uncanny Hunk
+//<0230> Uncanny Stud
+<0230> Uncanny Stud
 
 //<0231> Lolicon
 <0231> Lolicon
@@ -712,47 +713,47 @@
 //<0235> Amnesiac
 <0235> Amnesiac
 
-//<0236> 音速
-<0236> 音速
+//<0236> Onsoku
+<0236> Onsiku
 
-//<0237> 無限
-<0237> 無限
+//<0237> Mugen
+<0237> Mugen
 
-//<0238> エロ侍
-<0238> エロ侍
+//<0238> Ero Samurai
+<0238> Ero Samurai
 
 //<0239> エロエロ団ナンバー１
 <0239> エロエロ団ナンバー１
 
-//<0240> ただのエロ少年
-<0240> ただのエロ少年
+//<0240> Just a Pervert
+<0240> Just a Pervert
 
-//<0241> ユリブサイク
-<0241> ユリブサイク
+//<0241> Uglyuri
+<0241> Uglyuri
 
 //<0242> ドピュッシー
 <0242> ドピュッシー
 
-//<0243> アメリカンエロドッグ
-<0243> アメリカンエロドッグ
+//<0243> Horndog
+<0243> Horndog
 
-//<0244> ゼウス
-<0244> ゼウス
+//<0244> Zeus
+<0244> Zues
 
-//<0245> 日向markⅡ
-<0245> 日向markⅡ
+//<0245> Hinata Mk.Ⅱ
+<0245> Hinata Mk.Ⅱ
 
-//<0246> 糞虫
-<0246> 糞虫
+//<0246> Dung Beatle
+<0246> Dung Beatle
 
-//<0247> 量産型日向
-<0247> 量産型日向
+//<0247> Hinata Clone
+<0247> Hinata Clone
 
 //<0248> ??
 <0248> ??
 
 //<0249> 「本当に…死後の世界なのか…？」
-<0249> "Is this really...The afterlife...?"
+<0249> "Is this really...the afterlife...?"
 
 //<0250> Yuri
 <0250> Yuri
@@ -787,8 +788,8 @@
 //<0260> Substitute
 <0260> Substitute
 
-//<0261> Uncanny Hunk
-<0261> Uncanny Hunk
+//<0261> Uncanny Stud
+<0261> Uncanny Stud
 
 //<0262> Lolicon
 <0262> Lolicon
@@ -805,41 +806,41 @@
 //<0266> Amnesiac
 <0266> Amnesiac
 
-//<0267> 音速
-<0267> 音速
+//<0267> Onsoku
+<0267> Onsoku
 
-//<0268> 無限
-<0268> 無限
+//<0268> Mugen
+<0268> Mugen
 
-//<0269> エロ侍
-<0269> エロ侍
+//<0269> Ero Samurai
+<0269> Ero Samurai
 
 //<0270> エロエロ団ナンバー１
 <0270> エロエロ団ナンバー１
 
-//<0271> ただのエロ少年
-<0271> ただのエロ少年
+//<0271> Just a Pervert
+<0271> Just a Pervert
 
-//<0272> ユリブサイク
-<0272> ユリブサイク
+//<0272> Uglyuri
+<0272> Uglyuri
 
 //<0273> ドピュッシー
 <0273> ドピュッシー
 
-//<0274> アメリカンエロドッグ
-<0274> アメリカンエロドッグ
+//<0274> Horndog
+<0274> Horndog
 
-//<0275> ゼウス
-<0275> ゼウス
+//<0275> Zeus
+<0275> Zues
 
-//<0276> 日向markⅡ
-<0276> 日向markⅡ
+//<0276> Hinata Mk.Ⅱ
+<0276> Hinata Mk.Ⅱ
 
-//<0277> 糞虫
-<0277> 糞虫
+//<0277> Dung Beatle
+<0277> Dung Beatle
 
-//<0278> 量産型日向
-<0278> 量産型日向
+//<0278> Hinata Clone
+<0278> Hinata Clone
 
 //<0279> ??
 <0279> ??
@@ -868,8 +869,8 @@
 //<0287> Substitute
 <0287> Substitute
 
-//<0288> Uncanny Hunk
-<0288> Uncanny Hunk
+//<0288> Uncanny Stud
+<0288> Uncanny Stud
 
 //<0289> Lolicon
 <0289> Lolicon
@@ -886,41 +887,41 @@
 //<0293> Amnesiac
 <0293> Amnesiac
 
-//<0294> 音速
-<0294> 音速
+//<0294> Onsoku
+<0294> Onsoku
 
-//<0295> 無限
-<0295> 無限
+//<0295> Mugen
+<0295> Mugen
 
-//<0296> エロ侍
-<0296> エロ侍
+//<0296> Ero Samurai
+<0296> Ero Samurai
 
 //<0297> エロエロ団ナンバー１
 <0297> エロエロ団ナンバー１
 
-//<0298> ただのエロ少年
-<0298> ただのエロ少年
+//<0298> Just a Pervert
+<0298> Just a Pervert
 
-//<0299> ユリブサイク
-<0299> ユリブサイク
+//<0299> Uglyuri
+<0299> Uglyuri
 
 //<0300> ドピュッシー
 <0300> ドピュッシー
 
-//<0301> アメリカンエロドッグ
-<0301> アメリカンエロドッグ
+//<0301> Horndog
+<0301> Horndog
 
-//<0302> ゼウス
-<0302> ゼウス
+//<0302> Zeus
+<0302> Zeus
 
-//<0303> 日向markⅡ
-<0303> 日向markⅡ
+//<0303> Hinata Mk.Ⅱ
+<0303> Hinata Mk.Ⅱ
 
-//<0304> 糞虫
-<0304> 糞虫
+//<0304> Dung Beatle
+<0304> Dung Beatle
 
-//<0305> 量産型日向
-<0305> 量産型日向
+//<0305> Hinata Clone
+<0305> Hinata Clone
 
 //<0306> ??
 <0306> ??
@@ -938,7 +939,7 @@
 <0310> ??
 
 //<0311> 「時間が経てば治るのよ。ようは死なないの。死後の世界に居ることを実感するにはもってこいの方法なの」
-<0311> "It'll heal with time. In other words, you won't die. It's great once you actually experience the afterlife."
+<0311> "It'd heal with time. In other words, you won't die. It's great once you actually experience the afterlife."
 
 //<0312> Otonashi
 <0312> Otonashi
@@ -949,8 +950,8 @@
 //<0314> Substitute
 <0314> Substitute
 
-//<0315> Uncanny Hunk
-<0315> Uncanny Hunk
+//<0315> Uncanny Stud
+<0315> Uncanny Stud
 
 //<0316> Lolicon
 <0316> Lolicon
@@ -967,41 +968,41 @@
 //<0320> Amnesiac
 <0320> Amnesiac
 
-//<0321> 音速
-<0321> 音速
+//<0321> Onsoku
+<0321> Onsoku
 
-//<0322> 無限
-<0322> 無限
+//<0322> Mugen
+<0322> Mugen
 
-//<0323> エロ侍
-<0323> エロ侍
+//<0323> Ero Samurai
+<0323> Ero Samurai
 
 //<0324> エロエロ団ナンバー１
 <0324> エロエロ団ナンバー１
 
-//<0325> ただのエロ少年
-<0325> ただのエロ少年
+//<0325> Just a Pervert
+<0325> Just a Pervert
 
-//<0326> ユリブサイク
-<0326> ユリブサイク
+//<0326> Uglyuri
+<0326> Uglyuri
 
 //<0327> ドピュッシー
 <0327> ドピュッシー
 
-//<0328> アメリカンエロドッグ
-<0328> アメリカンエロドッグ
+//<0328> Horndog
+<0328> Horndog
 
-//<0329> ゼウス
-<0329> ゼウス
+//<0329> Zeus
+<0329> Zeus
 
-//<0330> 日向markⅡ
-<0330> 日向markⅡ
+//<0330> Hinata Mk.Ⅱ
+<0330> Hinata Mk.Ⅱ
 
-//<0331> 糞虫
-<0331> 糞虫
+//<0331> Dung Beatle
+<0331> Dung Beatle
 
-//<0332> 量産型日向
-<0332> 量産型日向
+//<0332> Hinata Clone
+<0332> Hinata Clone
 
 //<0333> ??
 <0333> ??
@@ -1030,8 +1031,8 @@
 //<0341> Substitute
 <0341> Substitute
 
-//<0342> Uncanny Hunk
-<0342> Uncanny Hunk
+//<0342> Uncanny Stud
+<0342> Uncanny Stud
 
 //<0343> Lolicon
 <0343> Lolicon
@@ -1048,41 +1049,41 @@
 //<0347> Amnesiac
 <0347> Amnesiac
 
-//<0348> 音速
-<0348> 音速
+//<0348> Onsoku
+<0348> Onsoku
 
-//<0349> 無限
-<0349> 無限
+//<0349> Mugen
+<0349> Mugen
 
-//<0350> エロ侍
-<0350> エロ侍
+//<0350> Ero Samurai
+<0350> Ero Samurai
 
 //<0351> エロエロ団ナンバー１
 <0351> エロエロ団ナンバー１
 
-//<0352> ただのエロ少年
-<0352> ただのエロ少年
+//<0352> Just a Pervert
+<0352> Just a Pervert
 
-//<0353> ユリブサイク
-<0353> ユリブサイク
+//<0353> Uglyuri
+<0353> Uglyuri
 
 //<0354> ドピュッシー
 <0354> ドピュッシー
 
-//<0355> アメリカンエロドッグ
-<0355> アメリカンエロドッグ
+//<0355> Horndog
+<0355> Horndog
 
-//<0356> ゼウス
-<0356> ゼウス
+//<0356> Zeus
+<0356> Zeus
 
-//<0357> 日向markⅡ
-<0357> 日向markⅡ
+//<0357> Hinata Mk.Ⅱ
+<0357> Hinata Mk.Ⅱ
 
-//<0358> 糞虫
-<0358> 糞虫
+//<0358> Dung Beatle
+<0358> Dung Beatle
 
-//<0359> 量産型日向
-<0359> 量産型日向
+//<0359> Hinata Clone
+<0359> Hinata Clone
 
 //<0360> ??
 <0360> ??
@@ -1111,8 +1112,8 @@
 //<0368> Substitute
 <0368> Substitute
 
-//<0369> Uncanny Hunk
-<0369> Uncanny Hunk
+//<0369> Uncanny Stud
+<0369> Uncanny Stud
 
 //<0370> Lolicon
 <0370> Lolicon
@@ -1129,47 +1130,47 @@
 //<0374> Amnesiac
 <0374> Amnesiac
 
-//<0375> 音速
-<0375> 音速
+//<0375> Onsoku
+<0375> Onsoku
 
-//<0376> 無限
-<0376> 無限
+//<0376> Mugen
+<0376> Mugen
 
-//<0377> エロ侍
-<0377> エロ侍
+//<0377> Ero Samurai
+<0377> Ero Samurai
 
 //<0378> エロエロ団ナンバー１
 <0378> エロエロ団ナンバー１
 
-//<0379> ただのエロ少年
-<0379> ただのエロ少年
+//<0379> Just a Pervert
+<0379> Just a Pervert
 
-//<0380> ユリブサイク
-<0380> ユリブサイク
+//<0380> Uglyuri
+<0380> Uglyuri
 
 //<0381> ドピュッシー
 <0381> ドピュッシー
 
-//<0382> アメリカンエロドッグ
-<0382> アメリカンエロドッグ
+//<0382> Horndog
+<0382> Horndog
 
-//<0383> ゼウス
-<0383> ゼウス
+//<0383> Zeus
+<0383> Zeus
 
-//<0384> 日向markⅡ
-<0384> 日向markⅡ
+//<0384> Hinata Mk.Ⅱ
+<0384> Hinata Mk.Ⅱ
 
-//<0385> 糞虫
-<0385> 糞虫
+//<0385> Dung Beatle
+<0385> Dung beatle
 
-//<0386> 量産型日向
-<0386> 量産型日向
+//<0386> Hinata Clone
+<0386> Hinata Clone
 
 //<0387> ??
 <0387> ??
 
 //<0388> 「ああ、信じるから…」
-<0388> "Ahh, I believe you, so..."
+<0388> "Ahh, I believe you..."
 
 //<0389> Otonashi
 <0389> Otonashi
@@ -1180,8 +1181,8 @@
 //<0391> Substitute
 <0391> Substitute
 
-//<0392> Uncanny Hunk
-<0392> Uncanny Hunk
+//<0392> Uncanny Stud
+<0392> Uncanny Stud
 
 //<0393> Lolicon
 <0393> Lolicon
@@ -1198,41 +1199,41 @@
 //<0397> Amnesiac
 <0397> Amnesiac
 
-//<0398> 音速
-<0398> 音速
+//<0398> Onsoku
+<0398> Onsoku
 
-//<0399> 無限
-<0399> 無限
+//<0399> Mugen
+<0399> Mugen
 
-//<0400> エロ侍
-<0400> エロ侍
+//<0400> Ero Samurai
+<0400> Ero Samurai
 
 //<0401> エロエロ団ナンバー１
 <0401> エロエロ団ナンバー１
 
-//<0402> ただのエロ少年
-<0402> ただのエロ少年
+//<0402> Just a Pervert
+<0402> Just a Pervert
 
-//<0403> ユリブサイク
-<0403> ユリブサイク
+//<0403> Uglyuri
+<0403> Uglyuri
 
 //<0404> ドピュッシー
 <0404> ドピュッシー
 
-//<0405> アメリカンエロドッグ
-<0405> アメリカンエロドッグ
+//<0405> Horndog
+<0405> Horndog
 
-//<0406> ゼウス
-<0406> ゼウス
+//<0406> Zeus
+<0406> Zeus
 
-//<0407> 日向markⅡ
-<0407> 日向markⅡ
+//<0407> Hinata Mk.Ⅱ
+<0407> Hinata Mk.Ⅱ
 
-//<0408> 糞虫
-<0408> 糞虫
+//<0408> Dung Beatle
+<0408> Dung Beatle
 
-//<0409> 量産型日向
-<0409> 量産型日向
+//<0409> Hinata Clone
+<0409> Hinata Clone
 
 //<0410> ??
 <0410> ??
@@ -1261,8 +1262,8 @@
 //<0418> Substitute
 <0418> Substitute
 
-//<0419> Uncanny Hunk
-<0419> Uncanny Hunk
+//<0419> Uncanny Stud
+<0419> Uncanny Stud
 
 //<0420> Lolicon
 <0420> Lolicon
@@ -1279,41 +1280,41 @@
 //<0424> Amnesiac
 <0424> Amnesiac
 
-//<0425> 音速
-<0425> 音速
+//<0425> Onsoku
+<0425> Onsoku
 
-//<0426> 無限
-<0426> 無限
+//<0426> Mugen
+<0426> Mugen
 
-//<0427> エロ侍
-<0427> エロ侍
+//<0427> Ero Samurai
+<0427> Ero Samurai
 
 //<0428> エロエロ団ナンバー１
 <0428> エロエロ団ナンバー１
 
-//<0429> ただのエロ少年
-<0429> ただのエロ少年
+//<0429> Just a Pervert
+<0429> Just a Pervert
 
-//<0430> ユリブサイク
-<0430> ユリブサイク
+//<0430> Uglyuri
+<0430> Uglyuri
 
 //<0431> ドピュッシー
 <0431> ドピュッシー
 
-//<0432> アメリカンエロドッグ
-<0432> アメリカンエロドッグ
+//<0432> Horndog
+<0432> Horndog
 
-//<0433> ゼウス
-<0433> ゼウス
+//<0433> Zeus
+<0433> Zeus
 
-//<0434> 日向markⅡ
-<0434> 日向markⅡ
+//<0434> Hinata Mk.Ⅱ
+<0434> Hinata Mk.Ⅱ
 
-//<0435> 糞虫
-<0435> 糞虫
+//<0435> Dung Beatle
+<0435> Dung Beatle
 
-//<0436> 量産型日向
-<0436> 量産型日向
+//<0436> Hinata Clone
+<0436> Hinata Clone
 
 //<0437> ??
 <0437> ??
@@ -1330,8 +1331,8 @@
 //<0441> Substitute
 <0441> Substitute
 
-//<0442> Uncanny Hunk
-<0442> Uncanny Hunk
+//<0442> Uncanny Stud
+<0442> Uncanny Stud
 
 //<0443> Lolicon
 <0443> Lolicon
@@ -1348,41 +1349,41 @@
 //<0447> Amnesiac
 <0447> Amnesiac
 
-//<0448> 音速
-<0448> 音速
+//<0448> Onsoku
+<0448> Onsoku
 
-//<0449> 無限
-<0449> 無限
+//<0449> Mugen
+<0449> Mugen
 
-//<0450> エロ侍
-<0450> エロ侍
+//<0450> Ero Samurai
+<0450> Ero Samurai
 
 //<0451> エロエロ団ナンバー１
 <0451> エロエロ団ナンバー１
 
-//<0452> ただのエロ少年
-<0452> ただのエロ少年
+//<0452> Just a Pervert
+<0452> Just a Pervert
 
-//<0453> ユリブサイク
-<0453> ユリブサイク
+//<0453> Uglyuri
+<0453> Uglyuri
 
 //<0454> ドピュッシー
 <0454> ドピュッシー
 
-//<0455> アメリカンエロドッグ
-<0455> アメリカンエロドッグ
+//<0455> Horndog
+<0455> Horndog
 
-//<0456> ゼウス
-<0456> ゼウス
+//<0456> Zeus
+<0456> Zeus
 
-//<0457> 日向markⅡ
-<0457> 日向markⅡ
+//<0457> Hinata Mk.Ⅱ
+<0457> Hinata Mk.Ⅱ
 
-//<0458> 糞虫
-<0458> 糞虫
+//<0458> Dung Beatle
+<0458> Dung Beatle
 
-//<0459> 量産型日向
-<0459> 量産型日向
+//<0459> Hinata Clone
+<0459> Hinata Clone
 
 //<0460> ??
 <0460> ??
@@ -1411,8 +1412,8 @@
 //<0468> Substitute
 <0468> Substitute
 
-//<0469> Uncanny Hunk
-<0469> Uncanny Hunk
+//<0469> Uncanny Stud
+<0469> Uncanny Stud
 
 //<0470> Lolicon
 <0470> Lolicon
@@ -1429,41 +1430,41 @@
 //<0474> Amnesiac
 <0474> Amnesiac
 
-//<0475> 音速
-<0475> 音速
+//<0475> Onsoku
+<0475> Onsoku
 
-//<0476> 無限
-<0476> 無限
+//<0476> Mugen
+<0476> Mugen
 
-//<0477> エロ侍
-<0477> エロ侍
+//<0477> Ero Samurai
+<0477> Ero Samurai
 
 //<0478> エロエロ団ナンバー１
 <0478> エロエロ団ナンバー１
 
-//<0479> ただのエロ少年
-<0479> ただのエロ少年
+//<0479> Just a Pervert
+<0479> Just a Pervert
 
-//<0480> ユリブサイク
-<0480> ユリブサイク
+//<0480> Uglyuri
+<0480> Uglyuri
 
 //<0481> ドピュッシー
 <0481> ドピュッシー
 
-//<0482> アメリカンエロドッグ
-<0482> アメリカンエロドッグ
+//<0482> Horndog
+<0482> Horndog
 
-//<0483> ゼウス
-<0483> ゼウス
+//<0483> Zeus
+<0483> Zeus
 
-//<0484> 日向markⅡ
-<0484> 日向markⅡ
+//<0484> Hinata Mk.Ⅱ
+<0484> Hinata Mk.Ⅱ
 
-//<0485> 糞虫
-<0485> 糞虫
+//<0485> Dung Beatle
+<0485> Dung Beatle
 
-//<0486> 量産型日向
-<0486> 量産型日向
+//<0486> Hinata Clone
+<0486> Hinata Clone
 
 //<0487> ??
 <0487> ??
@@ -1480,8 +1481,8 @@
 //<0491> Substitute
 <0491> Substitute
 
-//<0492> Uncanny Hunk
-<0492> Uncanny Hunk
+//<0492> Uncanny Stud
+<0492> Uncanny Stud
 
 //<0493> Lolicon
 <0493> Lolicon
@@ -1498,41 +1499,41 @@
 //<0497> Amnesiac
 <0497> Amnesiac
 
-//<0498> 音速
-<0498> 音速
+//<0498> Onsoku
+<0498> Onsoku
 
-//<0499> 無限
-<0499> 無限
+//<0499> Mugen
+<0499> Mugen
 
-//<0500> エロ侍
-<0500> エロ侍
+//<0500> Ero Samurai
+<0500> Ero Samurai
 
 //<0501> エロエロ団ナンバー１
 <0501> エロエロ団ナンバー１
 
-//<0502> ただのエロ少年
-<0502> ただのエロ少年
+//<0502> Just a Pervert
+<0502> Just a Pervert
 
-//<0503> ユリブサイク
-<0503> ユリブサイク
+//<0503> Uglyuri
+<0503> Uglyuri
 
 //<0504> ドピュッシー
 <0504> ドピュッシー
 
-//<0505> アメリカンエロドッグ
-<0505> アメリカンエロドッグ
+//<0505> Horndog
+<0505> Horndog
 
-//<0506> ゼウス
-<0506> ゼウス
+//<0506> Zeus
+<0506> Zeus
 
-//<0507> 日向markⅡ
-<0507> 日向markⅡ
+//<0507> Hinata Mk.Ⅱ
+<0507> Hinata Mk.Ⅱ
 
-//<0508> 糞虫
-<0508> 糞虫
+//<0508> Dung Beatle
+<0508> Dung Beatle
 
-//<0509> 量産型日向
-<0509> 量産型日向
+//<0509> Hinata Clone
+<0509> Hinata Clone
 
 //<0510> ??
 <0510> ??
@@ -1561,8 +1562,8 @@
 //<0518> Substitute
 <0518> Substitute
 
-//<0519> Uncanny Hunk
-<0519> Uncanny Hunk
+//<0519> Uncanny Stud
+<0519> Uncanny Stud
 
 //<0520> Lolicon
 <0520> Lolicon
@@ -1579,41 +1580,41 @@
 //<0524> Amnesiac
 <0524> Amnesiac
 
-//<0525> 音速
-<0525> 音速
+//<0525> Onsoku
+<0525> Onsoku
 
-//<0526> 無限
-<0526> 無限
+//<0526> Mugen
+<0526> Mugen
 
-//<0527> エロ侍
-<0527> エロ侍
+//<0527> Ero Samurai
+<0527> Ero Samurai
 
 //<0528> エロエロ団ナンバー１
 <0528> エロエロ団ナンバー１
 
-//<0529> ただのエロ少年
-<0529> ただのエロ少年
+//<0529> Just a Pervert
+<0529> Just a Pervert
 
-//<0530> ユリブサイク
-<0530> ユリブサイク
+//<0530> Uglyuri
+<0530> Uglyuri
 
 //<0531> ドピュッシー
 <0531> ドピュッシー
 
-//<0532> アメリカンエロドッグ
-<0532> アメリカンエロドッグ
+//<0532> Horndog
+<0532> Horndog
 
-//<0533> ゼウス
-<0533> ゼウス
+//<0533> Zeus
+<0533> Zeus
 
-//<0534> 日向markⅡ
-<0534> 日向markⅡ
+//<0534> Hinata Mk.Ⅱ
+<0534> Hinata Mk.Ⅱ
 
-//<0535> 糞虫
-<0535> 糞虫
+//<0535> Dung Beatle
+<0535> Dung Beatle
 
-//<0536> 量産型日向
-<0536> 量産型日向
+//<0536> Hinata Clone
+<0536> Hinata Clone
 
 //<0537> ??
 <0537> ??
@@ -1633,8 +1634,8 @@
 //<0542> Substitute
 <0542> Substitute
 
-//<0543> Uncanny Hunk
-<0543> Uncanny Hunk
+//<0543> Uncanny Stud
+<0543> Uncanny Stud
 
 //<0544> Lolicon
 <0544> Lolicon
@@ -1651,41 +1652,41 @@
 //<0548> Amnesiac
 <0548> Amnesiac
 
-//<0549> 音速
-<0549> 音速
+//<0549> Onsoku
+<0549> Onsoku
 
-//<0550> 無限
-<0550> 無限
+//<0550> Mugen
+<0550> Mugen
 
-//<0551> エロ侍
-<0551> エロ侍
+//<0551> Ero Samurai
+<0551> Ero Samurai
 
 //<0552> エロエロ団ナンバー１
 <0552> エロエロ団ナンバー１
 
-//<0553> ただのエロ少年
-<0553> ただのエロ少年
+//<0553> Just a Pervert
+<0553> Just a Pervert
 
-//<0554> ユリブサイク
-<0554> ユリブサイク
+//<0554> Uglyuri
+<0554> Uglyuri
 
 //<0555> ドピュッシー
 <0555> ドピュッシー
 
-//<0556> アメリカンエロドッグ
-<0556> アメリカンエロドッグ
+//<0556> Horndog
+<0556> Horndog
 
-//<0557> ゼウス
-<0557> ゼウス
+//<0557> Zeus
+<0557> Zeus
 
-//<0558> 日向markⅡ
-<0558> 日向markⅡ
+//<0558> Hinata Mk.Ⅱ
+<0558> Hinata Mk.Ⅱ
 
-//<0559> 糞虫
-<0559> 糞虫
+//<0559> Dung Beatle
+<0559> Dung Beatle
 
-//<0560> 量産型日向
-<0560> 量産型日向
+//<0560> Hinata Clone
+<0560> Hinata Clone
 
 //<0561> ??
 <0561> ??
@@ -1732,8 +1733,8 @@
 //<0575> Substitute
 <0575> Substitute
 
-//<0576> Uncanny Hunk
-<0576> Uncanny Hunk
+//<0576> Uncanny Stud
+<0576> Uncanny Stud
 
 //<0577> Lolicon
 <0577> Lolicon
@@ -1750,47 +1751,47 @@
 //<0581> Amnesiac
 <0581> Amnesiac
 
-//<0582> 音速
-<0582> 音速
+//<0582> Onsoku
+<0582> Onsoku
 
-//<0583> 無限
-<0583> 無限
+//<0583> Mugen
+<0583> Mugen
 
-//<0584> エロ侍
-<0584> エロ侍
+//<0584> Ero Samurai
+<0584> Ero Samurai
 
 //<0585> エロエロ団ナンバー１
 <0585> エロエロ団ナンバー１
 
-//<0586> ただのエロ少年
-<0586> ただのエロ少年
+//<0586> Just a Pervert
+<0586> Just a Pervert
 
-//<0587> ユリブサイク
-<0587> ユリブサイク
+//<0587> Uglyuri
+<0587> Uglyuri
 
 //<0588> ドピュッシー
 <0588> ドピュッシー
 
-//<0589> アメリカンエロドッグ
-<0589> アメリカンエロドッグ
+//<0589> Horndog
+<0589> Horndog
 
-//<0590> ゼウス
-<0590> ゼウス
+//<0590> Zeus
+<0590> Zeus
 
-//<0591> 日向markⅡ
-<0591> 日向markⅡ
+//<0591> Hinata Mk.Ⅱ
+<0591> Hinata Mk.Ⅱ
 
-//<0592> 糞虫
-<0592> 糞虫
+//<0592> Dung Beatle
+<0592> Dung Beatle
 
-//<0593> 量産型日向
-<0593> 量産型日向
+//<0593> Hinata Clone
+<0593> Hinata Clone
 
 //<0594> ??
 <0594> ??
 
 //<0595> （確かにあんなところから落ちて、記憶喪失になっているのなら、病院のベッドの上だよな…）
-<0595> (It's true that if I had amnesia due to falling from a place like that, I'd be in a hospital bed...)
+<0595> (Surely if I had amnesia due to falling from a place like that, I'd be in a hospital bed...)
 
 //<0596> Yuri
 <0596> Yuri
@@ -1813,8 +1814,8 @@
 //<0602> Substitute
 <0602> Substitute
 
-//<0603> Uncanny Hunk
-<0603> Uncanny Hunk
+//<0603> Uncanny Stud
+<0603> Uncanny Stud
 
 //<0604> Lolicon
 <0604> Lolicon
@@ -1831,41 +1832,41 @@
 //<0608> Amnesiac
 <0608> Amnesiac
 
-//<0609> 音速
-<0609> 音速
+//<0609> Onsoku
+<0609> Onsoku
 
-//<0610> 無限
-<0610> 無限
+//<0610> Mugen
+<0610> Mugen
 
-//<0611> エロ侍
-<0611> エロ侍
+//<0611> Ero Samurai
+<0611> Ero Samurai
 
 //<0612> エロエロ団ナンバー１
 <0612> エロエロ団ナンバー１
 
-//<0613> ただのエロ少年
-<0613> ただのエロ少年
+//<0613> Just a Pervert
+<0613> Just a Pervert
 
-//<0614> ユリブサイク
-<0614> ユリブサイク
+//<0614> Uglyuri
+<0614> Uglyuri
 
 //<0615> ドピュッシー
 <0615> ドピュッシー
 
-//<0616> アメリカンエロドッグ
-<0616> アメリカンエロドッグ
+//<0616> Horndog
+<0616> Horndog
 
-//<0617> ゼウス
-<0617> ゼウス
+//<0617> Zeus
+<0617> Zeus
 
-//<0618> 日向markⅡ
-<0618> 日向markⅡ
+//<0618> Hinata Mk.Ⅱ
+<0618> Hinata Mk.Ⅱ
 
-//<0619> 糞虫
-<0619> 糞虫
+//<0619> Dung Beatle
+<0619> Dung Beatle
 
-//<0620> 量産型日向
-<0620> 量産型日向
+//<0620> Hinata Clone
+<0620> Hinata Clone
 
 //<0621> ??
 <0621> ??
@@ -1894,8 +1895,8 @@
 //<0629> Substitute
 <0629> Substitute
 
-//<0630> Uncanny Hunk
-<0630> Uncanny Hunk
+//<0630> Uncanny Stud
+<0630> Uncanny Stud
 
 //<0631> Lolicon
 <0631> Lolicon
@@ -1912,47 +1913,47 @@
 //<0635> Amnesiac
 <0635> Amnesiac
 
-//<0636> 音速
-<0636> 音速
+//<0636> Onsoku
+<0636> Onsoku
 
-//<0637> 無限
-<0637> 無限
+//<0637> Mugen
+<0637> Mugen
 
-//<0638> エロ侍
-<0638> エロ侍
+//<0638> Ero Samurai
+<0638> Ero Samurai
 
 //<0639> エロエロ団ナンバー１
 <0639> エロエロ団ナンバー１
 
-//<0640> ただのエロ少年
-<0640> ただのエロ少年
+//<0640> Just a Pervert
+<0640> Just a Pervert
 
-//<0641> ユリブサイク
-<0641> ユリブサイク
+//<0641> Uglyuri
+<0641> Uglyuri
 
 //<0642> ドピュッシー
 <0642> ドピュッシー
 
-//<0643> アメリカンエロドッグ
-<0643> アメリカンエロドッグ
+//<0643> Horndog
+<0643> Horndog
 
-//<0644> ゼウス
-<0644> ゼウス
+//<0644> Zeus
+<0644> Zeus
 
-//<0645> 日向markⅡ
-<0645> 日向markⅡ
+//<0645> Hinata Mk.Ⅱ
+<0645> Hinata Mk.Ⅱ
 
-//<0646> 糞虫
-<0646> 糞虫
+//<0646> Dung Beatle
+<0646> Dung Beatle
 
-//<0647> 量産型日向
-<0647> 量産型日向
+//<0647> Hinata Clone
+<0647> Hinata Clone
 
 //<0648> ??
 <0648> ??
 
 //<0649> 「その戦線ってのはなに」
-<0649> "What's this battlefront?"
+<0649> "What is this battlefront?"
 
 //<0650> Yuri
 <0650> Yuri
@@ -2002,10 +2003,10 @@
 <0664> ."
 
 //<0665> Schoolgirlは、ほら、と制服の袖に付いているワッペンを指さした。
-<0665> The schoolgirl pointed to a badge on her uniform.。
+<0665> The schoolgirl pointed to a badge on her uniform.
 
 //<0666> 確かにＳＳＳの表記が、月明かりの中でも確認できた。
-<0666> I could definitely see the SSS written under the moonlight.
+<0666> I could definitely see the SSS written on it under the moonlight.
 
 //<0667> nothing
 <0667> nothing
@@ -2041,7 +2042,7 @@
 <0677> ??
 
 //<0678> 「以後、変遷を続けてる。今は『死んでたまるか戦線』」
-<0678> "It kept changing after that. Now it's the 'I-Ain't-Dead-Yet' Battlefront."
+<0678> "It kept changing after that. Right now it's the 'I-Ain't-Dead-Yet' Battlefront."
 
 //<0679> Yuri
 <0679> Yuri
@@ -2065,7 +2066,7 @@
 <0685> ??
 
 //<0686> 「冗談で言ったら『マリッジブルー戦線』になったこともあったわ。何と戦う集団なのよって話ね」
-<0686> "Even if it was a joke, it once became the 'Marriage Blues Battlefront.' What kind of fighting group is that?"
+<0686> "And even if it was a joke, it once became the 'Marriage Blues Battlefront.' What kind of fighting group is that?"
 
 //<0687> Yuri
 <0687> Yuri
@@ -2080,7 +2081,7 @@
 <0690> "Let me know if you have a better idea. I'm tired of thinking about it."
 
 //<0691> かなり喋ってもらったが、どうでもいいことばかりじゃないか。俺はまず当然の疑問を口にすることにした。
-<0691> Even though she talked a lot, it was all pointless ranting. I started by asking the most obvious question.
+<0691> Even though she was talking so much, it was all pointless ranting. I started by asking the most obvious question.
 
 //<0692> Otonashi
 <0692> Otonashi
@@ -2091,8 +2092,8 @@
 //<0694> Substitute
 <0694> Substitute
 
-//<0695> Uncanny Hunk
-<0695> Uncanny Hunk
+//<0695> Uncanny Stud
+<0695> Uncanny Stud
 
 //<0696> Lolicon
 <0696> Lolicon
@@ -2109,41 +2110,41 @@
 //<0700> Amnesiac
 <0700> Amnesiac
 
-//<0701> 音速
-<0701> 音速
+//<0701> Onsoku
+<0701> Onsoku
 
-//<0702> 無限
-<0702> 無限
+//<0702> Mugen
+<0702> Mugen
 
-//<0703> エロ侍
-<0703> エロ侍
+//<0703> Ero Samurai
+<0703> Ero Samurai
 
 //<0704> エロエロ団ナンバー１
 <0704> エロエロ団ナンバー１
 
-//<0705> ただのエロ少年
-<0705> ただのエロ少年
+//<0705> Just a Pervert
+<0705> Just a Pervert
 
-//<0706> ユリブサイク
-<0706> ユリブサイク
+//<0706> Uglyuri
+<0706> Uglyuri
 
 //<0707> ドピュッシー
 <0707> ドピュッシー
 
-//<0708> アメリカンエロドッグ
-<0708> アメリカンエロドッグ
+//<0708> Horndog
+<0708> Horndog
 
-//<0709> ゼウス
-<0709> ゼウス
+//<0709> Zeus
+<0709> Zeus
 
-//<0710> 日向markⅡ
-<0710> 日向markⅡ
+//<0710> Hinata Mk.Ⅱ
+<0710> Hinata Mk.Ⅱ
 
-//<0711> 糞虫
-<0711> 糞虫
+//<0711> Dung Beatle
+<0711> Dung Beatle
 
-//<0712> 量産型日向
-<0712> 量産型日向
+//<0712> Hinata Clone
+<0712> Hinata Clone
 
 //<0713> ??
 <0713> ??
@@ -2172,8 +2173,8 @@
 //<0721> Substitute
 <0721> Substitute
 
-//<0722> Uncanny Hunk
-<0722> Uncanny Hunk
+//<0722> Uncanny Stud
+<0722> Uncanny Stud
 
 //<0723> Lolicon
 <0723> Lolicon
@@ -2190,41 +2191,41 @@
 //<0727> Amnesiac
 <0727> Amnesiac
 
-//<0728> 音速
-<0728> 音速
+//<0728> Onsoku
+<0728> Onsoku
 
-//<0729> 無限
-<0729> 無限
+//<0729> Mugen
+<0729> Mugen
 
-//<0730> エロ侍
-<0730> エロ侍
+//<0730> Ero Samurai
+<0730> Ero Samurai
 
 //<0731> エロエロ団ナンバー１
 <0731> エロエロ団ナンバー１
 
-//<0732> ただのエロ少年
-<0732> ただのエロ少年
+//<0732> Just a Pervert
+<0732> Just a Pervert
 
-//<0733> ユリブサイク
-<0733> ユリブサイク
+//<0733> Uglyuri
+<0733> Uglyuri
 
 //<0734> ドピュッシー
 <0734> ドピュッシー
 
-//<0735> アメリカンエロドッグ
-<0735> アメリカンエロドッグ
+//<0735> Horndog
+<0735> Horndog
 
-//<0736> ゼウス
-<0736> ゼウス
+//<0736> Zeus
+<0736> Zeus
 
-//<0737> 日向markⅡ
-<0737> 日向markⅡ
+//<0737> Hinata Mk.Ⅱ
+<0737> Hinata Mk.Ⅱ
 
-//<0738> 糞虫
-<0738> 糞虫
+//<0738> Dung Beatle
+<0738> Dung Beatle
 
-//<0739> 量産型日向
-<0739> 量産型日向
+//<0739> Hinata Clone
+<0739> Hinata Clone
 
 //<0740> ??
 <0740> ??
@@ -2242,7 +2243,7 @@
 <0744> ??
 
 //<0745> 「戦うのよ」
-<0745> "You'll fight."
+<0745> "You fight."
 
 //<0746> Otonashi
 <0746> Otonashi
@@ -2253,8 +2254,8 @@
 //<0748> Substitute
 <0748> Substitute
 
-//<0749> Uncanny Hunk
-<0749> Uncanny Hunk
+//<0749> Uncanny Stud
+<0749> Uncanny Stud
 
 //<0750> Lolicon
 <0750> Lolicon
@@ -2271,41 +2272,41 @@
 //<0754> Amnesiac
 <0754> Amnesiac
 
-//<0755> 音速
-<0755> 音速
+//<0755> Onsoku
+<0755> Onsoku
 
-//<0756> 無限
-<0756> 無限
+//<0756> Mugen
+<0756> Mugen
 
-//<0757> エロ侍
-<0757> エロ侍
+//<0757> Ero Samurai
+<0757> Ero Samurai
 
 //<0758> エロエロ団ナンバー１
 <0758> エロエロ団ナンバー１
 
-//<0759> ただのエロ少年
-<0759> ただのエロ少年
+//<0759> Just a Pervert
+<0759> Just a Pervert
 
-//<0760> ユリブサイク
-<0760> ユリブサイク
+//<0760> Uglyuri
+<0760> Uglyuri
 
 //<0761> ドピュッシー
 <0761> ドピュッシー
 
-//<0762> アメリカンエロドッグ
-<0762> アメリカンエロドッグ
+//<0762> Horndog
+<0762> Horndog
 
-//<0763> ゼウス
-<0763> ゼウス
+//<0763> Zeus
+<0763> Zeus
 
-//<0764> 日向markⅡ
-<0764> 日向markⅡ
+//<0764> Hinata Mk.Ⅱ
+<0764> Hinata Mk.Ⅱ
 
-//<0765> 糞虫
-<0765> 糞虫
+//<0765> Dung Beatle
+<0765> Dung Beatle
 
-//<0766> 量産型日向
-<0766> 量産型日向
+//<0766> Hinata Clone
+<0766> Hinata Clone
 
 //<0767> ??
 <0767> ??
@@ -2350,7 +2351,7 @@
 <0780> ??
 
 //<0781> 「あれが『死んでたまるか戦線』の敵…『Tenshi』よ。やっぱ『死んでたまるか戦線』はとっとと変えたいわ…あなた考えておいて」
-<0781> "That's the 'I-Ain't-Dead-Yet' Battlefront's enemy...'Tenshi.' I'd really like to hurry and change 'I-Ain't-Dead-Yet' to something else... You. Think of something."
+<0781> "That's the 'I-Ain't-Dead-Yet' Battlefront's enemy...'Tenshi.' I'd really like to hurry up and change 'I-Ain't-Dead-Yet' to something else... You, think of something."
 
 //<0782> nothing
 <0782> nothing
@@ -2391,8 +2392,8 @@
 //<0794> Substitute
 <0794> Substitute
 
-//<0795> Uncanny Hunk
-<0795> Uncanny Hunk
+//<0795> Uncanny Stud
+<0795> Uncanny Stud
 
 //<0796> Lolicon
 <0796> Lolicon
@@ -2409,47 +2410,47 @@
 //<0800> Amnesiac
 <0800> Amnesiac
 
-//<0801> 音速
-<0801> 音速
+//<0801> Onsoku
+<0801> Onsoku
 
-//<0802> 無限
-<0802> 無限
+//<0802> Mugen
+<0802> Mugen
 
-//<0803> エロ侍
-<0803> エロ侍
+//<0803> Ero Samurai
+<0803> Ero Samurai
 
 //<0804> エロエロ団ナンバー１
 <0804> エロエロ団ナンバー１
 
-//<0805> ただのエロ少年
-<0805> ただのエロ少年
+//<0805> Just a Pervert
+<0805> Just a Pervert
 
-//<0806> ユリブサイク
-<0806> ユリブサイク
+//<0806> Uglyuri
+<0806> Uglyuri
 
 //<0807> ドピュッシー
 <0807> ドピュッシー
 
-//<0808> アメリカンエロドッグ
-<0808> アメリカンエロドッグ
+//<0808> Horndog
+<0808> Horndog
 
-//<0809> ゼウス
-<0809> ゼウス
+//<0809> Zeus
+<0809> Zeus
 
-//<0810> 日向markⅡ
-<0810> 日向markⅡ
+//<0810> Hinata Mk.Ⅱ
+<0810> Hinata Mk.Ⅱ
 
-//<0811> 糞虫
-<0811> 糞虫
+//<0811> Dung Beatle
+<0811> Dung Beatle
 
-//<0812> 量産型日向
-<0812> 量産型日向
+//<0812> Hinata Clone
+<0812> Hinata Clone
 
 //<0813> ??
 <0813> ??
 
 //<0814> 「Tenshi？　…普通の女の子じゃないか」
-<0814> "Tenshi?...It's just a normal girl."
+<0814> "Tenshi? ...It's just a normal girl."
 
 //<0815> Yuri
 <0815> Yuri
@@ -2461,7 +2462,7 @@
 <0817> ??
 
 //<0818> 「そう見えるけど…あいつは人間じゃない…」
-<0818> "That's how she looks but...that thing isn't human..."
+<0818> "That's how she looks, but...that thing isn't human..."
 
 //<0819> Otonashi
 <0819> Otonashi
@@ -2472,8 +2473,8 @@
 //<0821> Substitute
 <0821> Substitute
 
-//<0822> Uncanny Hunk
-<0822> Uncanny Hunk
+//<0822> Uncanny Stud
+<0822> Uncanny Stud
 
 //<0823> Lolicon
 <0823> Lolicon
@@ -2490,41 +2491,41 @@
 //<0827> Amnesiac
 <0827> Amnesiac
 
-//<0828> 音速
-<0828> 音速
+//<0828> Onsoku
+<0828> Onsoku
 
-//<0829> 無限
-<0829> 無限
+//<0829> Mugen
+<0829> Mugen
 
-//<0830> エロ侍
-<0830> エロ侍
+//<0830> Ero Samurai
+<0830> Ero Samurai
 
 //<0831> エロエロ団ナンバー１
 <0831> エロエロ団ナンバー１
 
-//<0832> ただのエロ少年
-<0832> ただのエロ少年
+//<0832> Just a Pervert
+<0832> Just a Pervert
 
-//<0833> ユリブサイク
-<0833> ユリブサイク
+//<0833> Uglyuri
+<0833> Uglyuri
 
 //<0834> ドピュッシー
 <0834> ドピュッシー
 
-//<0835> アメリカンエロドッグ
-<0835> アメリカンエロドッグ
+//<0835> Horndog
+<0835> Horndog
 
-//<0836> ゼウス
-<0836> ゼウス
+//<0836> Zeus
+<0836> Zeus
 
-//<0837> 日向markⅡ
-<0837> 日向markⅡ
+//<0837> Hinata Mk.Ⅱ
+<0837> Hinata Mk.Ⅱ
 
-//<0838> 糞虫
-<0838> 糞虫
+//<0838> Dung Beatle
+<0838> Dung Beatle
 
-//<0839> 量産型日向
-<0839> 量産型日向
+//<0839> Hinata Clone
+<0839> Hinata Clone
 
 //<0840> ??
 <0840> ??
@@ -2542,7 +2543,7 @@
 <0844> ??
 
 //<0845> 「その凶悪なる力を行使して、あたしたちを無理矢理授業や、部活や、テストに追い立てるのよ…」
-<0845> "She forcibly makes us do things like go to class, attend clubs, and take tests..."
+<0845> "She forces us to do things like go to class, attend clubs, and take tests..."
 
 //<0846> Otonashi
 <0846> Otonashi
@@ -2553,8 +2554,8 @@
 //<0848> Substitute
 <0848> Substitute
 
-//<0849> Uncanny Hunk
-<0849> Uncanny Hunk
+//<0849> Uncanny Stud
+<0849> Uncanny Stud
 
 //<0850> Lolicon
 <0850> Lolicon
@@ -2571,50 +2572,50 @@
 //<0854> Amnesiac
 <0854> Amnesiac
 
-//<0855> 音速
-<0855> 音速
+//<0855> Onsoku
+<0855> Onsoku
 
-//<0856> 無限
-<0856> 無限
+//<0856> Mugen
+<0856> Mugen
 
-//<0857> エロ侍
-<0857> エロ侍
+//<0857> Ero Samurai
+<0857> Ero Samurai
 
 //<0858> エロエロ団ナンバー１
 <0858> エロエロ団ナンバー１
 
-//<0859> ただのエロ少年
-<0859> ただのエロ少年
+//<0859> Just a Pervert
+<0859> Just a Pervert
 
-//<0860> ユリブサイク
-<0860> ユリブサイク
+//<0860> Uglyuri
+<0860> Uglyuri
 
 //<0861> ドピュッシー
 <0861> ドピュッシー
 
-//<0862> アメリカンエロドッグ
-<0862> アメリカンエロドッグ
+//<0862> Horndog
+<0862> Horndog
 
-//<0863> ゼウス
-<0863> ゼウス
+//<0863> Zeus
+<0863> Zeus
 
-//<0864> 日向markⅡ
-<0864> 日向markⅡ
+//<0864> Hinata Mk.Ⅱ
+<0864> Hinata Mk.Ⅱ
 
-//<0865> 糞虫
-<0865> 糞虫
+//<0865> Dung Beatle
+<0865> Dung Beatle
 
-//<0866> 量産型日向
-<0866> 量産型日向
+//<0866> Hinata Clone
+<0866> Hinata Clone
 
 //<0867> ??
 <0867> ??
 
 //<0868> 「へぇ…って、え？」
-<0868> "Uhh...that, eh?"
+<0868> "Ohh...wait, what?"
 
 //<0869> おいおい、待てよ…。
-<0869> Wait, wait a moment...
+<0869> Hey now, hold up...
 
 //<0870> Yuri
 <0870> Yuri
@@ -2647,7 +2648,7 @@
 <0879> This is bad.
 
 //<0880> 一度はこいつを信じたが、却下させてもらいたい。
-<0880> I believed her once, but I want to refute that.
+<0880> I believed her once, but now I want to change my mind.
 
 //<0881> 状況が、じゃない…。
 <0881> This is wrong...
@@ -2668,8 +2669,8 @@
 //<0886> Substitute
 <0886> Substitute
 
-//<0887> Uncanny Hunk
-<0887> Uncanny Hunk
+//<0887> Uncanny Stud
+<0887> Uncanny Stud
 
 //<0888> Lolicon
 <0888> Lolicon
@@ -2686,41 +2687,41 @@
 //<0892> Amnesiac
 <0892> Amnesiac
 
-//<0893> 音速
-<0893> 音速
+//<0893> Onsoku
+<0893> Onsoku
 
-//<0894> 無限
-<0894> 無限
+//<0894> Mugen
+<0894> Mugen
 
-//<0895> エロ侍
-<0895> エロ侍
+//<0895> Ero Samurai
+<0895> Ero Samurai
 
 //<0896> エロエロ団ナンバー１
 <0896> エロエロ団ナンバー１
 
-//<0897> ただのエロ少年
-<0897> ただのエロ少年
+//<0897> Just a Pervert
+<0897> Just a Pervert
 
-//<0898> ユリブサイク
-<0898> ユリブサイク
+//<0898> Uglyuri
+<0898> Uglyuri
 
 //<0899> ドピュッシー
 <0899> ドピュッシー
 
-//<0900> アメリカンエロドッグ
-<0900> アメリカンエロドッグ
+//<0900> Horndog
+<0900> Horndog
 
-//<0901> ゼウス
-<0901> ゼウス
+//<0901> Zeus
+<0901> Zeus
 
-//<0902> 日向markⅡ
-<0902> 日向markⅡ
+//<0902> Hinata Mk.Ⅱ
+<0902> Hinata Mk.Ⅱ
 
-//<0903> 糞虫
-<0903> 糞虫
+//<0903> Dung Beatle
+<0903> Dung Beatle
 
-//<0904> 量産型日向
-<0904> 量産型日向
+//<0904> Hinata Clone
+<0904> Hinata Clone
 
 //<0905> ??
 <0905> ??
@@ -2798,7 +2799,7 @@
 <0929> ??
 
 //<0930> 「あなた、信じるって言ったじゃない！？　なのになぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
-<0930> "Didn't you say you believed me!? So why!? I don't get your logic! How did you come up with that!? Is there something wrong with your head!?" 
+<0930> "Didn't you say you believed me!? So why!? I don't get it! How did you come up with that!? Is there something wrong with your head!?" 
 
 //<0931> これは完全に、こいつの言っていることがおかしい。そう確信した。
 <0931> Everything she's saying is absurd. I'm sure of it now.
@@ -2815,8 +2816,8 @@
 //<0935> Substitute
 <0935> Substitute
 
-//<0936> Uncanny Hunk
-<0936> Uncanny Hunk
+//<0936> Uncanny Stud
+<0936> Uncanny Stud
 
 //<0937> Lolicon
 <0937> Lolicon
@@ -2833,41 +2834,41 @@
 //<0941> Amnesiac
 <0941> Amnesiac
 
-//<0942> 音速
-<0942> 音速
+//<0942> Onsoku
+<0942> Onsoku
 
-//<0943> 無限
-<0943> 無限
+//<0943> Mugen
+<0943> Mugen
 
-//<0944> エロ侍
-<0944> エロ侍
+//<0944> Ero Samurai
+<0944> Ero Samurai
 
 //<0945> エロエロ団ナンバー１
 <0945> エロエロ団ナンバー１
 
-//<0946> ただのエロ少年
-<0946> ただのエロ少年
+//<0946> Just a Pervert
+<0946> Just a Pervert
 
-//<0947> ユリブサイク
-<0947> ユリブサイク
+//<0947> Uglyuri
+<0947> Uglyuri
 
 //<0948> ドピュッシー
 <0948> ドピュッシー
 
-//<0949> アメリカンエロドッグ
-<0949> アメリカンエロドッグ
+//<0949> Horndog
+<0949> Horndog
 
-//<0950> ゼウス
-<0950> ゼウス
+//<0950> Zeus
+<0950> Zeus
 
-//<0951> 日向markⅡ
-<0951> 日向markⅡ
+//<0951> Hinata Mk.Ⅱ
+<0951> Hinata Mk.Ⅱ
 
-//<0952> 糞虫
-<0952> 糞虫
+//<0952> Dung Beatle
+<0952> Dung Beatle
 
-//<0953> 量産型日向
-<0953> 量産型日向
+//<0953> Hinata Clone
+<0953> Hinata Clone
 
 //<0954> ??
 <0954> ??
@@ -2945,7 +2946,8 @@
 <0978> ??
 
 //<0979> 「なぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
-<0979> "Why!? I don't get your logic! Why would you think to do that!? Is there something wrong with your head!?" 
+<0979> "Why!? I don't get it! Why would you think to do that!? Is there something wrong with your head!?" 
+// We have 2 TLs for どうしたらそんな思考に至るの right now. I personally think it sounds better as "What the hec was was your thought process?"
 
 //<0980> nothing
 <0980> nothing
@@ -2975,8 +2977,8 @@
 //<0988> Substitute
 <0988> Substitute
 
-//<0989> Uncanny Hunk
-<0989> Uncanny Hunk
+//<0989> Uncanny Stud
+<0989> Uncanny Stud
 
 //<0990> Lolicon
 <0990> Lolicon
@@ -2993,41 +2995,41 @@
 //<0994> Amnesiac
 <0994> Amnesiac
 
-//<0995> 音速
-<0995> 音速
+//<0995> Onsoku
+<0995> Onsoku
 
-//<0996> 無限
-<0996> 無限
+//<0996> Mugen
+<0996> Mugen
 
-//<0997> エロ侍
-<0997> エロ侍
+//<0997> Ero Samurai
+<0997> Ero Samurai
 
 //<0998> エロエロ団ナンバー１
 <0998> エロエロ団ナンバー１
 
-//<0999> ただのエロ少年
-<0999> ただのエロ少年
+//<0999> Just a Pervert
+<0999> Just a Pervert
 
-//<1000> ユリブサイク
-<1000> ユリブサイク
+//<1000> Uglyuri
+<1000> Uglyuri
 
 //<1001> ドピュッシー
 <1001> ドピュッシー
 
-//<1002> アメリカンエロドッグ
-<1002> アメリカンエロドッグ
+//<1002> Horndog
+<1002> Horndog
 
-//<1003> ゼウス
-<1003> ゼウス
+//<1003> Zeus
+<1003> Zeus
 
-//<1004> 日向markⅡ
-<1004> 日向markⅡ
+//<1004> Hinata Mk.Ⅱ
+<1004> Hinata Mk.Ⅱ
 
-//<1005> 糞虫
-<1005> 糞虫
+//<1005> Dung Beatle
+<1005> Dung Beatle
 
-//<1006> 量産型日向
-<1006> 量産型日向
+//<1006> Hinata Clone
+<1006> Hinata Clone
 
 //<1007> ??
 <1007> ??
@@ -3060,7 +3062,7 @@
 <1016> ??
 
 //<1017> 「死んでんのよ、あたしたち！？」
-<1017> "You know we're dead!?"
+<1017> "You know we're dead, right!?"
 
 //<1018> Otonashi
 <1018> Otonashi
@@ -3071,8 +3073,8 @@
 //<1020> Substitute
 <1020> Substitute
 
-//<1021> Uncanny Hunk
-<1021> Uncanny Hunk
+//<1021> Uncanny Stud
+<1021> Uncanny Stud
 
 //<1022> Lolicon
 <1022> Lolicon
@@ -3089,47 +3091,47 @@
 //<1026> Amnesiac
 <1026> Amnesiac
 
-//<1027> 音速
-<1027> 音速
+//<1027> Onsoku
+<1027> Onsoku
 
-//<1028> 無限
-<1028> 無限
+//<1028> Mugen
+<1028> Mugen
 
-//<1029> エロ侍
-<1029> エロ侍
+//<1029> Ero Samurai
+<1029> Ero Samurai
 
 //<1030> エロエロ団ナンバー１
 <1030> エロエロ団ナンバー１
 
-//<1031> ただのエロ少年
-<1031> ただのエロ少年
+//<1031> Just a Pervert
+<1031> Just a Pervert
 
-//<1032> ユリブサイク
-<1032> ユリブサイク
+//<1032> Uglyuri
+<1032> Uglyuri
 
 //<1033> ドピュッシー
 <1033> ドピュッシー
 
-//<1034> アメリカンエロドッグ
-<1034> アメリカンエロドッグ
+//<1034> Horndog
+<1034> Horndog
 
-//<1035> ゼウス
-<1035> ゼウス
+//<1035> Zeus
+<1035> Zeus
 
-//<1036> 日向markⅡ
-<1036> 日向markⅡ
+//<1036> Hinata Mk.Ⅱ
+<1036> Hinata Mk.Ⅱ
 
-//<1037> 糞虫
-<1037> 糞虫
+//<1037> Dung Beatle
+<1037> Dung Beatle
 
-//<1038> 量産型日向
-<1038> 量産型日向
+//<1038> Hinata Clone
+<1038> Hinata Clone
 
 //<1039> ??
 <1039> ??
 
 //<1040> 「すごく矛盾したことを言う奴だな…。『死んでたまるか戦線』じゃなかったのか？」
-<1040> "Isn't that quite a contradiction...to the 'I-Ain't-Dead-Yet' Battlefront?"
+<1040> "Isn't that a huge contradiction... to the 'I-Ain't-Dead-Yet' Battlefront?"
 
 //<1041> nothing
 <1041> nothing
@@ -3167,8 +3169,8 @@
 //<1052> Substitute
 <1052> Substitute
 
-//<1053> Uncanny Hunk
-<1053> Uncanny Hunk
+//<1053> Uncanny Stud
+<1053> Uncanny Stud
 
 //<1054> Lolicon
 <1054> Lolicon
@@ -3185,41 +3187,41 @@
 //<1058> Amnesiac
 <1058> Amnesiac
 
-//<1059> 音速
-<1059> 音速
+//<1059> Onsoku
+<1059> Onsoku
 
-//<1060> 無限
-<1060> 無限
+//<1060> Mugen
+<1060> Mugen
 
-//<1061> エロ侍
-<1061> エロ侍
+//<1061> Ero Samurai
+<1061> Ero Samurai
 
 //<1062> エロエロ団ナンバー１
 <1062> エロエロ団ナンバー１
 
-//<1063> ただのエロ少年
-<1063> ただのエロ少年
+//<1063> Just a Pervert
+<1063> Just a Pervert
 
-//<1064> ユリブサイク
-<1064> ユリブサイク
+//<1064> Uglyuri
+<1064> Uglyuri
 
 //<1065> ドピュッシー
 <1065> ドピュッシー
 
-//<1066> アメリカンエロドッグ
-<1066> アメリカンエロドッグ
+//<1066> Horndog
+<1066> Horndog
 
-//<1067> ゼウス
-<1067> ゼウス
+//<1067> Zeus
+<1067> Zeus
 
-//<1068> 日向markⅡ
-<1068> 日向markⅡ
+//<1068> Hinata Mk.Ⅱ
+<1068> Hinata Mk.Ⅱ
 
-//<1069> 糞虫
-<1069> 糞虫
+//<1069> Dung Beatle
+<1069> Dung Beatle
 
-//<1070> 量産型日向
-<1070> 量産型日向
+//<1070> Hinata Clone
+<1070> Hinata Clone
 
 //<1071> ??
 <1071> ??
@@ -3252,7 +3254,7 @@
 <1080> ??
 
 //<1081> 「あのねぇ…死んじゃったけど、このまま死ねるかってぎりぎりのところで抗ってるの！　そこに今居るのよっ、ここはそういう世界なのよっ、そんな世界で授業を受ける義務なんてあるわけないじゃない！」
-<1081> "You know... We died but we're fighting against this world of death! We're alive here. This is that kind of world, so there's no reason why we'd have to take tests!"
+<1081> "You know... We died but we're fighting against this world of death! We're alive here. Thats how this world works, so there's no reason why we'd have to take tests!"
 //TL check
 {1e397} 10 // 1081
 
@@ -3282,7 +3284,7 @@
 {1e95c} 33 // 1089
 
 //<1090> 「あなたばっかなんじゃない！？　いっぺん死んだら？　これは死ねないこの世界でよく使われるジョークなんだけどどう？　笑えるかしら！？」
-<1090> "Are you stupid!? What if you died for good? Are you just going to use this world where you can't die as a joke? Are you just going to laugh!?"
+<1090> "Are you stupid!? What if you died for good? That's our joke in this word where you can't die. How was it? Are you gonna laugh!?"
 
 //<1091> nothing
 <1091> nothing
@@ -3317,8 +3319,8 @@
 //<1101> Substitute
 <1101> Substitute
 
-//<1102> Uncanny Hunk
-<1102> Uncanny Hunk
+//<1102> Uncanny Stud
+<1102> Uncanny Stud
 
 //<1103> Lolicon
 <1103> Lolicon
@@ -3335,41 +3337,41 @@
 //<1107> Amnesiac
 <1107> Amnesiac
 
-//<1108> 音速
-<1108> 音速
+//<1108> Onsoku
+<1108> Onsoku
 
-//<1109> 無限
-<1109> 無限
+//<1109> Mugen
+<1109> Mugen
 
-//<1110> エロ侍
-<1110> エロ侍
+//<1110> Ero Samurai
+<1110> Ero Samurai
 
 //<1111> エロエロ団ナンバー１
 <1111> エロエロ団ナンバー１
 
-//<1112> ただのエロ少年
-<1112> ただのエロ少年
+//<1112> Just a Pervert
+<1112> Just a Pervert
 
-//<1113> ユリブサイク
-<1113> ユリブサイク
+//<1113> Uglyuri
+<1113> Uglyuri
 
 //<1114> ドピュッシー
 <1114> ドピュッシー
 
-//<1115> アメリカンエロドッグ
-<1115> アメリカンエロドッグ
+//<1115> Horndog
+<1115> Horndog
 
-//<1116> ゼウス
-<1116> ゼウス
+//<1116> Zeus
+<1116> Zeus
 
-//<1117> 日向markⅡ
-<1117> 日向markⅡ
+//<1117> Hinata Mk.Ⅱ
+<1117> Hinata Mk.Ⅱ
 
-//<1118> 糞虫
-<1118> 糞虫
+//<1118> Dung Beatle
+<1118> Dung Beatle
 
-//<1119> 量産型日向
-<1119> 量産型日向
+//<1119> Hinata Clone
+<1119> Hinata Clone
 
 //<1120> ??
 <1120> ??
@@ -3402,7 +3404,7 @@
 <1129> ??
 
 //<1130> 「なんて乾いた笑い！　この世界では鉄板ジョークなのに！」
-<1130> "Such a weak laugh! Even though this world is a sure-fire joke!"
+<1130> "Such a dry laugh! Even though it's a sure-fire joke in this world!"
 
 //<1131> Otonashi
 <1131> Otonashi
@@ -3413,8 +3415,8 @@
 //<1133> Substitute
 <1133> Substitute
 
-//<1134> Uncanny Hunk
-<1134> Uncanny Hunk
+//<1134> Uncanny Stud
+<1134> Uncanny Stud
 
 //<1135> Lolicon
 <1135> Lolicon
@@ -3431,47 +3433,48 @@
 //<1139> Amnesiac
 <1139> Amnesiac
 
-//<1140> 音速
-<1140> 音速
+//<1140> Onsoku
+<1140> Onsoku
 
-//<1141> 無限
-<1141> 無限
+//<1141> Mugen
+<1141> Mugen
 
-//<1142> エロ侍
-<1142> エロ侍
+//<1142> Ero Samurai
+<1142> Ero Samurai
 
 //<1143> エロエロ団ナンバー１
 <1143> エロエロ団ナンバー１
 
-//<1144> ただのエロ少年
-<1144> ただのエロ少年
+//<1144> Just a Pervert
+<1144> Just a Pervert
 
-//<1145> ユリブサイク
-<1145> ユリブサイク
+//<1145> Uglyuri
+<1145> Uglyuri
 
 //<1146> ドピュッシー
 <1146> ドピュッシー
 
-//<1147> アメリカンエロドッグ
-<1147> アメリカンエロドッグ
+//<1147> Horndog
+<1147> Horndog
 
-//<1148> ゼウス
-<1148> ゼウス
+//<1148> Zeus
+<1148> Zeus
 
-//<1149> 日向markⅡ
-<1149> 日向markⅡ
+//<1149> Hinata Mk.Ⅱ
+<1149> Hinata Mk.Ⅱ
 
-//<1150> 糞虫
-<1150> 糞虫
+//<1150> Dung Beatle
+<1150> Dung Beatle
 
-//<1151> 量産型日向
-<1151> 量産型日向
+//<1151> Hinata Clone
+<1151> Hinata Clone
 
 //<1152> ??
 <1152> ??
 
 //<1153> 「いや、これぐらいで許してくれよ」
 <1153> "No, please excuse at least this."
+// Or maybe "forgive me at least this"?
 
 //<1154> Otonashi
 <1154> Otonashi
@@ -3482,8 +3485,8 @@
 //<1156> Substitute
 <1156> Substitute
 
-//<1157> Uncanny Hunk
-<1157> Uncanny Hunk
+//<1157> Uncanny Stud
+<1157> Uncanny Stud
 
 //<1158> Lolicon
 <1158> Lolicon
@@ -3500,47 +3503,47 @@
 //<1162> Amnesiac
 <1162> Amnesiac
 
-//<1163> 音速
-<1163> 音速
+//<1163> Onsoku
+<1163> Onsoku
 
-//<1164> 無限
-<1164> 無限
+//<1164> Mugen
+<1164> Mugen
 
-//<1165> エロ侍
-<1165> エロ侍
+//<1165> Ero Samurai
+<1165> Ero Samurai
 
 //<1166> エロエロ団ナンバー１
 <1166> エロエロ団ナンバー１
 
-//<1167> ただのエロ少年
-<1167> ただのエロ少年
+//<1167> Just a Pervert
+<1167> Just a Pervert
 
-//<1168> ユリブサイク
-<1168> ユリブサイク
+//<1168> Uglyuri
+<1168> Uglyuri
 
 //<1169> ドピュッシー
 <1169> ドピュッシー
 
-//<1170> アメリカンエロドッグ
-<1170> アメリカンエロドッグ
+//<1170> Horndog
+<1170> Horndog
 
-//<1171> ゼウス
-<1171> ゼウス
+//<1171> Zeus
+<1171> Zeus
 
-//<1172> 日向markⅡ
-<1172> 日向markⅡ
+//<1172> Hinata Mk.Ⅱ
+<1172> Hinata Mk.Ⅱ
 
-//<1173> 糞虫
-<1173> 糞虫
+//<1173> Dung Beatle
+<1173> Dung Beatle
 
-//<1174> 量産型日向
-<1174> 量産型日向
+//<1174> Hinata Clone
+<1174> Hinata Clone
 
 //<1175> ??
 <1175> ??
 
 //<1176> 「とりあえず、どいてくれないか？」
-<1176> "Anyway, can't you move?"
+<1176> "Anyway, can you move?"
 
 //<1177> Otonashi
 <1177> Otonashi
@@ -3551,8 +3554,8 @@
 //<1179> Substitute
 <1179> Substitute
 
-//<1180> Uncanny Hunk
-<1180> Uncanny Hunk
+//<1180> Uncanny Stud
+<1180> Uncanny Stud
 
 //<1181> Lolicon
 <1181> Lolicon
@@ -3569,47 +3572,47 @@
 //<1185> Amnesiac
 <1185> Amnesiac
 
-//<1186> 音速
-<1186> 音速
+//<1186> Onsoku
+<1186> Onsoku
 
-//<1187> 無限
-<1187> 無限
+//<1187> Mugen
+<1187> Mugen
 
-//<1188> エロ侍
-<1188> エロ侍
+//<1188> Ero Samurai
+<1188> Ero Samurai
 
 //<1189> エロエロ団ナンバー１
 <1189> エロエロ団ナンバー１
 
-//<1190> ただのエロ少年
-<1190> ただのエロ少年
+//<1190> Just a Pervert
+<1190> Just a Pervert
 
-//<1191> ユリブサイク
-<1191> ユリブサイク
+//<1191> Uglyuri
+<1191> Uglyuri
 
 //<1192> ドピュッシー
 <1192> ドピュッシー
 
-//<1193> アメリカンエロドッグ
-<1193> アメリカンエロドッグ
+//<1193> Horndog
+<1193> Horndog
 
-//<1194> ゼウス
-<1194> ゼウス
+//<1194> Zeus
+<1194> Zeus
 
-//<1195> 日向markⅡ
-<1195> 日向markⅡ
+//<1195> Hinata Mk.Ⅱ
+<1195> Hinata Mk.Ⅱ
 
-//<1196> 糞虫
-<1196> 糞虫
+//<1196> Dung Beatle
+<1196> Dung Beatle
 
-//<1197> 量産型日向
-<1197> 量産型日向
+//<1197> Hinata Clone
+<1197> Hinata Clone
 
 //<1198> ??
 <1198> ??
 
 //<1199> 「まあ、ジョークの感想はいいとして、俺、向こう行くから、どいてくれないか？」
-<1199> "Well, I think I get the joke, but can't you move so I can go over there?"
+<1199> "Well, I think I get the joke, but can you move so I can go over there?"
 
 //<1200> nothing
 <1200> nothing
@@ -3639,7 +3642,7 @@
 <1208> "......"
 
 //<1209> 黙ったままこっちを見ている。そんな女生徒の隣を通り過ぎる時。
-<1209> She silently stares at me as each second passes.
+<1209> She silently stares at me as the seconds pass by.
 
 //<1210> nothing
 <1210> nothing
@@ -3666,7 +3669,7 @@
 <1217> ??
 
 //<1218> 「…あなた、それでいいの」
-<1218> "...if it's fine with you."
+<1218> "...are you really OK with that?"
 
 //<1219> Otonashi
 <1219> Otonashi
@@ -3677,8 +3680,8 @@
 //<1221> Substitute
 <1221> Substitute
 
-//<1222> Uncanny Hunk
-<1222> Uncanny Hunk
+//<1222> Uncanny Stud
+<1222> Uncanny Stud
 
 //<1223> Lolicon
 <1223> Lolicon
@@ -3695,47 +3698,47 @@
 //<1227> Amnesiac
 <1227> Amnesiac
 
-//<1228> 音速
-<1228> 音速
+//<1228> Onsoku
+<1228> Onsoku
 
-//<1229> 無限
-<1229> 無限
+//<1229> Mugen
+<1229> Mugen
 
-//<1230> エロ侍
-<1230> エロ侍
+//<1230> Ero Samurai
+<1230> Ero Samurai
 
 //<1231> エロエロ団ナンバー１
 <1231> エロエロ団ナンバー１
 
-//<1232> ただのエロ少年
-<1232> ただのエロ少年
+//<1232> Just a Pervert
+<1232> Just a Pervert
 
-//<1233> ユリブサイク
-<1233> ユリブサイク
+//<1233> Uglyuri
+<1233> Uglyuri
 
 //<1234> ドピュッシー
 <1234> ドピュッシー
 
-//<1235> アメリカンエロドッグ
-<1235> アメリカンエロドッグ
+//<1235> Horndog
+<1235> Horndog
 
-//<1236> ゼウス
-<1236> ゼウス
+//<1236> Zeus
+<1236> Zeus
 
-//<1237> 日向markⅡ
-<1237> 日向markⅡ
+//<1237> Hinata Mk.Ⅱ
+<1237> Hinata Mk.Ⅱ
 
-//<1238> 糞虫
-<1238> 糞虫
+//<1238> Dung Beatle
+<1238> Dung Beatle
 
-//<1239> 量産型日向
-<1239> 量産型日向
+//<1239> Hinata Clone
+<1239> Hinata Clone
 
 //<1240> ??
 <1240> ??
 
 //<1241> 「なにが」
-<1241> "What is?"
+<1241> "OK with what?"
 
 //<1242> nothing
 <1242> nothing
@@ -3773,8 +3776,8 @@
 //<1253> Substitute
 <1253> Substitute
 
-//<1254> Uncanny Hunk
-<1254> Uncanny Hunk
+//<1254> Uncanny Stud
+<1254> Uncanny Stud
 
 //<1255> Lolicon
 <1255> Lolicon
@@ -3791,41 +3794,41 @@
 //<1259> Amnesiac
 <1259> Amnesiac
 
-//<1260> 音速
-<1260> 音速
+//<1260> Onsoku
+<1260> Onsoku
 
-//<1261> 無限
-<1261> 無限
+//<1261> Mugen
+<1261> Mugen
 
-//<1262> エロ侍
-<1262> エロ侍
+//<1262> Ero Samurai
+<1262> Ero Samurai
 
 //<1263> エロエロ団ナンバー１
 <1263> エロエロ団ナンバー１
 
-//<1264> ただのエロ少年
-<1264> ただのエロ少年
+//<1264> Just a Pervert
+<1264> Just a Pervert
 
-//<1265> ユリブサイク
-<1265> ユリブサイク
+//<1265> Uglyuri
+<1265> Uglyuri
 
 //<1266> ドピュッシー
 <1266> ドピュッシー
 
-//<1267> アメリカンエロドッグ
-<1267> アメリカンエロドッグ
+//<1267> Horndog
+<1267> Horndog
 
-//<1268> ゼウス
-<1268> ゼウス
+//<1268> Zeus
+<1268> Zeus
 
-//<1269> 日向markⅡ
-<1269> 日向markⅡ
+//<1269> Hinata Mk.Ⅱ
+<1269> Hinata Mk.Ⅱ
 
-//<1270> 糞虫
-<1270> 糞虫
+//<1270> Dung Beatle
+<1270> Dung Beatle
 
-//<1271> 量産型日向
-<1271> 量産型日向
+//<1271> Hinata Clone
+<1271> Hinata Clone
 
 //<1272> ??
 <1272> ??
@@ -3861,7 +3864,7 @@
 <1282> "That you'll die in the truest meaning of the word?"
 
 //<1283> その顔はいやに神妙だ。
-<1283> With an expression refusing to accept it.
+<1283> Her face tells me she's not messing around.
 //TL check
 
 //<1284> nothing
@@ -3916,7 +3919,7 @@
 <1300> ??
 
 //<1301> 「それをみすみす捨ててしまうの？　それをあなたは、悲しいと思わないの？」
-<1301> "You'll just throw that away? Isn't that sad?"
+<1301> "You'll just throw that away? Don't you think that's sad?"
 
 //<1302> Otonashi
 <1302> Otonashi
@@ -3927,8 +3930,8 @@
 //<1304> Substitute
 <1304> Substitute
 
-//<1305> Uncanny Hunk
-<1305> Uncanny Hunk
+//<1305> Uncanny Stud
+<1305> Uncanny Stud
 
 //<1306> Lolicon
 <1306> Lolicon
@@ -3945,41 +3948,41 @@
 //<1310> Amnesiac
 <1310> Amnesiac
 
-//<1311> 音速
-<1311> 音速
+//<1311> Onsoku
+<1311> Onsoku
 
-//<1312> 無限
-<1312> 無限
+//<1312> Mugen
+<1312> Mugen
 
-//<1313> エロ侍
-<1313> エロ侍
+//<1313> Ero Samurai
+<1313> Ero Samurai
 
 //<1314> エロエロ団ナンバー１
 <1314> エロエロ団ナンバー１
 
-//<1315> ただのエロ少年
-<1315> ただのエロ少年
+//<1315> Just a Pervert
+<1315> Just a Pervert
 
-//<1316> ユリブサイク
-<1316> ユリブサイク
+//<1316> Uglyuri
+<1316> Uglyuri
 
 //<1317> ドピュッシー
 <1317> ドピュッシー
 
-//<1318> アメリカンエロドッグ
-<1318> アメリカンエロドッグ
+//<1318> Horndog
+<1318> Horndog
 
-//<1319> ゼウス
-<1319> ゼウス
+//<1319> Zeus
+<1319> Zeus
 
-//<1320> 日向markⅡ
-<1320> 日向markⅡ
+//<1320> Hinata Mk.Ⅱ
+<1320> Hinata Mk.Ⅱ
 
-//<1321> 糞虫
-<1321> 糞虫
+//<1321> Dung Beatle
+<1321> Dung Beatle
 
-//<1322> 量産型日向
-<1322> 量産型日向
+//<1322> Hinata Clone
+<1322> Hinata Clone
 
 //<1323> ??
 <1323> ??
@@ -3991,10 +3994,10 @@
 <1325> I couldn't respond.
 
 //<1326> 日向
-<1326> 日向
+<1326> Hinata
 
 //<1327> 男Ｂ
-<1327> 男Ｂ
+<1327> Boy B
 
 //<1328> エロエロ団総帥
 <1328> エロエロ団総帥
@@ -4006,13 +4009,13 @@
 <1330> ホモ太
 
 //<1331> ひなチン
-<1331> ひなチン
+<1331> Hina-chin
 
 //<1332> 秀樹
-<1332> 秀樹
+<1332> Hideki
 
 //<1333> 男子生徒
-<1333> 男子生徒
+<1333> Schoolboy
 
 //<1334> ??
 <1334> ??
@@ -4034,7 +4037,7 @@
 <1339> nothing
 
 //<1340> 新しい声。
-<1340> Another voice.
+<1340> A new voice.
 
 //<1341> nothing
 <1341> nothing
@@ -4051,11 +4054,11 @@
 //<1345> nothing
 <1345> nothing
 
-//<1346> 日向
-<1346> 日向
+//<1346> Hinata
+<1346> Hinata
 
-//<1347> 男Ｂ
-<1347> 男Ｂ
+//<1347> Boy B
+<1347> Boy B
 
 //<1348> エロエロ団総帥
 <1348> エロエロ団総帥
@@ -4066,14 +4069,14 @@
 //<1350> ホモ太
 <1350> ホモ太
 
-//<1351> ひなチン
-<1351> ひなチン
+//<1351> Hina-chin
+<1351> Hina-chin
 
-//<1352> 秀樹
-<1352> 秀樹
+//<1352> Hideki
+<1352> Hideki
 
-//<1353> 男子生徒
-<1353> 男子生徒
+//<1353> Schoolboy
+<1353> Schoolboy
 
 //<1354> ??
 <1354> ??
@@ -4114,11 +4117,11 @@
 //<1366> nothing
 <1366> nothing
 
-//<1367> 日向
-<1367> 日向
+//<1367> Hinata
+<1367> Hinata
 
-//<1368> 男Ｂ
-<1368> 男Ｂ
+//<1368> Boy B
+<1368> Boy B
 
 //<1369> エロエロ団総帥
 <1369> エロエロ団総帥
@@ -4129,14 +4132,14 @@
 //<1371> ホモ太
 <1371> ホモ太
 
-//<1372> ひなチン
-<1372> ひなチン
+//<1372> Hina-chin
+<1372> Hina-chin
 
-//<1373> 秀樹
-<1373> 秀樹
+//<1373> Hideki
+<1373> Hideki
 
-//<1374> 男子生徒
-<1374> 男子生徒
+//<1374> Schoolboy
+<1374> Schoolboy
 
 //<1375> ??
 <1375> ??
@@ -4145,8 +4148,7 @@
 <1376> "Uh oh..."
 
 //<1377> 仲間か。吹っ切れた。
-<1377> Another one huh. I'm certain.
-//TL check
+<1377> He's her friend. I'm certain.
 
 //<1378> Otonashi
 <1378> Otonashi
@@ -4157,8 +4159,8 @@
 //<1380> Substitute
 <1380> Substitute
 
-//<1381> Uncanny Hunk
-<1381> Uncanny Hunk
+//<1381> Uncanny Stud
+<1381> Uncanny Stud
 
 //<1382> Lolicon
 <1382> Lolicon
@@ -4175,41 +4177,41 @@
 //<1386> Amnesiac
 <1386> Amnesiac
 
-//<1387> 音速
-<1387> 音速
+//<1387> Onsoku
+<1387> Onsoku
 
-//<1388> 無限
-<1388> 無限
+//<1388> Mugen
+<1388> Mugen
 
-//<1389> エロ侍
-<1389> エロ侍
+//<1389> Ero Samurai
+<1389> Ero Samurai
 
 //<1390> エロエロ団ナンバー１
 <1390> エロエロ団ナンバー１
 
-//<1391> ただのエロ少年
-<1391> ただのエロ少年
+//<1391> Just a Pervert
+<1391> Just a Pervert
 
-//<1392> ユリブサイク
-<1392> ユリブサイク
+//<1392> Uglyuri
+<1392> Uglyuri
 
 //<1393> ドピュッシー
 <1393> ドピュッシー
 
-//<1394> アメリカンエロドッグ
-<1394> アメリカンエロドッグ
+//<1394> Horndog
+<1394> Horndog
 
-//<1395> ゼウス
-<1395> ゼウス
+//<1395> Zeus
+<1395> Zeus
 
-//<1396> 日向markⅡ
-<1396> 日向markⅡ
+//<1396> Hinata Mk.Ⅱ
+<1396> Hinata Mk.Ⅱ
 
-//<1397> 糞虫
-<1397> 糞虫
+//<1397> Dung Beatle
+<1397> Dung Beatle
 
-//<1398> 量産型日向
-<1398> 量産型日向
+//<1398> Hinata Clone
+<1398> Hinata Clone
 
 //<1399> ??
 <1399> ??
@@ -4218,8 +4220,7 @@
 <1400> "I'm going over there."
 
 //<1401> 銃の照準を合わせられていた、小柄な別の女生徒は運動場に居た。近づくため、目の前の大階段を降り始める。
-<1401> I head down the nearby stairs towards the sports ground where the petite schoolgirl keeping her watch on the gun was.
-//TL check
+<1401> In the direction that the girl had been pointing the gun, the other petite schoolgirl is still on the grounds. I head down the large staircase in fornt of us.
 
 //<1402> Yuri
 <1402> Yuri
@@ -4231,13 +4232,13 @@
 <1404> ??
 
 //<1405> 「うああぁああぁぁ、勧誘に失敗したああぁぁぁ！」
-<1405> "Waaaaaaa, the recruitment failed!"
+<1405> "Waaaaaaa, my recruitment failed!"
 
-//<1406> 日向
-<1406> 日向
+//<1406> Hinata
+<1406> Hinata
 
-//<1407> 男Ｂ
-<1407> 男Ｂ
+//<1407> Boy B
+<1407> Boy B
 
 //<1408> エロエロ団総帥
 <1408> エロエロ団総帥
@@ -4248,14 +4249,14 @@
 //<1410> ホモ太
 <1410> ホモ太
 
-//<1411> ひなチン
-<1411> ひなチン
+//<1411> Hina-chin
+<1411> Hina-chin
 
-//<1412> 秀樹
-<1412> 秀樹
+//<1412> Hideki
+<1412> Hideki
 
-//<1413> 男子生徒
-<1413> 男子生徒
+//<1413> Schoolboy
+<1413> Schoolboy
 
 //<1414> ??
 <1414> ??
@@ -4297,13 +4298,13 @@
 <1426> nothing
 
 //<1427> 視界には入っているはずなのに、女生徒は全然俺に気づいてくれない。
-<1427> Although she should see me by now, the schoolgirl doesn't seem to have noticed me yet.
+<1427> Even though she should be able to see me by now, the schoolgirl doesn't seem to have noticed me at all.
 
 //<1428> なので仕方なく、俺はその前に立ちふさがった。
-<1428> Thus, I get directly in front of her.
+<1428> I don't really have any other choice, so I move directly in front of her.
 
 //<1429> 嫌でも俺に気づく。
-<1429> Even though I realize it's discomforting.
+<1429> Though I realize it's discomforting.
 
 //<1430> nothing
 <1430> nothing
@@ -4350,8 +4351,8 @@
 //<1444> Substitute
 <1444> Substitute
 
-//<1445> Uncanny Hunk
-<1445> Uncanny Hunk
+//<1445> Uncanny Stud
+<1445> Uncanny Stud
 
 //<1446> Lolicon
 <1446> Lolicon
@@ -4368,47 +4369,47 @@
 //<1450> Amnesiac
 <1450> Amnesiac
 
-//<1451> 音速
-<1451> 音速
+//<1451> Onsoku
+<1451> Onsoku
 
-//<1452> 無限
-<1452> 無限
+//<1452> Mugen
+<1452> Mugen
 
-//<1453> エロ侍
-<1453> エロ侍
+//<1453> Ero Samurai
+<1453> Ero Samurai
 
 //<1454> エロエロ団ナンバー１
 <1454> エロエロ団ナンバー１
 
-//<1455> ただのエロ少年
-<1455> ただのエロ少年
+//<1455> Just a Pervert
+<1455> Just a Pervert
 
-//<1456> ユリブサイク
-<1456> ユリブサイク
+//<1456> Uglyuri
+<1456> Uglyuri
 
 //<1457> ドピュッシー
 <1457> ドピュッシー
 
-//<1458> アメリカンエロドッグ
-<1458> アメリカンエロドッグ
+//<1458> Horndog
+<1458> Horndog
 
-//<1459> ゼウス
-<1459> ゼウス
+//<1459> Zeus
+<1459> Zeus
 
-//<1460> 日向markⅡ
-<1460> 日向markⅡ
+//<1460> Hinata Mk.Ⅱ
+<1460> Hinata Mk.Ⅱ
 
-//<1461> 糞虫
-<1461> 糞虫
+//<1461> Dung Beatle
+<1461> Dung Beatle
 
-//<1462> 量産型日向
-<1462> 量産型日向
+//<1462> Hinata Clone
+<1462> Hinata Clone
 
 //<1463> ??
 <1463> ??
 
 //<1464> 「あんた、Tenshiとか呼ばれてたぞ」
-<1464> "You're the person they call Tenshi."
+<1464> "You're the one they called Tenshi or something."
 
 //<1465> nothing
 <1465> nothing
@@ -4449,8 +4450,8 @@
 //<1477> Substitute
 <1477> Substitute
 
-//<1478> Uncanny Hunk
-<1478> Uncanny Hunk
+//<1478> Uncanny Stud
+<1478> Uncanny Stud
 
 //<1479> Lolicon
 <1479> Lolicon
@@ -4467,47 +4468,47 @@
 //<1483> Amnesiac
 <1483> Amnesiac
 
-//<1484> 音速
-<1484> 音速
+//<1484> Onsoku
+<1484> Onsoku
 
-//<1485> 無限
-<1485> 無限
+//<1485> Mugen
+<1485> Mugen
 
-//<1486> エロ侍
-<1486> エロ侍
+//<1486> Ero Samurai
+<1486> Ero Samurai
 
 //<1487> エロエロ団ナンバー１
 <1487> エロエロ団ナンバー１
 
-//<1488> ただのエロ少年
-<1488> ただのエロ少年
+//<1488> Just a Pervert
+<1488> Just a Pervert
 
-//<1489> ユリブサイク
-<1489> ユリブサイク
+//<1489> Uglyuri
+<1489> Uglyuri
 
 //<1490> ドピュッシー
 <1490> ドピュッシー
 
-//<1491> アメリカンエロドッグ
-<1491> アメリカンエロドッグ
+//<1491> Horndog
+<1491> Horndog
 
-//<1492> ゼウス
-<1492> ゼウス
+//<1492> Zeus
+<1492> Zeus
 
-//<1493> 日向markⅡ
-<1493> 日向markⅡ
+//<1493> Hinata Mk.Ⅱ
+<1493> Hinata Mk.Ⅱ
 
-//<1494> 糞虫
-<1494> 糞虫
+//<1494> Dung Beatle
+<1494> Dung Beatle
 
-//<1495> 量産型日向
-<1495> 量産型日向
+//<1495> Hinata Clone
+<1495> Hinata Clone
 
 //<1496> ??
 <1496> ??
 
 //<1497> 「あんたと戦ってるっつー奴らがそう言ってた」
-<1497> "I was told you were fighting those guys."
+<1497> "Those guys said they're fighting against you."
 
 //<1498> nothing
 <1498> nothing
@@ -4537,7 +4538,7 @@
 <1506> ??
 
 //<1507> 「…クラス・スリーエスのこと？」
-<1507> "...you mean class Three S?"
+<1507> "...you mean the kids from class Three S?"
 
 //<1508> Otonashi
 <1508> Otonashi
@@ -4548,8 +4549,8 @@
 //<1510> Substitute
 <1510> Substitute
 
-//<1511> Uncanny Hunk
-<1511> Uncanny Hunk
+//<1511> Uncanny Stud
+<1511> Uncanny Stud
 
 //<1512> Lolicon
 <1512> Lolicon
@@ -4566,48 +4567,48 @@
 //<1516> Amnesiac
 <1516> Amnesiac
 
-//<1517> 音速
-<1517> 音速
+//<1517> Onsoku
+<1517> Onsoku
 
-//<1518> 無限
-<1518> 無限
+//<1518> Mugen
+<1518> Mugen
 
-//<1519> エロ侍
-<1519> エロ侍
+//<1519> Ero Samurai
+<1519> Ero Samurai
 
 //<1520> エロエロ団ナンバー１
 <1520> エロエロ団ナンバー１
 
-//<1521> ただのエロ少年
-<1521> ただのエロ少年
+//<1521> Just a Pervert
+<1521> Just a Pervert
 
-//<1522> ユリブサイク
-<1522> ユリブサイク
+//<1522> Uglyuri
+<1522> Uglyuri
 
 //<1523> ドピュッシー
 <1523> ドピュッシー
 
-//<1524> アメリカンエロドッグ
-<1524> アメリカンエロドッグ
+//<1524> Horndog
+<1524> Horndog
 
-//<1525> ゼウス
-<1525> ゼウス
+//<1525> Zeus
+<1525> Zeus
 
-//<1526> 日向markⅡ
-<1526> 日向markⅡ
+//<1526> Hinata Mk.Ⅱ
+<1526> Hinata Mk.Ⅱ
 
-//<1527> 糞虫
-<1527> 糞虫
+//<1527> Dung Beatle
+<1527> Dung Beatle
 
-//<1528> 量産型日向
-<1528> 量産型日向
+//<1528> Hinata Clone
+<1528> Hinata Clone
 
 //<1529> ??
 <1529> ??
 
 //<1530> 「ああ、多分そいつら。Tenshiだから、あんたが成仏させるんだろ、違うのか？」
-<1530> "Ahh, probably. So if you're Tenshi, then can you get me to heaven?"
-//TL check
+<1530> "Ahh, probably. So if you're Tenshi, then you're going to heaven, right?"
+//(Literally "becoming Buddha")
 
 //<1531> nothing
 <1531> nothing
@@ -4648,8 +4649,8 @@
 //<1543> Substitute
 <1543> Substitute
 
-//<1544> Uncanny Hunk
-<1544> Uncanny Hunk
+//<1544> Uncanny Stud
+<1544> Uncanny Stud
 
 //<1545> Lolicon
 <1545> Lolicon
@@ -4666,41 +4667,41 @@
 //<1549> Amnesiac
 <1549> Amnesiac
 
-//<1550> 音速
-<1550> 音速
+//<1550> Onsoku
+<1550> Onsoku
 
-//<1551> 無限
-<1551> 無限
+//<1551> Mugen
+<1551> Mugen
 
-//<1552> エロ侍
-<1552> エロ侍
+//<1552> Ero Samurai
+<1552> Ero Samurai
 
 //<1553> エロエロ団ナンバー１
 <1553> エロエロ団ナンバー１
 
-//<1554> ただのエロ少年
-<1554> ただのエロ少年
+//<1554> Just a Pervert
+<1554> Just a Pervert
 
-//<1555> ユリブサイク
-<1555> ユリブサイク
+//<1555> Uglyuri
+<1555> Uglyuri
 
 //<1556> ドピュッシー
 <1556> ドピュッシー
 
-//<1557> アメリカンエロドッグ
-<1557> アメリカンエロドッグ
+//<1557> Horndog
+<1557> Horndog
 
-//<1558> ゼウス
-<1558> ゼウス
+//<1558> Zeus
+<1558> Zeus
 
-//<1559> 日向markⅡ
-<1559> 日向markⅡ
+//<1559> Hinata Mk.Ⅱ
+<1559> Hinata Mk.Ⅱ
 
-//<1560> 糞虫
-<1560> 糞虫
+//<1560> Dung Beatle
+<1560> Dung Beatle
 
-//<1561> 量産型日向
-<1561> 量産型日向
+//<1561> Hinata Clone
+<1561> Hinata Clone
 
 //<1562> ??
 <1562> ??
@@ -4747,8 +4748,8 @@
 //<1576> Substitute
 <1576> Substitute
 
-//<1577> Uncanny Hunk
-<1577> Uncanny Hunk
+//<1577> Uncanny Stud
+<1577> Uncanny Stud
 
 //<1578> Lolicon
 <1578> Lolicon
@@ -4765,41 +4766,41 @@
 //<1582> Amnesiac
 <1582> Amnesiac
 
-//<1583> 音速
-<1583> 音速
+//<1583> Onsoku
+<1583> Onsoku
 
-//<1584> 無限
-<1584> 無限
+//<1584> Mugen
+<1584> Mugen
 
-//<1585> エロ侍
-<1585> エロ侍
+//<1585> Ero Samurai
+<1585> Ero Samurai
 
 //<1586> エロエロ団ナンバー１
 <1586> エロエロ団ナンバー１
 
-//<1587> ただのエロ少年
-<1587> ただのエロ少年
+//<1587> Just a Pervert
+<1587> Just a Pervert
 
-//<1588> ユリブサイク
-<1588> ユリブサイク
+//<1588> Uglyuri
+<1588> Uglyuri
 
 //<1589> ドピュッシー
 <1589> ドピュッシー
 
-//<1590> アメリカンエロドッグ
-<1590> アメリカンエロドッグ
+//<1590> Horndog
+<1590> Horndog
 
-//<1591> ゼウス
-<1591> ゼウス
+//<1591> Zeus
+<1591> Zeus
 
-//<1592> 日向markⅡ
-<1592> 日向markⅡ
+//<1592> Hinata Mk.Ⅱ
+<1592> Hinata Mk.Ⅱ
 
-//<1593> 糞虫
-<1593> 糞虫
+//<1593> Dung Beatle
+<1593> Dung Beatle
 
-//<1594> 量産型日向
-<1594> 量産型日向
+//<1594> Hinata Clone
+<1594> Hinata Clone
 
 //<1595> ??
 <1595> ??
@@ -4834,8 +4835,8 @@
 //<1605> Substitute
 <1605> Substitute
 
-//<1606> Uncanny Hunk
-<1606> Uncanny Hunk
+//<1606> Uncanny Stud
+<1606> Uncanny Stud
 
 //<1607> Lolicon
 <1607> Lolicon
@@ -4852,41 +4853,41 @@
 //<1611> Amnesiac
 <1611> Amnesiac
 
-//<1612> 音速
-<1612> 音速
+//<1612> Onsoku
+<1612> Onsoku
 
-//<1613> 無限
-<1613> 無限
+//<1613> Mugen
+<1613> Mugen
 
-//<1614> エロ侍
-<1614> エロ侍
+//<1614> Ero Samurai
+<1614> Ero Samurai
 
 //<1615> エロエロ団ナンバー１
 <1615> エロエロ団ナンバー１
 
-//<1616> ただのエロ少年
-<1616> ただのエロ少年
+//<1616> Just a Pervert
+<1616> Just a Pervert
 
-//<1617> ユリブサイク
-<1617> ユリブサイク
+//<1617> Uglyuri
+<1617> Uglyuri
 
 //<1618> ドピュッシー
 <1618> ドピュッシー
 
-//<1619> アメリカンエロドッグ
-<1619> アメリカンエロドッグ
+//<1619> Horndog
+<1619> Horndog
 
-//<1620> ゼウス
-<1620> ゼウス
+//<1620> Zeus
+<1620> Zeus
 
-//<1621> 日向markⅡ
-<1621> 日向markⅡ
+//<1621> Hinata Mk.Ⅱ
+<1621> Hinata Mk.Ⅱ
 
-//<1622> 糞虫
-<1622> 糞虫
+//<1622> Dung Beatle
+<1622> Dung Beatle
 
-//<1623> 量産型日向
-<1623> 量産型日向
+//<1623> Hinata Clone
+<1623> Hinata Clone
 
 //<1624> ??
 <1624> ??
@@ -4949,7 +4950,7 @@
 <1643> ...3rd year, class S.
 
 //<1644> まさか、そんなお遊びに付き合わされてたとは…。
-<1644> I can't believe it was something so silly...
+<1644> I can't believe I playing along with something so silly...
 
 //<1645> Otonashi
 <1645> Otonashi
@@ -4960,8 +4961,8 @@
 //<1647> Substitute
 <1647> Substitute
 
-//<1648> Uncanny Hunk
-<1648> Uncanny Hunk
+//<1648> Uncanny Stud
+<1648> Uncanny Stud
 
 //<1649> Lolicon
 <1649> Lolicon
@@ -4978,41 +4979,41 @@
 //<1653> Amnesiac
 <1653> Amnesiac
 
-//<1654> 音速
-<1654> 音速
+//<1654> Onsoku
+<1654> Onsoku
 
-//<1655> 無限
-<1655> 無限
+//<1655> Mugen
+<1655> Mugen
 
-//<1656> エロ侍
-<1656> エロ侍
+//<1656> Ero Samurai
+<1656> Ero Samurai
 
 //<1657> エロエロ団ナンバー１
 <1657> エロエロ団ナンバー１
 
-//<1658> ただのエロ少年
-<1658> ただのエロ少年
+//<1658> Just a Pervert
+<1658> Just a Pervert
 
-//<1659> ユリブサイク
-<1659> ユリブサイク
+//<1659> Uglyuri
+<1659> Uglyuri
 
 //<1660> ドピュッシー
 <1660> ドピュッシー
 
-//<1661> アメリカンエロドッグ
-<1661> アメリカンエロドッグ
+//<1661> Horndog
+<1661> Horndog
 
-//<1662> ゼウス
-<1662> ゼウス
+//<1662> Zeus
+<1662> Zeus
 
-//<1663> 日向markⅡ
-<1663> 日向markⅡ
+//<1663> Hinata Mk.Ⅱ
+<1663> Hinata Mk.Ⅱ
 
-//<1664> 糞虫
-<1664> 糞虫
+//<1664> Dung Beatle
+<1664> Dung Beatle
 
-//<1665> 量産型日向
-<1665> 量産型日向
+//<1665> Hinata Clone
+<1665> Hinata Clone
 
 //<1666> ??
 <1666> ??
@@ -5059,8 +5060,8 @@
 //<1680> Substitute
 <1680> Substitute
 
-//<1681> Uncanny Hunk
-<1681> Uncanny Hunk
+//<1681> Uncanny Stud
+<1681> Uncanny Stud
 
 //<1682> Lolicon
 <1682> Lolicon
@@ -5077,47 +5078,48 @@
 //<1686> Amnesiac
 <1686> Amnesiac
 
-//<1687> 音速
-<1687> 音速
+//<1687> Onsoku
+<1687> Onsoku
 
-//<1688> 無限
-<1688> 無限
+//<1688> Mugen
+<1688> Mugen
 
-//<1689> エロ侍
-<1689> エロ侍
+//<1689> Ero Samurai
+<1689> Ero Samurai
 
 //<1690> エロエロ団ナンバー１
 <1690> エロエロ団ナンバー１
 
-//<1691> ただのエロ少年
-<1691> ただのエロ少年
+//<1691> Just a Pervert
+<1691> Just a Pervert
 
-//<1692> ユリブサイク
-<1692> ユリブサイク
+//<1692> Uglyuri
+<1692> Uglyuri
 
 //<1693> ドピュッシー
 <1693> ドピュッシー
 
-//<1694> アメリカンエロドッグ
-<1694> アメリカンエロドッグ
+//<1694> Horndog
+<1694> Horndog
 
-//<1695> ゼウス
-<1695> ゼウス
+//<1695> Zeus
+<1695> Zeus
 
-//<1696> 日向markⅡ
-<1696> 日向markⅡ
+//<1696> Hinata Mk.Ⅱ
+<1696> Hinata Mk.Ⅱ
 
-//<1697> 糞虫
-<1697> 糞虫
+//<1697> Dung Beatle
+<1697> Dung Beatle
 
-//<1698> 量産型日向
-<1698> 量産型日向
+//<1698> Hinata Clone
+<1698> Hinata Clone
 
 //<1699> ??
 <1699> ??
 
 //<1700> 「くそ、記憶がねぇから、からかわれたんだ。自分が誰かもわからないから、病院にいくよ」
-<1700> "Damn it, I got joked with just cause of some amnesia. I don't even know who I am, so I'll head off to the hospital."
+<1700> "Damn it, I got made fun of just because of some amnesia. I don't even know who I am, so I'll head off to the hospital."
+//Maybe "messed with" instead of "made fun of"?
 
 //<1701> nothing
 <1701> nothing
@@ -5158,8 +5160,8 @@
 //<1713> Substitute
 <1713> Substitute
 
-//<1714> Uncanny Hunk
-<1714> Uncanny Hunk
+//<1714> Uncanny Stud
+<1714> Uncanny Stud
 
 //<1715> Lolicon
 <1715> Lolicon
@@ -5176,41 +5178,41 @@
 //<1719> Amnesiac
 <1719> Amnesiac
 
-//<1720> 音速
-<1720> 音速
+//<1720> Onsoku
+<1720> Onsoku
 
-//<1721> 無限
-<1721> 無限
+//<1721> Mugen
+<1721> Mugen
 
-//<1722> エロ侍
-<1722> エロ侍
+//<1722> Ero Samurai
+<1722> Ero Samurai
 
 //<1723> エロエロ団ナンバー１
 <1723> エロエロ団ナンバー１
 
-//<1724> ただのエロ少年
-<1724> ただのエロ少年
+//<1724> Just a Pervert
+<1724> Just a Pervert
 
-//<1725> ユリブサイク
-<1725> ユリブサイク
+//<1725> Uglyuri
+<1725> Uglyuri
 
 //<1726> ドピュッシー
 <1726> ドピュッシー
 
-//<1727> アメリカンエロドッグ
-<1727> アメリカンエロドッグ
+//<1727> Horndog
+<1727> Horndog
 
-//<1728> ゼウス
-<1728> ゼウス
+//<1728> Zeus
+<1728> Zeus
 
-//<1729> 日向markⅡ
-<1729> 日向markⅡ
+//<1729> Hinata Mk.Ⅱ
+<1729> Hinata Mk.Ⅱ
 
-//<1730> 糞虫
-<1730> 糞虫
+//<1730> Dung Beatle
+<1730> Dung Beatle
 
-//<1731> 量産型日向
-<1731> 量産型日向
+//<1731> Hinata Clone
+<1731> Hinata Clone
 
 //<1732> ??
 <1732> ??
@@ -5263,8 +5265,8 @@
 //<1748> Substitute
 <1748> Substitute
 
-//<1749> Uncanny Hunk
-<1749> Uncanny Hunk
+//<1749> Uncanny Stud
+<1749> Uncanny Stud
 
 //<1750> Lolicon
 <1750> Lolicon
@@ -5281,47 +5283,47 @@
 //<1754> Amnesiac
 <1754> Amnesiac
 
-//<1755> 音速
-<1755> 音速
+//<1755> Onsoku
+<1755> Onsoku
 
-//<1756> 無限
-<1756> 無限
+//<1756> Mugen
+<1756> Mugen
 
-//<1757> エロ侍
-<1757> エロ侍
+//<1757> Ero Samurai
+<1757> Ero Samurai
 
 //<1758> エロエロ団ナンバー１
 <1758> エロエロ団ナンバー１
 
-//<1759> ただのエロ少年
-<1759> ただのエロ少年
+//<1759> Just a Pervert
+<1759> Just a Pervert
 
-//<1760> ユリブサイク
-<1760> ユリブサイク
+//<1760> Uglyuri
+<1760> Uglyuri
 
 //<1761> ドピュッシー
 <1761> ドピュッシー
 
-//<1762> アメリカンエロドッグ
-<1762> アメリカンエロドッグ
+//<1762> Horndog
+<1762> Horndog
 
-//<1763> ゼウス
-<1763> ゼウス
+//<1763> Zeus
+<1763> Zeus
 
-//<1764> 日向markⅡ
-<1764> 日向markⅡ
+//<1764> Hinata Mk.Ⅱ
+<1764> Hinata Mk.Ⅱ
 
-//<1765> 糞虫
-<1765> 糞虫
+//<1765> Dung Beatle
+<1765> Dung Beatle
 
-//<1766> 量産型日向
-<1766> 量産型日向
+//<1766> Hinata Clone
+<1766> Hinata Clone
 
 //<1767> ??
 <1767> ??
 
 //<1768> 「…それも…どうして？」
-<1768> "...And that is...why?"
+<1768> "... And... why is that?"
 
 //<1769> Tenshi
 <1769> Tenshi
@@ -5354,7 +5356,7 @@
 <1778> nothing
 
 //<1779> 寒気が反転して、怒りに変わった。
-<1779> The chills rapidly change to anger.
+<1779> The chill rapidly changes to anger.
 
 //<1780> Otonashi
 <1780> Otonashi
@@ -5365,8 +5367,8 @@
 //<1782> Substitute
 <1782> Substitute
 
-//<1783> Uncanny Hunk
-<1783> Uncanny Hunk
+//<1783> Uncanny Stud
+<1783> Uncanny Stud
 
 //<1784> Lolicon
 <1784> Lolicon
@@ -5383,41 +5385,41 @@
 //<1788> Amnesiac
 <1788> Amnesiac
 
-//<1789> 音速
-<1789> 音速
+//<1789> Onsoku
+<1789> Onsoku
 
-//<1790> 無限
-<1790> 無限
+//<1790> Mugen
+<1790> Mugen
 
-//<1791> エロ侍
-<1791> エロ侍
+//<1791> Ero Samurai
+<1791> Ero Samurai
 
 //<1792> エロエロ団ナンバー１
 <1792> エロエロ団ナンバー１
 
-//<1793> ただのエロ少年
-<1793> ただのエロ少年
+//<1793> Just a Pervert
+<1793> Just a Pervert
 
-//<1794> ユリブサイク
-<1794> ユリブサイク
+//<1794> Uglyuri
+<1794> Uglyuri
 
 //<1795> ドピュッシー
 <1795> ドピュッシー
 
-//<1796> アメリカンエロドッグ
-<1796> アメリカンエロドッグ
+//<1796> Horndog
+<1796> Horndog
 
-//<1797> ゼウス
-<1797> ゼウス
+//<1797> Zeus
+<1797> Zeus
 
-//<1798> 日向markⅡ
-<1798> 日向markⅡ
+//<1798> Hinata Mk.Ⅱ
+<1798> Hinata Mk.Ⅱ
 
-//<1799> 糞虫
-<1799> 糞虫
+//<1799> Dung Beatle
+<1799> Dung Beatle
 
-//<1800> 量産型日向
-<1800> 量産型日向
+//<1800> Hinata Clone
+<1800> Hinata Clone
 
 //<1801> ??
 <1801> ??
@@ -5434,8 +5436,8 @@
 //<1805> Substitute
 <1805> Substitute
 
-//<1806> Uncanny Hunk
-<1806> Uncanny Hunk
+//<1806> Uncanny Stud
+<1806> Uncanny Stud
 
 //<1807> Lolicon
 <1807> Lolicon
@@ -5452,47 +5454,47 @@
 //<1811> Amnesiac
 <1811> Amnesiac
 
-//<1812> 音速
-<1812> 音速
+//<1812> Onsoku
+<1812> Onsoku
 
-//<1813> 無限
-<1813> 無限
+//<1813> Mugen
+<1813> Mugen
 
-//<1814> エロ侍
-<1814> エロ侍
+//<1814> Ero Samurai
+<1814> Ero Samurai
 
 //<1815> エロエロ団ナンバー１
 <1815> エロエロ団ナンバー１
 
-//<1816> ただのエロ少年
-<1816> ただのエロ少年
+//<1816> Just a Pervert
+<1816> Just a Pervert
 
-//<1817> ユリブサイク
-<1817> ユリブサイク
+//<1817> Uglyuri
+<1817> Uglyuri
 
 //<1818> ドピュッシー
 <1818> ドピュッシー
 
-//<1819> アメリカンエロドッグ
-<1819> アメリカンエロドッグ
+//<1819> Horndog
+<1819> Horndog
 
-//<1820> ゼウス
-<1820> ゼウス
+//<1820> Zeus
+<1820> Zeus
 
-//<1821> 日向markⅡ
-<1821> 日向markⅡ
+//<1821> Hinata Mk.Ⅱ
+<1821> Hinata Mk.Ⅱ
 
-//<1822> 糞虫
-<1822> 糞虫
+//<1822> Dung Beatle
+<1822> Dung Beatle
 
-//<1823> 量産型日向
-<1823> 量産型日向
+//<1823> Hinata Clone
+<1823> Hinata Clone
 
 //<1824> ??
 <1824> ??
 
 //<1825> 「なんだ！？　この記憶喪失もお前らのしわざか！？」
-<1825> "What!? Is the amnesia also your doing!?"
+<1825> "What!? Is this amnesia also your doing!?"
 
 //<1826> bs2_
 <1826> bs2_
@@ -5543,7 +5545,7 @@
 <1841> ??
 
 //<1842> 「…記憶喪失はよくあることよ。ここに来た時は。事故死とかだったら、頭もやられるから」
-<1842> "...Amnesia is common. When you came here. If you died unexpectedly, your mind will be disorientated."
+<1842> "...Amnesia is common. If you died unexpectedly before you came here, your mind will be disorientated."
 
 //<1843> Otonashi
 <1843> Otonashi
@@ -5554,8 +5556,8 @@
 //<1845> Substitute
 <1845> Substitute
 
-//<1846> Uncanny Hunk
-<1846> Uncanny Hunk
+//<1846> Uncanny Stud
+<1846> Uncanny Stud
 
 //<1847> Lolicon
 <1847> Lolicon
@@ -5572,41 +5574,41 @@
 //<1851> Amnesiac
 <1851> Amnesiac
 
-//<1852> 音速
-<1852> 音速
+//<1852> Onsoku
+<1852> Onsoku
 
-//<1853> 無限
-<1853> 無限
+//<1853> Mugen
+<1853> Mugen
 
-//<1854> エロ侍
-<1854> エロ侍
+//<1854> Ero Samurai
+<1854> Ero Samurai
 
 //<1855> エロエロ団ナンバー１
 <1855> エロエロ団ナンバー１
 
-//<1856> ただのエロ少年
-<1856> ただのエロ少年
+//<1856> Just a Pervert
+<1856> Just a Pervert
 
-//<1857> ユリブサイク
-<1857> ユリブサイク
+//<1857> Uglyuri
+<1857> Uglyuri
 
 //<1858> ドピュッシー
 <1858> ドピュッシー
 
-//<1859> アメリカンエロドッグ
-<1859> アメリカンエロドッグ
+//<1859> Horndog
+<1859> Horndog
 
-//<1860> ゼウス
-<1860> ゼウス
+//<1860> Zeus
+<1860> Zeus
 
-//<1861> 日向markⅡ
-<1861> 日向markⅡ
+//<1861> Hinata Mk.Ⅱ
+<1861> Hinata Mk.Ⅱ
 
-//<1862> 糞虫
-<1862> 糞虫
+//<1862> Dung Beatle
+<1862> Dung Beatle
 
-//<1863> 量産型日向
-<1863> 量産型日向
+//<1863> Hinata Clone
+<1863> Hinata Clone
 
 //<1864> ??
 <1864> ??
@@ -5638,8 +5640,8 @@
 //<1873> Substitute
 <1873> Substitute
 
-//<1874> Uncanny Hunk
-<1874> Uncanny Hunk
+//<1874> Uncanny Stud
+<1874> Uncanny Stud
 
 //<1875> Lolicon
 <1875> Lolicon
@@ -5656,47 +5658,47 @@
 //<1879> Amnesiac
 <1879> Amnesiac
 
-//<1880> 音速
-<1880> 音速
+//<1880> Onsoku
+<1880> Onsoku
 
-//<1881> 無限
-<1881> 無限
+//<1881> Mugen
+<1881> Mugen
 
-//<1882> エロ侍
-<1882> エロ侍
+//<1882> Ero Samurai
+<1882> Ero Samurai
 
 //<1883> エロエロ団ナンバー１
 <1883> エロエロ団ナンバー１
 
-//<1884> ただのエロ少年
-<1884> ただのエロ少年
+//<1884> Just a Pervert
+<1884> Just a Pervert
 
-//<1885> ユリブサイク
-<1885> ユリブサイク
+//<1885> Uglyuri
+<1885> Uglyuri
 
 //<1886> ドピュッシー
 <1886> ドピュッシー
 
-//<1887> アメリカンエロドッグ
-<1887> アメリカンエロドッグ
+//<1887> Horndog
+<1887> Horndog
 
-//<1888> ゼウス
-<1888> ゼウス
+//<1888> Zeus
+<1888> Zeus
 
-//<1889> 日向markⅡ
-<1889> 日向markⅡ
+//<1889> Hinata Mk.Ⅱ
+<1889> Hinata Mk.Ⅱ
 
-//<1890> 糞虫
-<1890> 糞虫
+//<1890> Dung Beatle
+<1890> Dung Beatle
 
-//<1891> 量産型日向
-<1891> 量産型日向
+//<1891> Hinata Clone
+<1891> Hinata Clone
 
 //<1892> ??
 <1892> ??
 
 //<1893> 「じゃあ、証明してくれよ！　俺は死んでるから、もう死なないってよっ！」
-<1893> "Then prove it! I died so now I can't die anymore!"
+<1893> "Then prove it! I'm dead, so I shouldn't be able to die anymore!"
 
 //<1894> nothing
 <1894> nothing
@@ -5726,7 +5728,7 @@
 <1902> ??
 
 //<1903> 『ガードスキル・ハンドソニック』
-<1903> "Guard Skil. Hand Sonic."
+<1903> "Guard Skil: Hand Sonic."
 
 //<1904> nothing
 <1904> nothing
@@ -5763,7 +5765,7 @@
 <1914> nothing
 
 //<1915> 右手の甲に光子状の何かを纏った。
-<1915> Some kind of light beam from her right hand.
+<1915> Some kind of light beam appeared from the back of her right hand.
 
 //<1916> Otonashi
 <1916> Otonashi
@@ -5774,8 +5776,8 @@
 //<1918> Substitute
 <1918> Substitute
 
-//<1919> Uncanny Hunk
-<1919> Uncanny Hunk
+//<1919> Uncanny Stud
+<1919> Uncanny Stud
 
 //<1920> Lolicon
 <1920> Lolicon
@@ -5792,41 +5794,41 @@
 //<1924> Amnesiac
 <1924> Amnesiac
 
-//<1925> 音速
-<1925> 音速
+//<1925> Onsoku
+<1925> Onsoku
 
-//<1926> 無限
-<1926> 無限
+//<1926> Mugen
+<1926> Mugen
 
-//<1927> エロ侍
-<1927> エロ侍
+//<1927> Ero Samurai
+<1927> Ero Samurai
 
 //<1928> エロエロ団ナンバー１
 <1928> エロエロ団ナンバー１
 
-//<1929> ただのエロ少年
-<1929> ただのエロ少年
+//<1929> Just a Pervert
+<1929> Just a Pervert
 
-//<1930> ユリブサイク
-<1930> ユリブサイク
+//<1930> Uglyuri
+<1930> Uglyuri
 
 //<1931> ドピュッシー
 <1931> ドピュッシー
 
-//<1932> アメリカンエロドッグ
-<1932> アメリカンエロドッグ
+//<1932> Horndog
+<1932> Horndog
 
-//<1933> ゼウス
-<1933> ゼウス
+//<1933> Zeus
+<1933> Zeus
 
-//<1934> 日向markⅡ
-<1934> 日向markⅡ
+//<1934> Hinata Mk.Ⅱ
+<1934> Hinata Mk.Ⅱ
 
-//<1935> 糞虫
-<1935> 糞虫
+//<1935> Dung Beatle
+<1935> Dung Beatle
 
-//<1936> 量産型日向
-<1936> 量産型日向
+//<1936> Hinata Clone
+<1936> Hinata Clone
 
 //<1937> ??
 <1937> ??
@@ -5876,8 +5878,8 @@
 //<1952> Substitute
 <1952> Substitute
 
-//<1953> Uncanny Hunk
-<1953> Uncanny Hunk
+//<1953> Uncanny Stud
+<1953> Uncanny Stud
 
 //<1954> Lolicon
 <1954> Lolicon
@@ -5894,41 +5896,41 @@
 //<1958> Amnesiac
 <1958> Amnesiac
 
-//<1959> 音速
-<1959> 音速
+//<1959> Onsoku
+<1959> Onsoku
 
-//<1960> 無限
-<1960> 無限
+//<1960> Mugen
+<1960> Mugen
 
-//<1961> エロ侍
-<1961> エロ侍
+//<1961> Ero Samurai
+<1961> Ero Samurai
 
 //<1962> エロエロ団ナンバー１
 <1962> エロエロ団ナンバー１
 
-//<1963> ただのエロ少年
-<1963> ただのエロ少年
+//<1963> Just a Pervert
+<1963> Just a Pervert
 
-//<1964> ユリブサイク
-<1964> ユリブサイク
+//<1964> Uglyuri
+<1964> Uglyuri
 
 //<1965> ドピュッシー
 <1965> ドピュッシー
 
-//<1966> アメリカンエロドッグ
-<1966> アメリカンエロドッグ
+//<1966> Horndog
+<1966> Horndog
 
-//<1967> ゼウス
-<1967> ゼウス
+//<1967> Zeus
+<1967> Zeus
 
-//<1968> 日向markⅡ
-<1968> 日向markⅡ
+//<1968> Hinata Mk.Ⅱ
+<1968> Hinata Mk.Ⅱ
 
-//<1969> 糞虫
-<1969> 糞虫
+//<1969> Dung Beatle
+<1969> Dung Beatle
 
-//<1970> 量産型日向
-<1970> 量産型日向
+//<1970> Hinata Clone
+<1970> Hinata Clone
 
 //<1971> ??
 <1971> ??
@@ -5945,8 +5947,8 @@
 //<1975> Substitute
 <1975> Substitute
 
-//<1976> Uncanny Hunk
-<1976> Uncanny Hunk
+//<1976> Uncanny Stud
+<1976> Uncanny Stud
 
 //<1977> Lolicon
 <1977> Lolicon
@@ -5963,41 +5965,41 @@
 //<1981> Amnesiac
 <1981> Amnesiac
 
-//<1982> 音速
-<1982> 音速
+//<1982> Onsoku
+<1982> Onsoku
 
-//<1983> 無限
-<1983> 無限
+//<1983> Mugen
+<1983> Mugen
 
-//<1984> エロ侍
-<1984> エロ侍
+//<1984> Ero Samurai
+<1984> Ero Samurai
 
 //<1985> エロエロ団ナンバー１
 <1985> エロエロ団ナンバー１
 
-//<1986> ただのエロ少年
-<1986> ただのエロ少年
+//<1986> Just a Pervert
+<1986> Just a Pervert
 
-//<1987> ユリブサイク
-<1987> ユリブサイク
+//<1987> Uglyuri
+<1987> Uglyuri
 
 //<1988> ドピュッシー
 <1988> ドピュッシー
 
-//<1989> アメリカンエロドッグ
-<1989> アメリカンエロドッグ
+//<1989> Horndog
+<1989> Horndog
 
-//<1990> ゼウス
-<1990> ゼウス
+//<1990> Zeus
+<1990> Zeus
 
-//<1991> 日向markⅡ
-<1991> 日向markⅡ
+//<1991> Hinata Mk.Ⅱ
+<1991> Hinata Mk.Ⅱ
 
-//<1992> 糞虫
-<1992> 糞虫
+//<1992> Dung Beatle
+<1992> Dung Beatle
 
-//<1993> 量産型日向
-<1993> 量産型日向
+//<1993> Hinata Clone
+<1993> Hinata Clone
 
 //<1994> ??
 <1994> ??
@@ -6021,7 +6023,8 @@
 <2000> "Then..."
 
 //<2001> そいつは最後に一瞬だけ悲しそうな顔をした。
-<2001> In that final instant, I saw a disheartened face.
+<2001> In that final instant, her face was disheartened.
+//The last thing I saw was her disheartened face.
 
 //<2002> None
 <2002> None
