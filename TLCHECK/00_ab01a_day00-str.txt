@@ -66,14 +66,14 @@
 //<0020> Yuri
 <0020> Yuri
 
-//<0021> Schoolgirl
-<0021> Schoolgirl
+//<0021> Female Student
+<0021> Female Student
 
 //<0022> ??
 <0022> ??
 
 //<0023> 「ようこそ、『死んでたまるか戦線』へ。唐突だけど、入隊してくれないかしら？」
-<0023> "Welcome, to the 'I-Ain't-Dead-Yet' Battlefront. This might sound sudden but would you mind joining us?"
+<0023> "Welcome, to the 'I-Ain't-Dead-Yet' Battlefront. This might sound sudden, but would you mind joining us?"
 
 //<0024> 声が後ろから聞こえた。
 <0024> I hear a voice from behind me. 
@@ -91,7 +91,7 @@
 <0028> nothing
 
 //<0029> 振りかえると、そこにはライフルを構えているひとりの女生徒の姿があった。
-<0029> I turn around to see a lone schoolgirl gripping a rifle.
+<0029> I turn around to see a lone female student gripping a rifle.
 
 //<0030> 目はライフルの照準に合わせたままで、こっちは見ていない。
 <0030> She doesn't look at me, and keeps her eyes glued to the scope of her rifle.
@@ -116,7 +116,7 @@
 
 //<0037> 微妙すぎるイケメン
 <0037> Uncanny Stud
-//"Stud" seemed too outdated
+//"Hunk" seemed too outdated
 
 //<0038> ロリコン
 <0038> Lolicon
@@ -125,7 +125,7 @@
 <0039> Glasses Comrade
 
 //<0040> 暗算日本記録保持者
-<0040> 暗算日本記録保持者
+<0040> Japanese Mental Mathstermind
 
 //<0041> 通り魔
 <0041> Phantom Slasher
@@ -133,40 +133,40 @@
 //<0042> 記憶ナシ男
 <0042> Amnesiac
 
-//<0043> Onsoku
+//<0043> 音速
 <0043> Onsoku
 
-//<0044> Mugen
+//<0044> 無限
 <0044> Mugen
 
-//<0045> Ero Samurai
+//<0045> エロ侍
 <0045> Ero Samurai
 
 //<0046> エロエロ団ナンバー１
-<0046> エロエロ団ナンバー１
+<0046> Ero Ero Numero Uno
 
-//<0047> Just a Pervert
+//<0047> ただのエロ少年
 <0047> Just a Pervert
 
-//<0048> Uglyuri
+//<0048> ユリブサイク
 <0048> Uglyuri
 
 //<0049> ドピュッシー
-<0049> ドピュッシー
+<0049> Depussy
 
-//<0050> Horndog
+//<0050> アメリカンエロドッグ
 <0050> Horndog
 
-//<0051> Zeus
+//<0051> ゼウス
 <0051> Zeus
 
-//<0052> Hinata Mk.Ⅱ
+//<0052> 日向markⅡ
 <0052> Hinata Mk.Ⅱ
 
-//<0053> Dung Beatle
+//<0053> 糞虫
 <0053> Dung Beatle
 
-//<0054> Hinata Clone
+//<0054> 量産型日向
 <0054> Hinata Clone
 
 //<0055> ??
@@ -181,8 +181,8 @@
 //<0058> Yuri
 <0058> Yuri
 
-//<0059> Schoolgirl
-<0059> Schoolgirl
+//<0059> Female Student
+<0059> Female Student
 
 //<0060> ??
 <0060> ??
@@ -191,7 +191,7 @@
 <0061> "If you're here, then that means you're dead."
 
 //<0062> そう女生徒は続けた。本当に学生かはわからない。学生服を着ているから、女生徒と見なしただけで、普通の女生徒はライフルを構えたりしないものだ。
-<0062> So safd the schoolgirl. Though I'm not sure she's really a studnet. Students usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
+<0062> So said the schoolgirl. Though I'm not sure she's really a student. Students usually wear uniforms, but you wouldn't usually expect a schoolgirl to be wielding a rifle.
 
 //<0063> Otonashi
 <0063> Otonashi
@@ -211,8 +211,8 @@
 //<0068> Glasses Comrade
 <0068> Glasses Comrade
 
-//<0069> 暗算日本記録保持者
-<0069> 暗算日本記録保持者
+//<0069> Japanese Mental Mathstermind
+<0069> Japanese Mental Mathstermind
 
 //<0070> Phantom Slasher
 <0070> Phantom Slasher
@@ -229,8 +229,8 @@
 //<0074> Ero Samurai
 <0074> Ero Samurai
 
-//<0075> エロエロ団ナンバー１
-<0075> エロエロ団ナンバー１
+//<0075> Ero Ero Numero Uno
+<0075> Ero Ero Numero Uno
 
 //<0076> Just a Pervert
 <0076> Just a Pervert
@@ -238,8 +238,8 @@
 //<0077> Uglyuri
 <0077> Uglyuri
 
-//<0078> ドピュッシー
-<0078> ドピュッシー
+//<0078> Depussy
+<0078> Depussy
 
 //<0079> Horndog
 <0079> Horndog
@@ -264,13 +264,12 @@
 
 //<0086> 率直な感想を述べた。こんな声なのか、俺は。
 <0086> Since when do I voice my thoughts so frankly?
-//Not sure how to translate but something related to him doubting his voice, either literally or figuratively (like, was I the kind of person to be unsure, or something to that effect)...maybe.
 
 //<0087> Yuri
 <0087> Yuri
 
-//<0088> Schoolgirl
-<0088> Schoolgirl
+//<0088> Female Student
+<0088> Female Student
 
 //<0089> ??
 <0089> ??
@@ -296,8 +295,8 @@
 //<0096> Glasses Comrade
 <0096> Glasses Comrade
 
-//<0097> 暗算日本記録保持者
-<0097> 暗算日本記録保持者
+//<0097> Japanese Mental Mathstermind
+<0097> Japanese Mental Mathstermind
 
 //<0098> Phantom Slasher
 <0098> Phantom Slasher
@@ -314,8 +313,8 @@
 //<0102> Ero Samurai
 <0102> Ero Samurai
 
-//<0103> エロエロ団ナンバー１
-<0103> エロエロ団ナンバー１
+//<0103> Ero Ero Numero Uno
+<0103> Ero Ero Numero Uno
 
 //<0104> Just a Pervert
 <0104> Just a Pervert
@@ -323,8 +322,8 @@
 //<0105> Uglyuri
 <0105> Uglyuri
 
-//<0106> ドピュッシー
-<0106> ドピュッシー
+//<0106> Depussy
+<0106> Depussy
 
 //<0107> Horndog
 <0107> Horndog
@@ -350,8 +349,8 @@
 //<0114> Yuri
 <0114> Yuri
 
-//<0115> Schoolgirl
-<0115> Schoolgirl
+//<0115> Female Student
+<0115> Female Student
 
 //<0116> ??
 <0116> ??
@@ -380,8 +379,8 @@
 //<0124> Glasses Comrade
 <0124> Glasses Comrade
 
-//<0125> 暗算日本記録保持者
-<0125> 暗算日本記録保持者
+//<0125> Japanese Mental Mathstermind
+<0125> Japanese Mental Mathstermind
 
 //<0126> Phantom Slasher
 <0126> Phantom Slasher
@@ -398,8 +397,8 @@
 //<0130> Ero Samurai
 <0130> Ero Samurai
 
-//<0131> エロエロ団ナンバー１
-<0131> エロエロ団ナンバー１
+//<0131> Ero Ero Numero Uno
+<0131> Ero Ero Numero Uno
 
 //<0132> Just a Pervert
 <0132> Just a Pervert
@@ -407,8 +406,8 @@
 //<0133> Uglyuri
 <0133> Uglyuri
 
-//<0134> ドピュッシー
-<0134> ドピュッシー
+//<0134> Depussy
+<0134> Depussy
 
 //<0135> Horndog
 <0135> Horndog
@@ -449,8 +448,8 @@
 //<0147> Glasses Comrade
 <0147> Glasses Comrade
 
-//<0148> 暗算日本記録保持者
-<0148> 暗算日本記録保持者
+//<0148> Japanese Mental Mathstermind
+<0148> Japanese Mental Mathstermind
 
 //<0149> Phantom Slasher
 <0149> Phantom Slasher
@@ -467,8 +466,8 @@
 //<0153> Ero Samurai
 <0153> Ero Samurai
 
-//<0154> エロエロ団ナンバー１
-<0154> エロエロ団ナンバー１
+//<0154> Ero Ero Numero Uno
+<0154> Ero Ero Numero Uno
 
 //<0155> Just a Pervert
 <0155> Just a Pervert
@@ -476,8 +475,8 @@
 //<0156> Uglyuri
 <0156> Uglyuri
 
-//<0157> ドピュッシー
-<0157> ドピュッシー
+//<0157> Depussy
+<0157> Depussy
 
 //<0158> Horndog
 <0158> Horndog
@@ -503,8 +502,8 @@
 //<0165> Yuri
 <0165> Yuri
 
-//<0166> Schoolgirl
-<0166> Schoolgirl
+//<0166> Female Student
+<0166> Female Student
 
 //<0167> ??
 <0167> ??
@@ -530,8 +529,8 @@
 //<0174> Glasses Comrade
 <0174> Glasses Comrade
 
-//<0175> 暗算日本記録保持者
-<0175> 暗算日本記録保持者
+//<0175> Japanese Mental Mathstermind
+<0175> Japanese Mental Mathstermind
 
 //<0176> Phantom Slasher
 <0176> Phantom Slasher
@@ -548,8 +547,8 @@
 //<0180> Ero Samurai
 <0180> Ero Samurai
 
-//<0181> エロエロ団ナンバー１
-<0181> エロエロ団ナンバー１
+//<0181> Ero Ero Numero Uno
+<0181> Ero Ero Numero Uno
 
 //<0182> Just a Pervert
 <0182> Just a Pervert
@@ -557,8 +556,8 @@
 //<0183> Uglyuri
 <0183> Uglyuri
 
-//<0184> ドピュッシー
-<0184> ドピュッシー
+//<0184> Depussy
+<0184> Depussy
 
 //<0185> Horndog
 <0185> Horndog
@@ -584,8 +583,8 @@
 //<0192> Yuri
 <0192> Yuri
 
-//<0193> Schoolgirl
-<0193> Schoolgirl
+//<0193> Female Student
+<0193> Female Student
 
 //<0194> ??
 <0194> ??
@@ -596,8 +595,8 @@
 //<0196> Yuri
 <0196> Yuri
 
-//<0197> Schoolgirl
-<0197> Schoolgirl
+//<0197> Female Student
+<0197> Female Student
 
 //<0198> ??
 <0198> ??
@@ -623,8 +622,8 @@
 //<0205> Glasses Comrade
 <0205> Glasses Comrade
 
-//<0206> 暗算日本記録保持者
-<0206> 暗算日本記録保持者
+//<0206> Japanese Mental Mathstermind
+<0206> Japanese Mental Mathstermind
 
 //<0207> Phantom Slasher
 <0207> Phantom Slasher
@@ -641,8 +640,8 @@
 //<0211> Ero Samurai
 <0211> Ero Samurai
 
-//<0212> エロエロ団ナンバー１
-<0212> エロエロ団ナンバー１
+//<0212> Ero Ero Numero Uno
+<0212> Ero Ero Numero Uno
 
 //<0213> Just a Pervert
 <0213> Just a Pervert
@@ -650,8 +649,8 @@
 //<0214> Uglyuri
 <0214> Uglyuri
 
-//<0215> ドピュッシー
-<0215> ドピュッシー
+//<0215> Depussy
+<0215> Depussy
 
 //<0216> Horndog
 <0216> Horndog
@@ -677,8 +676,8 @@
 //<0223> Yuri
 <0223> Yuri
 
-//<0224> Schoolgirl
-<0224> Schoolgirl
+//<0224> Female Student
+<0224> Female Student
 
 //<0225> ??
 <0225> ??
@@ -704,8 +703,8 @@
 //<0232> Glasses Comrade
 <0232> Glasses Comrade
 
-//<0233> 暗算日本記録保持者
-<0233> 暗算日本記録保持者
+//<0233> Japanese Mental Mathstermind
+<0233> Japanese Mental Mathstermind
 
 //<0234> Phantom Slasher
 <0234> Phantom Slasher
@@ -722,8 +721,8 @@
 //<0238> Ero Samurai
 <0238> Ero Samurai
 
-//<0239> エロエロ団ナンバー１
-<0239> エロエロ団ナンバー１
+//<0239> Ero Ero Numero Uno
+<0239> Ero Ero Numero Uno
 
 //<0240> Just a Pervert
 <0240> Just a Pervert
@@ -731,8 +730,8 @@
 //<0241> Uglyuri
 <0241> Uglyuri
 
-//<0242> ドピュッシー
-<0242> ドピュッシー
+//<0242> Depussy
+<0242> Depussy
 
 //<0243> Horndog
 <0243> Horndog
@@ -758,8 +757,8 @@
 //<0250> Yuri
 <0250> Yuri
 
-//<0251> Schoolgirl
-<0251> Schoolgirl
+//<0251> Female Student
+<0251> Female Student
 
 //<0252> ??
 <0252> ??
@@ -797,8 +796,8 @@
 //<0263> Glasses Comrade
 <0263> Glasses Comrade
 
-//<0264> 暗算日本記録保持者
-<0264> 暗算日本記録保持者
+//<0264> Japanese Mental Mathstermind
+<0264> Japanese Mental Mathstermind
 
 //<0265> Phantom Slasher
 <0265> Phantom Slasher
@@ -815,8 +814,8 @@
 //<0269> Ero Samurai
 <0269> Ero Samurai
 
-//<0270> エロエロ団ナンバー１
-<0270> エロエロ団ナンバー１
+//<0270> Ero Ero Numero Uno
+<0270> Ero Ero Numero Uno
 
 //<0271> Just a Pervert
 <0271> Just a Pervert
@@ -824,8 +823,8 @@
 //<0272> Uglyuri
 <0272> Uglyuri
 
-//<0273> ドピュッシー
-<0273> ドピュッシー
+//<0273> Depussy
+<0273> Depussy
 
 //<0274> Horndog
 <0274> Horndog
@@ -851,8 +850,8 @@
 //<0281> Yuri
 <0281> Yuri
 
-//<0282> Schoolgirl
-<0282> Schoolgirl
+//<0282> Female Student
+<0282> Female Student
 
 //<0283> ??
 <0283> ??
@@ -878,8 +877,8 @@
 //<0290> Glasses Comrade
 <0290> Glasses Comrade
 
-//<0291> 暗算日本記録保持者
-<0291> 暗算日本記録保持者
+//<0291> Japanese Mental Mathstermind
+<0291> Japanese Mental Mathstermind
 
 //<0292> Phantom Slasher
 <0292> Phantom Slasher
@@ -896,8 +895,8 @@
 //<0296> Ero Samurai
 <0296> Ero Samurai
 
-//<0297> エロエロ団ナンバー１
-<0297> エロエロ団ナンバー１
+//<0297> Ero Ero Numero Uno
+<0297> Ero Ero Numero Uno
 
 //<0298> Just a Pervert
 <0298> Just a Pervert
@@ -905,8 +904,8 @@
 //<0299> Uglyuri
 <0299> Uglyuri
 
-//<0300> ドピュッシー
-<0300> ドピュッシー
+//<0300> Depussy
+<0300> Depussy
 
 //<0301> Horndog
 <0301> Horndog
@@ -932,8 +931,8 @@
 //<0308> Yuri
 <0308> Yuri
 
-//<0309> Schoolgirl
-<0309> Schoolgirl
+//<0309> Female Student
+<0309> Female Student
 
 //<0310> ??
 <0310> ??
@@ -959,8 +958,8 @@
 //<0317> Glasses Comrade
 <0317> Glasses Comrade
 
-//<0318> 暗算日本記録保持者
-<0318> 暗算日本記録保持者
+//<0318> Japanese Mental Mathstermind
+<0318> Japanese Mental Mathstermind
 
 //<0319> Phantom Slasher
 <0319> Phantom Slasher
@@ -977,8 +976,8 @@
 //<0323> Ero Samurai
 <0323> Ero Samurai
 
-//<0324> エロエロ団ナンバー１
-<0324> エロエロ団ナンバー１
+//<0324> Ero Ero Numero Uno
+<0324> Ero Ero Numero Uno
 
 //<0325> Just a Pervert
 <0325> Just a Pervert
@@ -986,8 +985,8 @@
 //<0326> Uglyuri
 <0326> Uglyuri
 
-//<0327> ドピュッシー
-<0327> ドピュッシー
+//<0327> Depussy
+<0327> Depussy
 
 //<0328> Horndog
 <0328> Horndog
@@ -1013,8 +1012,8 @@
 //<0335> Yuri
 <0335> Yuri
 
-//<0336> Schoolgirl
-<0336> Schoolgirl
+//<0336> Female Student
+<0336> Female Student
 
 //<0337> ??
 <0337> ??
@@ -1040,8 +1039,8 @@
 //<0344> Glasses Comrade
 <0344> Glasses Comrade
 
-//<0345> 暗算日本記録保持者
-<0345> 暗算日本記録保持者
+//<0345> Japanese Mental Mathstermind
+<0345> Japanese Mental Mathstermind
 
 //<0346> Phantom Slasher
 <0346> Phantom Slasher
@@ -1058,8 +1057,8 @@
 //<0350> Ero Samurai
 <0350> Ero Samurai
 
-//<0351> エロエロ団ナンバー１
-<0351> エロエロ団ナンバー１
+//<0351> Ero Ero Numero Uno
+<0351> Ero Ero Numero Uno
 
 //<0352> Just a Pervert
 <0352> Just a Pervert
@@ -1067,8 +1066,8 @@
 //<0353> Uglyuri
 <0353> Uglyuri
 
-//<0354> ドピュッシー
-<0354> ドピュッシー
+//<0354> Depussy
+<0354> Depussy
 
 //<0355> Horndog
 <0355> Horndog
@@ -1094,8 +1093,8 @@
 //<0362> Yuri
 <0362> Yuri
 
-//<0363> Schoolgirl
-<0363> Schoolgirl
+//<0363> Female Student
+<0363> Female Student
 
 //<0364> ??
 <0364> ??
@@ -1121,8 +1120,8 @@
 //<0371> Glasses Comrade
 <0371> Glasses Comrade
 
-//<0372> 暗算日本記録保持者
-<0372> 暗算日本記録保持者
+//<0372> Japanese Mental Mathstermind
+<0372> Japanese Mental Mathstermind
 
 //<0373> Phantom Slasher
 <0373> Phantom Slasher
@@ -1139,8 +1138,8 @@
 //<0377> Ero Samurai
 <0377> Ero Samurai
 
-//<0378> エロエロ団ナンバー１
-<0378> エロエロ団ナンバー１
+//<0378> Ero Ero Numero Uno
+<0378> Ero Ero Numero Uno
 
 //<0379> Just a Pervert
 <0379> Just a Pervert
@@ -1148,8 +1147,8 @@
 //<0380> Uglyuri
 <0380> Uglyuri
 
-//<0381> ドピュッシー
-<0381> ドピュッシー
+//<0381> Depussy
+<0381> Depussy
 
 //<0382> Horndog
 <0382> Horndog
@@ -1190,8 +1189,8 @@
 //<0394> Glasses Comrade
 <0394> Glasses Comrade
 
-//<0395> 暗算日本記録保持者
-<0395> 暗算日本記録保持者
+//<0395> Japanese Mental Mathstermind
+<0395> Japanese Mental Mathstermind
 
 //<0396> Phantom Slasher
 <0396> Phantom Slasher
@@ -1208,8 +1207,8 @@
 //<0400> Ero Samurai
 <0400> Ero Samurai
 
-//<0401> エロエロ団ナンバー１
-<0401> エロエロ団ナンバー１
+//<0401> Ero Ero Numero Uno
+<0401> Ero Ero Numero Uno
 
 //<0402> Just a Pervert
 <0402> Just a Pervert
@@ -1217,8 +1216,8 @@
 //<0403> Uglyuri
 <0403> Uglyuri
 
-//<0404> ドピュッシー
-<0404> ドピュッシー
+//<0404> Depussy
+<0404> Depussy
 
 //<0405> Horndog
 <0405> Horndog
@@ -1244,8 +1243,8 @@
 //<0412> Yuri
 <0412> Yuri
 
-//<0413> Schoolgirl
-<0413> Schoolgirl
+//<0413> Female Student
+<0413> Female Student
 
 //<0414> ??
 <0414> ??
@@ -1271,8 +1270,8 @@
 //<0421> Glasses Comrade
 <0421> Glasses Comrade
 
-//<0422> 暗算日本記録保持者
-<0422> 暗算日本記録保持者
+//<0422> Japanese Mental Mathstermind
+<0422> Japanese Mental Mathstermind
 
 //<0423> Phantom Slasher
 <0423> Phantom Slasher
@@ -1289,8 +1288,8 @@
 //<0427> Ero Samurai
 <0427> Ero Samurai
 
-//<0428> エロエロ団ナンバー１
-<0428> エロエロ団ナンバー１
+//<0428> Ero Ero Numero Uno
+<0428> Ero Ero Numero Uno
 
 //<0429> Just a Pervert
 <0429> Just a Pervert
@@ -1298,8 +1297,8 @@
 //<0430> Uglyuri
 <0430> Uglyuri
 
-//<0431> ドピュッシー
-<0431> ドピュッシー
+//<0431> Depussy
+<0431> Depussy
 
 //<0432> Horndog
 <0432> Horndog
@@ -1340,8 +1339,8 @@
 //<0444> Glasses Comrade
 <0444> Glasses Comrade
 
-//<0445> 暗算日本記録保持者
-<0445> 暗算日本記録保持者
+//<0445> Japanese Mental Mathstermind
+<0445> Japanese Mental Mathstermind
 
 //<0446> Phantom Slasher
 <0446> Phantom Slasher
@@ -1358,8 +1357,8 @@
 //<0450> Ero Samurai
 <0450> Ero Samurai
 
-//<0451> エロエロ団ナンバー１
-<0451> エロエロ団ナンバー１
+//<0451> Ero Ero Numero Uno
+<0451> Ero Ero Numero Uno
 
 //<0452> Just a Pervert
 <0452> Just a Pervert
@@ -1367,8 +1366,8 @@
 //<0453> Uglyuri
 <0453> Uglyuri
 
-//<0454> ドピュッシー
-<0454> ドピュッシー
+//<0454> Depussy
+<0454> Depussy
 
 //<0455> Horndog
 <0455> Horndog
@@ -1394,8 +1393,8 @@
 //<0462> Yuri
 <0462> Yuri
 
-//<0463> Schoolgirl
-<0463> Schoolgirl
+//<0463> Female Student
+<0463> Female Student
 
 //<0464> ??
 <0464> ??
@@ -1421,8 +1420,8 @@
 //<0471> Glasses Comrade
 <0471> Glasses Comrade
 
-//<0472> 暗算日本記録保持者
-<0472> 暗算日本記録保持者
+//<0472> Japanese Mental Mathstermind
+<0472> Japanese Mental Mathstermind
 
 //<0473> Phantom Slasher
 <0473> Phantom Slasher
@@ -1439,8 +1438,8 @@
 //<0477> Ero Samurai
 <0477> Ero Samurai
 
-//<0478> エロエロ団ナンバー１
-<0478> エロエロ団ナンバー１
+//<0478> Ero Ero Numero Uno
+<0478> Ero Ero Numero Uno
 
 //<0479> Just a Pervert
 <0479> Just a Pervert
@@ -1448,8 +1447,8 @@
 //<0480> Uglyuri
 <0480> Uglyuri
 
-//<0481> ドピュッシー
-<0481> ドピュッシー
+//<0481> Depussy
+<0481> Depussy
 
 //<0482> Horndog
 <0482> Horndog
@@ -1490,8 +1489,8 @@
 //<0494> Glasses Comrade
 <0494> Glasses Comrade
 
-//<0495> 暗算日本記録保持者
-<0495> 暗算日本記録保持者
+//<0495> Japanese Mental Mathstermind
+<0495> Japanese Mental Mathstermind
 
 //<0496> Phantom Slasher
 <0496> Phantom Slasher
@@ -1508,8 +1507,8 @@
 //<0500> Ero Samurai
 <0500> Ero Samurai
 
-//<0501> エロエロ団ナンバー１
-<0501> エロエロ団ナンバー１
+//<0501> Ero Ero Numero Uno
+<0501> Ero Ero Numero Uno
 
 //<0502> Just a Pervert
 <0502> Just a Pervert
@@ -1517,8 +1516,8 @@
 //<0503> Uglyuri
 <0503> Uglyuri
 
-//<0504> ドピュッシー
-<0504> ドピュッシー
+//<0504> Depussy
+<0504> Depussy
 
 //<0505> Horndog
 <0505> Horndog
@@ -1544,8 +1543,8 @@
 //<0512> Yuri
 <0512> Yuri
 
-//<0513> Schoolgirl
-<0513> Schoolgirl
+//<0513> Female Student
+<0513> Female Student
 
 //<0514> ??
 <0514> ??
@@ -1571,8 +1570,8 @@
 //<0521> Glasses Comrade
 <0521> Glasses Comrade
 
-//<0522> 暗算日本記録保持者
-<0522> 暗算日本記録保持者
+//<0522> Japanese Mental Mathstermind
+<0522> Japanese Mental Mathstermind
 
 //<0523> Phantom Slasher
 <0523> Phantom Slasher
@@ -1589,8 +1588,8 @@
 //<0527> Ero Samurai
 <0527> Ero Samurai
 
-//<0528> エロエロ団ナンバー１
-<0528> エロエロ団ナンバー１
+//<0528> Ero Ero Numero Uno
+<0528> Ero Ero Numero Uno
 
 //<0529> Just a Pervert
 <0529> Just a Pervert
@@ -1598,8 +1597,8 @@
 //<0530> Uglyuri
 <0530> Uglyuri
 
-//<0531> ドピュッシー
-<0531> ドピュッシー
+//<0531> Depussy
+<0531> Depussy
 
 //<0532> Horndog
 <0532> Horndog
@@ -1643,8 +1642,8 @@
 //<0545> Glasses Comrade
 <0545> Glasses Comrade
 
-//<0546> 暗算日本記録保持者
-<0546> 暗算日本記録保持者
+//<0546> Japanese Mental Mathstermind
+<0546> Japanese Mental Mathstermind
 
 //<0547> Phantom Slasher
 <0547> Phantom Slasher
@@ -1661,8 +1660,8 @@
 //<0551> Ero Samurai
 <0551> Ero Samurai
 
-//<0552> エロエロ団ナンバー１
-<0552> エロエロ団ナンバー１
+//<0552> Ero Ero Numero Uno
+<0552> Ero Ero Numero Uno
 
 //<0553> Just a Pervert
 <0553> Just a Pervert
@@ -1670,8 +1669,8 @@
 //<0554> Uglyuri
 <0554> Uglyuri
 
-//<0555> ドピュッシー
-<0555> ドピュッシー
+//<0555> Depussy
+<0555> Depussy
 
 //<0556> Horndog
 <0556> Horndog
@@ -1697,8 +1696,8 @@
 //<0563> Yuri
 <0563> Yuri
 
-//<0564> Schoolgirl
-<0564> Schoolgirl
+//<0564> Female Student
+<0564> Female Student
 
 //<0565> ??
 <0565> ??
@@ -1709,8 +1708,8 @@
 //<0567> Yuri
 <0567> Yuri
 
-//<0568> Schoolgirl
-<0568> Schoolgirl
+//<0568> Female Student
+<0568> Female Student
 
 //<0569> ??
 <0569> ??
@@ -1742,8 +1741,8 @@
 //<0578> Glasses Comrade
 <0578> Glasses Comrade
 
-//<0579> 暗算日本記録保持者
-<0579> 暗算日本記録保持者
+//<0579> Japanese Mental Mathstermind
+<0579> Japanese Mental Mathstermind
 
 //<0580> Phantom Slasher
 <0580> Phantom Slasher
@@ -1760,8 +1759,8 @@
 //<0584> Ero Samurai
 <0584> Ero Samurai
 
-//<0585> エロエロ団ナンバー１
-<0585> エロエロ団ナンバー１
+//<0585> Ero Ero Numero Uno
+<0585> Ero Ero Numero Uno
 
 //<0586> Just a Pervert
 <0586> Just a Pervert
@@ -1769,8 +1768,8 @@
 //<0587> Uglyuri
 <0587> Uglyuri
 
-//<0588> ドピュッシー
-<0588> ドピュッシー
+//<0588> Depussy
+<0588> Depussy
 
 //<0589> Horndog
 <0589> Horndog
@@ -1796,8 +1795,8 @@
 //<0596> Yuri
 <0596> Yuri
 
-//<0597> Schoolgirl
-<0597> Schoolgirl
+//<0597> Female Student
+<0597> Female Student
 
 //<0598> ??
 <0598> ??
@@ -1823,8 +1822,8 @@
 //<0605> Glasses Comrade
 <0605> Glasses Comrade
 
-//<0606> 暗算日本記録保持者
-<0606> 暗算日本記録保持者
+//<0606> Japanese Mental Mathstermind
+<0606> Japanese Mental Mathstermind
 
 //<0607> Phantom Slasher
 <0607> Phantom Slasher
@@ -1841,8 +1840,8 @@
 //<0611> Ero Samurai
 <0611> Ero Samurai
 
-//<0612> エロエロ団ナンバー１
-<0612> エロエロ団ナンバー１
+//<0612> Ero Ero Numero Uno
+<0612> Ero Ero Numero Uno
 
 //<0613> Just a Pervert
 <0613> Just a Pervert
@@ -1850,8 +1849,8 @@
 //<0614> Uglyuri
 <0614> Uglyuri
 
-//<0615> ドピュッシー
-<0615> ドピュッシー
+//<0615> Depussy
+<0615> Depussy
 
 //<0616> Horndog
 <0616> Horndog
@@ -1877,8 +1876,8 @@
 //<0623> Yuri
 <0623> Yuri
 
-//<0624> Schoolgirl
-<0624> Schoolgirl
+//<0624> Female Student
+<0624> Female Student
 
 //<0625> ??
 <0625> ??
@@ -1904,8 +1903,8 @@
 //<0632> Glasses Comrade
 <0632> Glasses Comrade
 
-//<0633> 暗算日本記録保持者
-<0633> 暗算日本記録保持者
+//<0633> Japanese Mental Mathstermind
+<0633> Japanese Mental Mathstermind
 
 //<0634> Phantom Slasher
 <0634> Phantom Slasher
@@ -1922,8 +1921,8 @@
 //<0638> Ero Samurai
 <0638> Ero Samurai
 
-//<0639> エロエロ団ナンバー１
-<0639> エロエロ団ナンバー１
+//<0639> Ero Ero Numero Uno
+<0639> Ero Ero Numero Uno
 
 //<0640> Just a Pervert
 <0640> Just a Pervert
@@ -1931,8 +1930,8 @@
 //<0641> Uglyuri
 <0641> Uglyuri
 
-//<0642> ドピュッシー
-<0642> ドピュッシー
+//<0642> Depussy
+<0642> Depussy
 
 //<0643> Horndog
 <0643> Horndog
@@ -1958,8 +1957,8 @@
 //<0650> Yuri
 <0650> Yuri
 
-//<0651> Schoolgirl
-<0651> Schoolgirl
+//<0651> Female Student
+<0651> Female Student
 
 //<0652> ??
 <0652> ??
@@ -1970,8 +1969,8 @@
 //<0654> Yuri
 <0654> Yuri
 
-//<0655> Schoolgirl
-<0655> Schoolgirl
+//<0655> Female Student
+<0655> Female Student
 
 //<0656> ??
 <0656> ??
@@ -1982,8 +1981,8 @@
 //<0658> Yuri
 <0658> Yuri
 
-//<0659> Schoolgirl
-<0659> Schoolgirl
+//<0659> Female Student
+<0659> Female Student
 
 //<0660> ??
 <0660> ??
@@ -2002,8 +2001,8 @@
 //<0664> と略してる」
 <0664> ."
 
-//<0665> Schoolgirlは、ほら、と制服の袖に付いているワッペンを指さした。
-<0665> The schoolgirl pointed to a badge on her uniform.
+//<0665> 女生徒は、ほら、と制服の袖に付いているワッペンを指さした。
+<0665> The girl pointed to a badge on her uniform.
 
 //<0666> 確かにＳＳＳの表記が、月明かりの中でも確認できた。
 <0666> I could definitely see the SSS written on it under the moonlight.
@@ -2023,8 +2022,8 @@
 //<0671> Yuri
 <0671> Yuri
 
-//<0672> Schoolgirl
-<0672> Schoolgirl
+//<0672> Female Student
+<0672> Female Student
 
 //<0673> ??
 <0673> ??
@@ -2035,8 +2034,8 @@
 //<0675> Yuri
 <0675> Yuri
 
-//<0676> Schoolgirl
-<0676> Schoolgirl
+//<0676> Female Student
+<0676> Female Student
 
 //<0677> ??
 <0677> ??
@@ -2047,8 +2046,8 @@
 //<0679> Yuri
 <0679> Yuri
 
-//<0680> Schoolgirl
-<0680> Schoolgirl
+//<0680> Female Student
+<0680> Female Student
 
 //<0681> ??
 <0681> ??
@@ -2059,8 +2058,8 @@
 //<0683> Yuri
 <0683> Yuri
 
-//<0684> Schoolgirl
-<0684> Schoolgirl
+//<0684> Female Student
+<0684> Female Student
 
 //<0685> ??
 <0685> ??
@@ -2071,8 +2070,8 @@
 //<0687> Yuri
 <0687> Yuri
 
-//<0688> Schoolgirl
-<0688> Schoolgirl
+//<0688> Female Student
+<0688> Female Student
 
 //<0689> ??
 <0689> ??
@@ -2101,8 +2100,8 @@
 //<0697> Glasses Comrade
 <0697> Glasses Comrade
 
-//<0698> 暗算日本記録保持者
-<0698> 暗算日本記録保持者
+//<0698> Japanese Mental Mathstermind
+<0698> Japanese Mental Mathstermind
 
 //<0699> Phantom Slasher
 <0699> Phantom Slasher
@@ -2119,8 +2118,8 @@
 //<0703> Ero Samurai
 <0703> Ero Samurai
 
-//<0704> エロエロ団ナンバー１
-<0704> エロエロ団ナンバー１
+//<0704> Ero Ero Numero Uno
+<0704> Ero Ero Numero Uno
 
 //<0705> Just a Pervert
 <0705> Just a Pervert
@@ -2128,8 +2127,8 @@
 //<0706> Uglyuri
 <0706> Uglyuri
 
-//<0707> ドピュッシー
-<0707> ドピュッシー
+//<0707> Depussy
+<0707> Depussy
 
 //<0708> Horndog
 <0708> Horndog
@@ -2155,8 +2154,8 @@
 //<0715> Yuri
 <0715> Yuri
 
-//<0716> Schoolgirl
-<0716> Schoolgirl
+//<0716> Female Student
+<0716> Female Student
 
 //<0717> ??
 <0717> ??
@@ -2182,8 +2181,8 @@
 //<0724> Glasses Comrade
 <0724> Glasses Comrade
 
-//<0725> 暗算日本記録保持者
-<0725> 暗算日本記録保持者
+//<0725> Japanese Mental Mathstermind
+<0725> Japanese Mental Mathstermind
 
 //<0726> Phantom Slasher
 <0726> Phantom Slasher
@@ -2200,8 +2199,8 @@
 //<0730> Ero Samurai
 <0730> Ero Samurai
 
-//<0731> エロエロ団ナンバー１
-<0731> エロエロ団ナンバー１
+//<0731> Ero Ero Numero Uno
+<0731> Ero Ero Numero Uno
 
 //<0732> Just a Pervert
 <0732> Just a Pervert
@@ -2209,8 +2208,8 @@
 //<0733> Uglyuri
 <0733> Uglyuri
 
-//<0734> ドピュッシー
-<0734> ドピュッシー
+//<0734> Depussy
+<0734> Depussy
 
 //<0735> Horndog
 <0735> Horndog
@@ -2236,8 +2235,8 @@
 //<0742> Yuri
 <0742> Yuri
 
-//<0743> Schoolgirl
-<0743> Schoolgirl
+//<0743> Female Student
+<0743> Female Student
 
 //<0744> ??
 <0744> ??
@@ -2263,8 +2262,8 @@
 //<0751> Glasses Comrade
 <0751> Glasses Comrade
 
-//<0752> 暗算日本記録保持者
-<0752> 暗算日本記録保持者
+//<0752> Japanese Mental Mathstermind
+<0752> Japanese Mental Mathstermind
 
 //<0753> Phantom Slasher
 <0753> Phantom Slasher
@@ -2281,8 +2280,8 @@
 //<0757> Ero Samurai
 <0757> Ero Samurai
 
-//<0758> エロエロ団ナンバー１
-<0758> エロエロ団ナンバー１
+//<0758> Ero Ero Numero Uno
+<0758> Ero Ero Numero Uno
 
 //<0759> Just a Pervert
 <0759> Just a Pervert
@@ -2290,8 +2289,8 @@
 //<0760> Uglyuri
 <0760> Uglyuri
 
-//<0761> ドピュッシー
-<0761> ドピュッシー
+//<0761> Depussy
+<0761> Depussy
 
 //<0762> Horndog
 <0762> Horndog
@@ -2317,8 +2316,8 @@
 //<0769> Yuri
 <0769> Yuri
 
-//<0770> Schoolgirl
-<0770> Schoolgirl
+//<0770> Female Student
+<0770> Female Student
 
 //<0771> ??
 <0771> ??
@@ -2344,8 +2343,8 @@
 //<0778> Yuri
 <0778> Yuri
 
-//<0779> Schoolgirl
-<0779> Schoolgirl
+//<0779> Female Student
+<0779> Female Student
 
 //<0780> ??
 <0780> ??
@@ -2381,7 +2380,7 @@
 <0790> nothing
 
 //<0791> グラウンドを小さな歩幅で歩く女生徒。これも制服を着ているから女生徒だと思っただけだ。
-<0791> A schoolgirl was slowly walking across the grounds. Well, I assume she's a schoolgirl since she's wearing a uniform.
+<0791> A female student was slowly walking across the grounds. Well, I assume she's a student since she's wearing a uniform.
 
 //<0792> Otonashi
 <0792> Otonashi
@@ -2401,8 +2400,8 @@
 //<0797> Glasses Comrade
 <0797> Glasses Comrade
 
-//<0798> 暗算日本記録保持者
-<0798> 暗算日本記録保持者
+//<0798> Japanese Mental Mathstermind
+<0798> Japanese Mental Mathstermind
 
 //<0799> Phantom Slasher
 <0799> Phantom Slasher
@@ -2419,8 +2418,8 @@
 //<0803> Ero Samurai
 <0803> Ero Samurai
 
-//<0804> エロエロ団ナンバー１
-<0804> エロエロ団ナンバー１
+//<0804> Ero Ero Numero Uno
+<0804> Ero Ero Numero Uno
 
 //<0805> Just a Pervert
 <0805> Just a Pervert
@@ -2428,8 +2427,8 @@
 //<0806> Uglyuri
 <0806> Uglyuri
 
-//<0807> ドピュッシー
-<0807> ドピュッシー
+//<0807> Depussy
+<0807> Depussy
 
 //<0808> Horndog
 <0808> Horndog
@@ -2455,8 +2454,8 @@
 //<0815> Yuri
 <0815> Yuri
 
-//<0816> Schoolgirl
-<0816> Schoolgirl
+//<0816> Female Student
+<0816> Female Student
 
 //<0817> ??
 <0817> ??
@@ -2482,8 +2481,8 @@
 //<0824> Glasses Comrade
 <0824> Glasses Comrade
 
-//<0825> 暗算日本記録保持者
-<0825> 暗算日本記録保持者
+//<0825> Japanese Mental Mathstermind
+<0825> Japanese Mental Mathstermind
 
 //<0826> Phantom Slasher
 <0826> Phantom Slasher
@@ -2500,8 +2499,8 @@
 //<0830> Ero Samurai
 <0830> Ero Samurai
 
-//<0831> エロエロ団ナンバー１
-<0831> エロエロ団ナンバー１
+//<0831> Ero Ero Numero Uno
+<0831> Ero Ero Numero Uno
 
 //<0832> Just a Pervert
 <0832> Just a Pervert
@@ -2509,8 +2508,8 @@
 //<0833> Uglyuri
 <0833> Uglyuri
 
-//<0834> ドピュッシー
-<0834> ドピュッシー
+//<0834> Depussy
+<0834> Depussy
 
 //<0835> Horndog
 <0835> Horndog
@@ -2536,8 +2535,8 @@
 //<0842> Yuri
 <0842> Yuri
 
-//<0843> Schoolgirl
-<0843> Schoolgirl
+//<0843> Female Student
+<0843> Female Student
 
 //<0844> ??
 <0844> ??
@@ -2563,8 +2562,8 @@
 //<0851> Glasses Comrade
 <0851> Glasses Comrade
 
-//<0852> 暗算日本記録保持者
-<0852> 暗算日本記録保持者
+//<0852> Japanese Mental Mathstermind
+<0852> Japanese Mental Mathstermind
 
 //<0853> Phantom Slasher
 <0853> Phantom Slasher
@@ -2581,8 +2580,8 @@
 //<0857> Ero Samurai
 <0857> Ero Samurai
 
-//<0858> エロエロ団ナンバー１
-<0858> エロエロ団ナンバー１
+//<0858> Ero Ero Numero Uno
+<0858> Ero Ero Numero Uno
 
 //<0859> Just a Pervert
 <0859> Just a Pervert
@@ -2590,8 +2589,8 @@
 //<0860> Uglyuri
 <0860> Uglyuri
 
-//<0861> ドピュッシー
-<0861> ドピュッシー
+//<0861> Depussy
+<0861> Depussy
 
 //<0862> Horndog
 <0862> Horndog
@@ -2620,8 +2619,8 @@
 //<0870> Yuri
 <0870> Yuri
 
-//<0871> Schoolgirl
-<0871> Schoolgirl
+//<0871> Female Student
+<0871> Female Student
 
 //<0872> ??
 <0872> ??
@@ -2632,8 +2631,8 @@
 //<0874> Yuri
 <0874> Yuri
 
-//<0875> Schoolgirl
-<0875> Schoolgirl
+//<0875> Female Student
+<0875> Female Student
 
 //<0876> ??
 <0876> ??
@@ -2678,8 +2677,8 @@
 //<0889> Glasses Comrade
 <0889> Glasses Comrade
 
-//<0890> 暗算日本記録保持者
-<0890> 暗算日本記録保持者
+//<0890> Japanese Mental Mathstermind
+<0890> Japanese Mental Mathstermind
 
 //<0891> Phantom Slasher
 <0891> Phantom Slasher
@@ -2696,8 +2695,8 @@
 //<0895> Ero Samurai
 <0895> Ero Samurai
 
-//<0896> エロエロ団ナンバー１
-<0896> エロエロ団ナンバー１
+//<0896> Ero Ero Numero Uno
+<0896> Ero Ero Numero Uno
 
 //<0897> Just a Pervert
 <0897> Just a Pervert
@@ -2705,8 +2704,8 @@
 //<0898> Uglyuri
 <0898> Uglyuri
 
-//<0899> ドピュッシー
-<0899> ドピュッシー
+//<0899> Depussy
+<0899> Depussy
 
 //<0900> Horndog
 <0900> Horndog
@@ -2747,8 +2746,8 @@
 //<0912> Yuri
 <0912> Yuri
 
-//<0913> Schoolgirl
-<0913> Schoolgirl
+//<0913> Female Student
+<0913> Female Student
 
 //<0914> ??
 <0914> ??
@@ -2792,8 +2791,8 @@
 //<0927> Yuri
 <0927> Yuri
 
-//<0928> Schoolgirl
-<0928> Schoolgirl
+//<0928> Female Student
+<0928> Female Student
 
 //<0929> ??
 <0929> ??
@@ -2825,8 +2824,8 @@
 //<0938> Glasses Comrade
 <0938> Glasses Comrade
 
-//<0939> 暗算日本記録保持者
-<0939> 暗算日本記録保持者
+//<0939> Japanese Mental Mathstermind
+<0939> Japanese Mental Mathstermind
 
 //<0940> Phantom Slasher
 <0940> Phantom Slasher
@@ -2843,8 +2842,8 @@
 //<0944> Ero Samurai
 <0944> Ero Samurai
 
-//<0945> エロエロ団ナンバー１
-<0945> エロエロ団ナンバー１
+//<0945> Ero Ero Numero Uno
+<0945> Ero Ero Numero Uno
 
 //<0946> Just a Pervert
 <0946> Just a Pervert
@@ -2852,8 +2851,8 @@
 //<0947> Uglyuri
 <0947> Uglyuri
 
-//<0948> ドピュッシー
-<0948> ドピュッシー
+//<0948> Depussy
+<0948> Depussy
 
 //<0949> Horndog
 <0949> Horndog
@@ -2894,8 +2893,8 @@
 //<0961> Yuri
 <0961> Yuri
 
-//<0962> Schoolgirl
-<0962> Schoolgirl
+//<0962> Female Student
+<0962> Female Student
 
 //<0963> ??
 <0963> ??
@@ -2939,15 +2938,15 @@
 //<0976> Yuri
 <0976> Yuri
 
-//<0977> Schoolgirl
-<0977> Schoolgirl
+//<0977> Female Student
+<0977> Female Student
 
 //<0978> ??
 <0978> ??
 
 //<0979> 「なぜっ！？　わけわかんないわっ！　どうしたらそんな思考に至るの！？　頭おかしいんじゃない！？」
-<0979> "Why!? I don't get it! Why would you think to do that!? Is there something wrong with your head!?" 
-// We have 2 TLs for どうしたらそんな思考に至るの right now. I personally think it sounds better as "What the hec was was your thought process?"
+<0979> "Why!? I don't get it! Why would you even think about doing that that!? Is there something wrong with your head!?" 
+// We have 2 TLs for どうしたらそんな思考に至るの right now. We should probably either choose one of those to use or something similar that sounds better
 
 //<0980> nothing
 <0980> nothing
@@ -2966,7 +2965,7 @@
 
 //<0985> 今にものし掛かってきそうな体勢で、まくし立てるから、たくさん唾が飛んでくる。
 <0985> With an overbearing posture, she hurled those lines at me along with a bunch of spit.
-//TL check
+//QC check
 
 //<0986> Otonashi
 <0986> Otonashi
@@ -2986,8 +2985,8 @@
 //<0991> Glasses Comrade
 <0991> Glasses Comrade
 
-//<0992> 暗算日本記録保持者
-<0992> 暗算日本記録保持者
+//<0992> Japanese Mental Mathstermind
+<0992> Japanese Mental Mathstermind
 
 //<0993> Phantom Slasher
 <0993> Phantom Slasher
@@ -3004,8 +3003,8 @@
 //<0997> Ero Samurai
 <0997> Ero Samurai
 
-//<0998> エロエロ団ナンバー１
-<0998> エロエロ団ナンバー１
+//<0998> Ero Ero Numero Uno
+<0998> Ero Ero Numero Uno
 
 //<0999> Just a Pervert
 <0999> Just a Pervert
@@ -3013,8 +3012,8 @@
 //<1000> Uglyuri
 <1000> Uglyuri
 
-//<1001> ドピュッシー
-<1001> ドピュッシー
+//<1001> Depussy
+<1001> Depussy
 
 //<1002> Horndog
 <1002> Horndog
@@ -3055,8 +3054,8 @@
 //<1014> Yuri
 <1014> Yuri
 
-//<1015> Schoolgirl
-<1015> Schoolgirl
+//<1015> Female Student
+<1015> Female Student
 
 //<1016> ??
 <1016> ??
@@ -3082,8 +3081,8 @@
 //<1023> Glasses Comrade
 <1023> Glasses Comrade
 
-//<1024> 暗算日本記録保持者
-<1024> 暗算日本記録保持者
+//<1024> Japanese Mental Mathstermind
+<1024> Japanese Mental Mathstermind
 
 //<1025> Phantom Slasher
 <1025> Phantom Slasher
@@ -3100,8 +3099,8 @@
 //<1029> Ero Samurai
 <1029> Ero Samurai
 
-//<1030> エロエロ団ナンバー１
-<1030> エロエロ団ナンバー１
+//<1030> Ero Ero Numero Uno
+<1030> Ero Ero Numero Uno
 
 //<1031> Just a Pervert
 <1031> Just a Pervert
@@ -3109,8 +3108,8 @@
 //<1032> Uglyuri
 <1032> Uglyuri
 
-//<1033> ドピュッシー
-<1033> ドピュッシー
+//<1033> Depussy
+<1033> Depussy
 
 //<1034> Horndog
 <1034> Horndog
@@ -3151,8 +3150,8 @@
 //<1046> Yuri
 <1046> Yuri
 
-//<1047> Schoolgirl
-<1047> Schoolgirl
+//<1047> Female Student
+<1047> Female Student
 
 //<1048> ??
 <1048> ??
@@ -3178,8 +3177,8 @@
 //<1055> Glasses Comrade
 <1055> Glasses Comrade
 
-//<1056> 暗算日本記録保持者
-<1056> 暗算日本記録保持者
+//<1056> Japanese Mental Mathstermind
+<1056> Japanese Mental Mathstermind
 
 //<1057> Phantom Slasher
 <1057> Phantom Slasher
@@ -3196,8 +3195,8 @@
 //<1061> Ero Samurai
 <1061> Ero Samurai
 
-//<1062> エロエロ団ナンバー１
-<1062> エロエロ団ナンバー１
+//<1062> Ero Ero Numero Uno
+<1062> Ero Ero Numero Uno
 
 //<1063> Just a Pervert
 <1063> Just a Pervert
@@ -3205,8 +3204,8 @@
 //<1064> Uglyuri
 <1064> Uglyuri
 
-//<1065> ドピュッシー
-<1065> ドピュッシー
+//<1065> Depussy
+<1065> Depussy
 
 //<1066> Horndog
 <1066> Horndog
@@ -3247,15 +3246,15 @@
 //<1078> Yuri
 <1078> Yuri
 
-//<1079> Schoolgirl
-<1079> Schoolgirl
+//<1079> Female Student
+<1079> Female Student
 
 //<1080> ??
 <1080> ??
 
 //<1081> 「あのねぇ…死んじゃったけど、このまま死ねるかってぎりぎりのところで抗ってるの！　そこに今居るのよっ、ここはそういう世界なのよっ、そんな世界で授業を受ける義務なんてあるわけないじゃない！」
-<1081> "You know... We died but we're fighting against this world of death! We're alive here. Thats how this world works, so there's no reason why we'd have to take tests!"
-//TL check
+<1081> "You know... We may be dead, but if we're gonna die, we'll still fight til the last minute! We're alive here right now. Thats how this world works, so there's no reason why we'd have to take tests!"
+//QC check
 {1e397} 10 // 1081
 
 //<1082> nothing
@@ -3276,8 +3275,8 @@
 //<1087> Yuri
 <1087> Yuri
 
-//<1088> Schoolgirl
-<1088> Schoolgirl
+//<1088> Female Student
+<1088> Female Student
 
 //<1089> ??
 <1089> ??
@@ -3328,8 +3327,8 @@
 //<1104> Glasses Comrade
 <1104> Glasses Comrade
 
-//<1105> 暗算日本記録保持者
-<1105> 暗算日本記録保持者
+//<1105> Japanese Mental Mathstermind
+<1105> Japanese Mental Mathstermind
 
 //<1106> Phantom Slasher
 <1106> Phantom Slasher
@@ -3346,8 +3345,8 @@
 //<1110> Ero Samurai
 <1110> Ero Samurai
 
-//<1111> エロエロ団ナンバー１
-<1111> エロエロ団ナンバー１
+//<1111> Ero Ero Numero Uno
+<1111> Ero Ero Numero Uno
 
 //<1112> Just a Pervert
 <1112> Just a Pervert
@@ -3355,8 +3354,8 @@
 //<1113> Uglyuri
 <1113> Uglyuri
 
-//<1114> ドピュッシー
-<1114> ドピュッシー
+//<1114> Depussy
+<1114> Depussy
 
 //<1115> Horndog
 <1115> Horndog
@@ -3397,8 +3396,8 @@
 //<1127> Yuri
 <1127> Yuri
 
-//<1128> Schoolgirl
-<1128> Schoolgirl
+//<1128> Female Student
+<1128> Female Student
 
 //<1129> ??
 <1129> ??
@@ -3424,8 +3423,8 @@
 //<1136> Glasses Comrade
 <1136> Glasses Comrade
 
-//<1137> 暗算日本記録保持者
-<1137> 暗算日本記録保持者
+//<1137> Japanese Mental Mathstermind
+<1137> Japanese Mental Mathstermind
 
 //<1138> Phantom Slasher
 <1138> Phantom Slasher
@@ -3442,8 +3441,8 @@
 //<1142> Ero Samurai
 <1142> Ero Samurai
 
-//<1143> エロエロ団ナンバー１
-<1143> エロエロ団ナンバー１
+//<1143> Ero Ero Numero Uno
+<1143> Ero Ero Numero Uno
 
 //<1144> Just a Pervert
 <1144> Just a Pervert
@@ -3451,8 +3450,8 @@
 //<1145> Uglyuri
 <1145> Uglyuri
 
-//<1146> ドピュッシー
-<1146> ドピュッシー
+//<1146> Depussy
+<1146> Depussy
 
 //<1147> Horndog
 <1147> Horndog
@@ -3494,8 +3493,8 @@
 //<1159> Glasses Comrade
 <1159> Glasses Comrade
 
-//<1160> 暗算日本記録保持者
-<1160> 暗算日本記録保持者
+//<1160> Japanese Mental Mathstermind
+<1160> Japanese Mental Mathstermind
 
 //<1161> Phantom Slasher
 <1161> Phantom Slasher
@@ -3512,8 +3511,8 @@
 //<1165> Ero Samurai
 <1165> Ero Samurai
 
-//<1166> エロエロ団ナンバー１
-<1166> エロエロ団ナンバー１
+//<1166> Ero Ero Numero Uno
+<1166> Ero Ero Numero Uno
 
 //<1167> Just a Pervert
 <1167> Just a Pervert
@@ -3521,8 +3520,8 @@
 //<1168> Uglyuri
 <1168> Uglyuri
 
-//<1169> ドピュッシー
-<1169> ドピュッシー
+//<1169> Depussy
+<1169> Depussy
 
 //<1170> Horndog
 <1170> Horndog
@@ -3563,8 +3562,8 @@
 //<1182> Glasses Comrade
 <1182> Glasses Comrade
 
-//<1183> 暗算日本記録保持者
-<1183> 暗算日本記録保持者
+//<1183> Japanese Mental Mathstermind
+<1183> Japanese Mental Mathstermind
 
 //<1184> Phantom Slasher
 <1184> Phantom Slasher
@@ -3581,8 +3580,8 @@
 //<1188> Ero Samurai
 <1188> Ero Samurai
 
-//<1189> エロエロ団ナンバー１
-<1189> エロエロ団ナンバー１
+//<1189> Ero Ero Numero Uno
+<1189> Ero Ero Numero Uno
 
 //<1190> Just a Pervert
 <1190> Just a Pervert
@@ -3590,8 +3589,8 @@
 //<1191> Uglyuri
 <1191> Uglyuri
 
-//<1192> ドピュッシー
-<1192> ドピュッシー
+//<1192> Depussy
+<1192> Depussy
 
 //<1193> Horndog
 <1193> Horndog
@@ -3632,8 +3631,8 @@
 //<1205> Yuri
 <1205> Yuri
 
-//<1206> Schoolgirl
-<1206> Schoolgirl
+//<1206> Female Student
+<1206> Female Student
 
 //<1207> ??
 <1207> ??
@@ -3662,8 +3661,8 @@
 //<1215> Yuri
 <1215> Yuri
 
-//<1216> Schoolgirl
-<1216> Schoolgirl
+//<1216> Female Student
+<1216> Female Student
 
 //<1217> ??
 <1217> ??
@@ -3689,8 +3688,8 @@
 //<1224> Glasses Comrade
 <1224> Glasses Comrade
 
-//<1225> 暗算日本記録保持者
-<1225> 暗算日本記録保持者
+//<1225> Japanese Mental Mathstermind
+<1225> Japanese Mental Mathstermind
 
 //<1226> Phantom Slasher
 <1226> Phantom Slasher
@@ -3707,8 +3706,8 @@
 //<1230> Ero Samurai
 <1230> Ero Samurai
 
-//<1231> エロエロ団ナンバー１
-<1231> エロエロ団ナンバー１
+//<1231> Ero Ero Numero Uno
+<1231> Ero Ero Numero Uno
 
 //<1232> Just a Pervert
 <1232> Just a Pervert
@@ -3716,8 +3715,8 @@
 //<1233> Uglyuri
 <1233> Uglyuri
 
-//<1234> ドピュッシー
-<1234> ドピュッシー
+//<1234> Depussy
+<1234> Depussy
 
 //<1235> Horndog
 <1235> Horndog
@@ -3758,8 +3757,8 @@
 //<1247> Yuri
 <1247> Yuri
 
-//<1248> Schoolgirl
-<1248> Schoolgirl
+//<1248> Female Student
+<1248> Female Student
 
 //<1249> ??
 <1249> ??
@@ -3785,8 +3784,8 @@
 //<1256> Glasses Comrade
 <1256> Glasses Comrade
 
-//<1257> 暗算日本記録保持者
-<1257> 暗算日本記録保持者
+//<1257> Japanese Mental Mathstermind
+<1257> Japanese Mental Mathstermind
 
 //<1258> Phantom Slasher
 <1258> Phantom Slasher
@@ -3803,8 +3802,8 @@
 //<1262> Ero Samurai
 <1262> Ero Samurai
 
-//<1263> エロエロ団ナンバー１
-<1263> エロエロ団ナンバー１
+//<1263> Ero Ero Numero Uno
+<1263> Ero Ero Numero Uno
 
 //<1264> Just a Pervert
 <1264> Just a Pervert
@@ -3812,8 +3811,8 @@
 //<1265> Uglyuri
 <1265> Uglyuri
 
-//<1266> ドピュッシー
-<1266> ドピュッシー
+//<1266> Depussy
+<1266> Depussy
 
 //<1267> Horndog
 <1267> Horndog
@@ -3854,8 +3853,8 @@
 //<1279> Yuri
 <1279> Yuri
 
-//<1280> Schoolgirl
-<1280> Schoolgirl
+//<1280> Female Student
+<1280> Female Student
 
 //<1281> ??
 <1281> ??
@@ -3885,8 +3884,8 @@
 //<1289> Yuri
 <1289> Yuri
 
-//<1290> Schoolgirl
-<1290> Schoolgirl
+//<1290> Female Student
+<1290> Female Student
 
 //<1291> ??
 <1291> ??
@@ -3912,8 +3911,8 @@
 //<1298> Yuri
 <1298> Yuri
 
-//<1299> Schoolgirl
-<1299> Schoolgirl
+//<1299> Female Student
+<1299> Female Student
 
 //<1300> ??
 <1300> ??
@@ -3939,8 +3938,8 @@
 //<1307> Glasses Comrade
 <1307> Glasses Comrade
 
-//<1308> 暗算日本記録保持者
-<1308> 暗算日本記録保持者
+//<1308> Japanese Mental Mathstermind
+<1308> Japanese Mental Mathstermind
 
 //<1309> Phantom Slasher
 <1309> Phantom Slasher
@@ -3957,8 +3956,8 @@
 //<1313> Ero Samurai
 <1313> Ero Samurai
 
-//<1314> エロエロ団ナンバー１
-<1314> エロエロ団ナンバー１
+//<1314> Ero Ero Numero Uno
+<1314> Ero Ero Numero Uno
 
 //<1315> Just a Pervert
 <1315> Just a Pervert
@@ -3966,8 +3965,8 @@
 //<1316> Uglyuri
 <1316> Uglyuri
 
-//<1317> ドピュッシー
-<1317> ドピュッシー
+//<1317> Depussy
+<1317> Depussy
 
 //<1318> Horndog
 <1318> Horndog
@@ -4000,10 +3999,10 @@
 <1327> Boy B
 
 //<1328> エロエロ団総帥
-<1328> エロエロ団総帥
+<1328> Ero Ero Captain
 
 //<1329> イケチン
-<1329> イケチン
+<1329> Hottie-chin
 
 //<1330> ホモ太
 <1330> ホモ太
@@ -4015,7 +4014,7 @@
 <1332> Hideki
 
 //<1333> 男子生徒
-<1333> Schoolboy
+<1333> Male Student
 
 //<1334> ??
 <1334> ??
@@ -4060,11 +4059,11 @@
 //<1347> Boy B
 <1347> Boy B
 
-//<1348> エロエロ団総帥
-<1348> エロエロ団総帥
+//<1348> Ero Ero Captain
+<1348> Ero Ero Captain
 
-//<1349> イケチン
-<1349> イケチン
+//<1349> Hottie-chin
+<1349> Hottie-chin
 
 //<1350> ホモ太
 <1350> ホモ太
@@ -4075,8 +4074,8 @@
 //<1352> Hideki
 <1352> Hideki
 
-//<1353> Schoolboy
-<1353> Schoolboy
+//<1353> Male Student
+<1353> Male Student
 
 //<1354> ??
 <1354> ??
@@ -4123,11 +4122,11 @@
 //<1368> Boy B
 <1368> Boy B
 
-//<1369> エロエロ団総帥
-<1369> エロエロ団総帥
+//<1369> Ero Ero Captain
+<1369> Ero Ero Captain
 
-//<1370> イケチン
-<1370> イケチン
+//<1370> Hottie-chin
+<1370> Hottie-chin
 
 //<1371> ホモ太
 <1371> ホモ太
@@ -4138,8 +4137,8 @@
 //<1373> Hideki
 <1373> Hideki
 
-//<1374> Schoolboy
-<1374> Schoolboy
+//<1374> Male Student
+<1374> Male Student
 
 //<1375> ??
 <1375> ??
@@ -4168,8 +4167,8 @@
 //<1383> Glasses Comrade
 <1383> Glasses Comrade
 
-//<1384> 暗算日本記録保持者
-<1384> 暗算日本記録保持者
+//<1384> Japanese Mental Mathstermind
+<1384> Japanese Mental Mathstermind
 
 //<1385> Phantom Slasher
 <1385> Phantom Slasher
@@ -4186,8 +4185,8 @@
 //<1389> Ero Samurai
 <1389> Ero Samurai
 
-//<1390> エロエロ団ナンバー１
-<1390> エロエロ団ナンバー１
+//<1390> Ero Ero Numero Uno
+<1390> Ero Ero Numero Uno
 
 //<1391> Just a Pervert
 <1391> Just a Pervert
@@ -4195,8 +4194,8 @@
 //<1392> Uglyuri
 <1392> Uglyuri
 
-//<1393> ドピュッシー
-<1393> ドピュッシー
+//<1393> Depussy
+<1393> Depussy
 
 //<1394> Horndog
 <1394> Horndog
@@ -4220,13 +4219,13 @@
 <1400> "I'm going over there."
 
 //<1401> 銃の照準を合わせられていた、小柄な別の女生徒は運動場に居た。近づくため、目の前の大階段を降り始める。
-<1401> In the direction that the girl had been pointing the gun, the other petite schoolgirl is still on the grounds. I head down the large staircase in fornt of us.
+<1401> In the direction that the girl had been pointing the gun, the other petite female student is still on the grounds. I head down the large staircase in fornt of us.
 
 //<1402> Yuri
 <1402> Yuri
 
-//<1403> Schoolgirl
-<1403> Schoolgirl
+//<1403> Female Student
+<1403> Female Student
 
 //<1404> ??
 <1404> ??
@@ -4240,11 +4239,11 @@
 //<1407> Boy B
 <1407> Boy B
 
-//<1408> エロエロ団総帥
-<1408> エロエロ団総帥
+//<1408> Ero Ero Captain
+<1408> Ero Ero Captain
 
-//<1409> イケチン
-<1409> イケチン
+//<1409> Hottie-chin
+<1409> Hottie-chin
 
 //<1410> ホモ太
 <1410> ホモ太
@@ -4255,8 +4254,8 @@
 //<1412> Hideki
 <1412> Hideki
 
-//<1413> Schoolboy
-<1413> Schoolboy
+//<1413> Male Student
+<1413> Male Student
 
 //<1414> ??
 <1414> ??
@@ -4267,8 +4266,8 @@
 //<1416> Yuri
 <1416> Yuri
 
-//<1417> Schoolgirl
-<1417> Schoolgirl
+//<1417> Female Student
+<1417> Female Student
 
 //<1418> ??
 <1418> ??
@@ -4298,7 +4297,7 @@
 <1426> nothing
 
 //<1427> 視界には入っているはずなのに、女生徒は全然俺に気づいてくれない。
-<1427> Even though she should be able to see me by now, the schoolgirl doesn't seem to have noticed me at all.
+<1427> Even though she should be able to see me by now, the girl doesn't seem to have noticed me at all.
 
 //<1428> なので仕方なく、俺はその前に立ちふさがった。
 <1428> I don't really have any other choice, so I move directly in front of her.
@@ -4327,8 +4326,8 @@
 //<1436> Kanade
 <1436> Kanade
 
-//<1437> Schoolgirl
-<1437> Schoolgirl
+//<1437> Female Student
+<1437> Female Student
 
 //<1438> ??
 <1438> ??
@@ -4360,8 +4359,8 @@
 //<1447> Glasses Comrade
 <1447> Glasses Comrade
 
-//<1448> 暗算日本記録保持者
-<1448> 暗算日本記録保持者
+//<1448> Japanese Mental Mathstermind
+<1448> Japanese Mental Mathstermind
 
 //<1449> Phantom Slasher
 <1449> Phantom Slasher
@@ -4378,8 +4377,8 @@
 //<1453> Ero Samurai
 <1453> Ero Samurai
 
-//<1454> エロエロ団ナンバー１
-<1454> エロエロ団ナンバー１
+//<1454> Ero Ero Numero Uno
+<1454> Ero Ero Numero Uno
 
 //<1455> Just a Pervert
 <1455> Just a Pervert
@@ -4387,8 +4386,8 @@
 //<1456> Uglyuri
 <1456> Uglyuri
 
-//<1457> ドピュッシー
-<1457> ドピュッシー
+//<1457> Depussy
+<1457> Depussy
 
 //<1458> Horndog
 <1458> Horndog
@@ -4432,8 +4431,8 @@
 //<1471> Kanade
 <1471> Kanade
 
-//<1472> Schoolgirl
-<1472> Schoolgirl
+//<1472> Female Student
+<1472> Female Student
 
 //<1473> ??
 <1473> ??
@@ -4459,8 +4458,8 @@
 //<1480> Glasses Comrade
 <1480> Glasses Comrade
 
-//<1481> 暗算日本記録保持者
-<1481> 暗算日本記録保持者
+//<1481> Japanese Mental Mathstermind
+<1481> Japanese Mental Mathstermind
 
 //<1482> Phantom Slasher
 <1482> Phantom Slasher
@@ -4477,8 +4476,8 @@
 //<1486> Ero Samurai
 <1486> Ero Samurai
 
-//<1487> エロエロ団ナンバー１
-<1487> エロエロ団ナンバー１
+//<1487> Ero Ero Numero Uno
+<1487> Ero Ero Numero Uno
 
 //<1488> Just a Pervert
 <1488> Just a Pervert
@@ -4486,8 +4485,8 @@
 //<1489> Uglyuri
 <1489> Uglyuri
 
-//<1490> ドピュッシー
-<1490> ドピュッシー
+//<1490> Depussy
+<1490> Depussy
 
 //<1491> Horndog
 <1491> Horndog
@@ -4531,8 +4530,8 @@
 //<1504> Kanade
 <1504> Kanade
 
-//<1505> Schoolgirl
-<1505> Schoolgirl
+//<1505> Female Student
+<1505> Female Student
 
 //<1506> ??
 <1506> ??
@@ -4558,8 +4557,8 @@
 //<1513> Glasses Comrade
 <1513> Glasses Comrade
 
-//<1514> 暗算日本記録保持者
-<1514> 暗算日本記録保持者
+//<1514> Japanese Mental Mathstermind
+<1514> Japanese Mental Mathstermind
 
 //<1515> Phantom Slasher
 <1515> Phantom Slasher
@@ -4576,8 +4575,8 @@
 //<1519> Ero Samurai
 <1519> Ero Samurai
 
-//<1520> エロエロ団ナンバー１
-<1520> エロエロ団ナンバー１
+//<1520> Ero Ero Numero Uno
+<1520> Ero Ero Numero Uno
 
 //<1521> Just a Pervert
 <1521> Just a Pervert
@@ -4585,8 +4584,8 @@
 //<1522> Uglyuri
 <1522> Uglyuri
 
-//<1523> ドピュッシー
-<1523> ドピュッシー
+//<1523> Depussy
+<1523> Depussy
 
 //<1524> Horndog
 <1524> Horndog
@@ -4631,8 +4630,8 @@
 //<1537> Kanade
 <1537> Kanade
 
-//<1538> Schoolgirl
-<1538> Schoolgirl
+//<1538> Female Student
+<1538> Female Student
 
 //<1539> ??
 <1539> ??
@@ -4658,8 +4657,8 @@
 //<1546> Glasses Comrade
 <1546> Glasses Comrade
 
-//<1547> 暗算日本記録保持者
-<1547> 暗算日本記録保持者
+//<1547> Japanese Mental Mathstermind
+<1547> Japanese Mental Mathstermind
 
 //<1548> Phantom Slasher
 <1548> Phantom Slasher
@@ -4676,8 +4675,8 @@
 //<1552> Ero Samurai
 <1552> Ero Samurai
 
-//<1553> エロエロ団ナンバー１
-<1553> エロエロ団ナンバー１
+//<1553> Ero Ero Numero Uno
+<1553> Ero Ero Numero Uno
 
 //<1554> Just a Pervert
 <1554> Just a Pervert
@@ -4685,8 +4684,8 @@
 //<1555> Uglyuri
 <1555> Uglyuri
 
-//<1556> ドピュッシー
-<1556> ドピュッシー
+//<1556> Depussy
+<1556> Depussy
 
 //<1557> Horndog
 <1557> Horndog
@@ -4730,8 +4729,8 @@
 //<1570> Kanade
 <1570> Kanade
 
-//<1571> Schoolgirl
-<1571> Schoolgirl
+//<1571> Female Student
+<1571> Female Student
 
 //<1572> ??
 <1572> ??
@@ -4757,8 +4756,8 @@
 //<1579> Glasses Comrade
 <1579> Glasses Comrade
 
-//<1580> 暗算日本記録保持者
-<1580> 暗算日本記録保持者
+//<1580> Japanese Mental Mathstermind
+<1580> Japanese Mental Mathstermind
 
 //<1581> Phantom Slasher
 <1581> Phantom Slasher
@@ -4775,8 +4774,8 @@
 //<1585> Ero Samurai
 <1585> Ero Samurai
 
-//<1586> エロエロ団ナンバー１
-<1586> エロエロ団ナンバー１
+//<1586> Ero Ero Numero Uno
+<1586> Ero Ero Numero Uno
 
 //<1587> Just a Pervert
 <1587> Just a Pervert
@@ -4784,8 +4783,8 @@
 //<1588> Uglyuri
 <1588> Uglyuri
 
-//<1589> ドピュッシー
-<1589> ドピュッシー
+//<1589> Depussy
+<1589> Depussy
 
 //<1590> Horndog
 <1590> Horndog
@@ -4844,8 +4843,8 @@
 //<1608> Glasses Comrade
 <1608> Glasses Comrade
 
-//<1609> 暗算日本記録保持者
-<1609> 暗算日本記録保持者
+//<1609> Japanese Mental Mathstermind
+<1609> Japanese Mental Mathstermind
 
 //<1610> Phantom Slasher
 <1610> Phantom Slasher
@@ -4862,8 +4861,8 @@
 //<1614> Ero Samurai
 <1614> Ero Samurai
 
-//<1615> エロエロ団ナンバー１
-<1615> エロエロ団ナンバー１
+//<1615> Ero Ero Numero Uno
+<1615> Ero Ero Numero Uno
 
 //<1616> Just a Pervert
 <1616> Just a Pervert
@@ -4871,8 +4870,8 @@
 //<1617> Uglyuri
 <1617> Uglyuri
 
-//<1618> ドピュッシー
-<1618> ドピュッシー
+//<1618> Depussy
+<1618> Depussy
 
 //<1619> Horndog
 <1619> Horndog
@@ -4916,8 +4915,8 @@
 //<1632> Kanade
 <1632> Kanade
 
-//<1633> Schoolgirl
-<1633> Schoolgirl
+//<1633> Female Student
+<1633> Female Student
 
 //<1634> ??
 <1634> ??
@@ -4970,8 +4969,8 @@
 //<1650> Glasses Comrade
 <1650> Glasses Comrade
 
-//<1651> 暗算日本記録保持者
-<1651> 暗算日本記録保持者
+//<1651> Japanese Mental Mathstermind
+<1651> Japanese Mental Mathstermind
 
 //<1652> Phantom Slasher
 <1652> Phantom Slasher
@@ -4988,8 +4987,8 @@
 //<1656> Ero Samurai
 <1656> Ero Samurai
 
-//<1657> エロエロ団ナンバー１
-<1657> エロエロ団ナンバー１
+//<1657> Ero Ero Numero Uno
+<1657> Ero Ero Numero Uno
 
 //<1658> Just a Pervert
 <1658> Just a Pervert
@@ -4997,8 +4996,8 @@
 //<1659> Uglyuri
 <1659> Uglyuri
 
-//<1660> ドピュッシー
-<1660> ドピュッシー
+//<1660> Depussy
+<1660> Depussy
 
 //<1661> Horndog
 <1661> Horndog
@@ -5042,8 +5041,8 @@
 //<1674> Kanade
 <1674> Kanade
 
-//<1675> Schoolgirl
-<1675> Schoolgirl
+//<1675> Female Student
+<1675> Female Student
 
 //<1676> ??
 <1676> ??
@@ -5069,8 +5068,8 @@
 //<1683> Glasses Comrade
 <1683> Glasses Comrade
 
-//<1684> 暗算日本記録保持者
-<1684> 暗算日本記録保持者
+//<1684> Japanese Mental Mathstermind
+<1684> Japanese Mental Mathstermind
 
 //<1685> Phantom Slasher
 <1685> Phantom Slasher
@@ -5087,8 +5086,8 @@
 //<1689> Ero Samurai
 <1689> Ero Samurai
 
-//<1690> エロエロ団ナンバー１
-<1690> エロエロ団ナンバー１
+//<1690> Ero Ero Numero Uno
+<1690> Ero Ero Numero Uno
 
 //<1691> Just a Pervert
 <1691> Just a Pervert
@@ -5096,8 +5095,8 @@
 //<1692> Uglyuri
 <1692> Uglyuri
 
-//<1693> ドピュッシー
-<1693> ドピュッシー
+//<1693> Depussy
+<1693> Depussy
 
 //<1694> Horndog
 <1694> Horndog
@@ -5142,8 +5141,8 @@
 //<1707> Kanade
 <1707> Kanade
 
-//<1708> Schoolgirl
-<1708> Schoolgirl
+//<1708> Female Student
+<1708> Female Student
 
 //<1709> ??
 <1709> ??
@@ -5169,8 +5168,8 @@
 //<1716> Glasses Comrade
 <1716> Glasses Comrade
 
-//<1717> 暗算日本記録保持者
-<1717> 暗算日本記録保持者
+//<1717> Japanese Mental Mathstermind
+<1717> Japanese Mental Mathstermind
 
 //<1718> Phantom Slasher
 <1718> Phantom Slasher
@@ -5187,8 +5186,8 @@
 //<1722> Ero Samurai
 <1722> Ero Samurai
 
-//<1723> エロエロ団ナンバー１
-<1723> エロエロ団ナンバー１
+//<1723> Ero Ero Numero Uno
+<1723> Ero Ero Numero Uno
 
 //<1724> Just a Pervert
 <1724> Just a Pervert
@@ -5196,8 +5195,8 @@
 //<1725> Uglyuri
 <1725> Uglyuri
 
-//<1726> ドピュッシー
-<1726> ドピュッシー
+//<1726> Depussy
+<1726> Depussy
 
 //<1727> Horndog
 <1727> Horndog
@@ -5238,8 +5237,8 @@
 //<1739> Kanade
 <1739> Kanade
 
-//<1740> Schoolgirl
-<1740> Schoolgirl
+//<1740> Female Student
+<1740> Female Student
 
 //<1741> ??
 <1741> ??
@@ -5274,8 +5273,8 @@
 //<1751> Glasses Comrade
 <1751> Glasses Comrade
 
-//<1752> 暗算日本記録保持者
-<1752> 暗算日本記録保持者
+//<1752> Japanese Mental Mathstermind
+<1752> Japanese Mental Mathstermind
 
 //<1753> Phantom Slasher
 <1753> Phantom Slasher
@@ -5292,8 +5291,8 @@
 //<1757> Ero Samurai
 <1757> Ero Samurai
 
-//<1758> エロエロ団ナンバー１
-<1758> エロエロ団ナンバー１
+//<1758> Ero Ero Numero Uno
+<1758> Ero Ero Numero Uno
 
 //<1759> Just a Pervert
 <1759> Just a Pervert
@@ -5301,8 +5300,8 @@
 //<1760> Uglyuri
 <1760> Uglyuri
 
-//<1761> ドピュッシー
-<1761> ドピュッシー
+//<1761> Depussy
+<1761> Depussy
 
 //<1762> Horndog
 <1762> Horndog
@@ -5331,8 +5330,8 @@
 //<1770> Kanade
 <1770> Kanade
 
-//<1771> Schoolgirl
-<1771> Schoolgirl
+//<1771> Female Student
+<1771> Female Student
 
 //<1772> ??
 <1772> ??
@@ -5376,8 +5375,8 @@
 //<1785> Glasses Comrade
 <1785> Glasses Comrade
 
-//<1786> 暗算日本記録保持者
-<1786> 暗算日本記録保持者
+//<1786> Japanese Mental Mathstermind
+<1786> Japanese Mental Mathstermind
 
 //<1787> Phantom Slasher
 <1787> Phantom Slasher
@@ -5394,8 +5393,8 @@
 //<1791> Ero Samurai
 <1791> Ero Samurai
 
-//<1792> エロエロ団ナンバー１
-<1792> エロエロ団ナンバー１
+//<1792> Ero Ero Numero Uno
+<1792> Ero Ero Numero Uno
 
 //<1793> Just a Pervert
 <1793> Just a Pervert
@@ -5403,8 +5402,8 @@
 //<1794> Uglyuri
 <1794> Uglyuri
 
-//<1795> ドピュッシー
-<1795> ドピュッシー
+//<1795> Depussy
+<1795> Depussy
 
 //<1796> Horndog
 <1796> Horndog
@@ -5445,8 +5444,8 @@
 //<1808> Glasses Comrade
 <1808> Glasses Comrade
 
-//<1809> 暗算日本記録保持者
-<1809> 暗算日本記録保持者
+//<1809> Japanese Mental Mathstermind
+<1809> Japanese Mental Mathstermind
 
 //<1810> Phantom Slasher
 <1810> Phantom Slasher
@@ -5463,8 +5462,8 @@
 //<1814> Ero Samurai
 <1814> Ero Samurai
 
-//<1815> エロエロ団ナンバー１
-<1815> エロエロ団ナンバー１
+//<1815> Ero Ero Numero Uno
+<1815> Ero Ero Numero Uno
 
 //<1816> Just a Pervert
 <1816> Just a Pervert
@@ -5472,8 +5471,8 @@
 //<1817> Uglyuri
 <1817> Uglyuri
 
-//<1818> ドピュッシー
-<1818> ドピュッシー
+//<1818> Depussy
+<1818> Depussy
 
 //<1819> Horndog
 <1819> Horndog
@@ -5538,14 +5537,14 @@
 //<1839> Kanade
 <1839> Kanade
 
-//<1840> Schoolgirl
-<1840> Schoolgirl
+//<1840> Female Student
+<1840> Female Student
 
 //<1841> ??
 <1841> ??
 
 //<1842> 「…記憶喪失はよくあることよ。ここに来た時は。事故死とかだったら、頭もやられるから」
-<1842> "...Amnesia is common. If you died unexpectedly before you came here, your mind will be disorientated."
+<1842> "...Many people have amnesia when they come here. Maybe you died in an accident and hurt your head."
 
 //<1843> Otonashi
 <1843> Otonashi
@@ -5565,8 +5564,8 @@
 //<1848> Glasses Comrade
 <1848> Glasses Comrade
 
-//<1849> 暗算日本記録保持者
-<1849> 暗算日本記録保持者
+//<1849> Japanese Mental Mathstermind
+<1849> Japanese Mental Mathstermind
 
 //<1850> Phantom Slasher
 <1850> Phantom Slasher
@@ -5583,8 +5582,8 @@
 //<1854> Ero Samurai
 <1854> Ero Samurai
 
-//<1855> エロエロ団ナンバー１
-<1855> エロエロ団ナンバー１
+//<1855> Ero Ero Numero Uno
+<1855> Ero Ero Numero Uno
 
 //<1856> Just a Pervert
 <1856> Just a Pervert
@@ -5592,8 +5591,8 @@
 //<1857> Uglyuri
 <1857> Uglyuri
 
-//<1858> ドピュッシー
-<1858> ドピュッシー
+//<1858> Depussy
+<1858> Depussy
 
 //<1859> Horndog
 <1859> Horndog
@@ -5649,8 +5648,8 @@
 //<1876> Glasses Comrade
 <1876> Glasses Comrade
 
-//<1877> 暗算日本記録保持者
-<1877> 暗算日本記録保持者
+//<1877> Japanese Mental Mathstermind
+<1877> Japanese Mental Mathstermind
 
 //<1878> Phantom Slasher
 <1878> Phantom Slasher
@@ -5667,8 +5666,8 @@
 //<1882> Ero Samurai
 <1882> Ero Samurai
 
-//<1883> エロエロ団ナンバー１
-<1883> エロエロ団ナンバー１
+//<1883> Ero Ero Numero Uno
+<1883> Ero Ero Numero Uno
 
 //<1884> Just a Pervert
 <1884> Just a Pervert
@@ -5676,8 +5675,8 @@
 //<1885> Uglyuri
 <1885> Uglyuri
 
-//<1886> ドピュッシー
-<1886> ドピュッシー
+//<1886> Depussy
+<1886> Depussy
 
 //<1887> Horndog
 <1887> Horndog
@@ -5721,8 +5720,8 @@
 //<1900> Kanade
 <1900> Kanade
 
-//<1901> Schoolgirl
-<1901> Schoolgirl
+//<1901> Female Student
+<1901> Female Student
 
 //<1902> ??
 <1902> ??
@@ -5785,8 +5784,8 @@
 //<1921> Glasses Comrade
 <1921> Glasses Comrade
 
-//<1922> 暗算日本記録保持者
-<1922> 暗算日本記録保持者
+//<1922> Japanese Mental Mathstermind
+<1922> Japanese Mental Mathstermind
 
 //<1923> Phantom Slasher
 <1923> Phantom Slasher
@@ -5803,8 +5802,8 @@
 //<1927> Ero Samurai
 <1927> Ero Samurai
 
-//<1928> エロエロ団ナンバー１
-<1928> エロエロ団ナンバー１
+//<1928> Ero Ero Numero Uno
+<1928> Ero Ero Numero Uno
 
 //<1929> Just a Pervert
 <1929> Just a Pervert
@@ -5812,8 +5811,8 @@
 //<1930> Uglyuri
 <1930> Uglyuri
 
-//<1931> ドピュッシー
-<1931> ドピュッシー
+//<1931> Depussy
+<1931> Depussy
 
 //<1932> Horndog
 <1932> Horndog
@@ -5860,8 +5859,8 @@
 //<1946> Kanade
 <1946> Kanade
 
-//<1947> Schoolgirl
-<1947> Schoolgirl
+//<1947> Female Student
+<1947> Female Student
 
 //<1948> ??
 <1948> ??
@@ -5887,8 +5886,8 @@
 //<1955> Glasses Comrade
 <1955> Glasses Comrade
 
-//<1956> 暗算日本記録保持者
-<1956> 暗算日本記録保持者
+//<1956> Japanese Mental Mathstermind
+<1956> Japanese Mental Mathstermind
 
 //<1957> Phantom Slasher
 <1957> Phantom Slasher
@@ -5905,8 +5904,8 @@
 //<1961> Ero Samurai
 <1961> Ero Samurai
 
-//<1962> エロエロ団ナンバー１
-<1962> エロエロ団ナンバー１
+//<1962> Ero Ero Numero Uno
+<1962> Ero Ero Numero Uno
 
 //<1963> Just a Pervert
 <1963> Just a Pervert
@@ -5914,8 +5913,8 @@
 //<1964> Uglyuri
 <1964> Uglyuri
 
-//<1965> ドピュッシー
-<1965> ドピュッシー
+//<1965> Depussy
+<1965> Depussy
 
 //<1966> Horndog
 <1966> Horndog
@@ -5956,8 +5955,8 @@
 //<1978> Glasses Comrade
 <1978> Glasses Comrade
 
-//<1979> 暗算日本記録保持者
-<1979> 暗算日本記録保持者
+//<1979> Japanese Mental Mathstermind
+<1979> Japanese Mental Mathstermind
 
 //<1980> Phantom Slasher
 <1980> Phantom Slasher
@@ -5974,8 +5973,8 @@
 //<1984> Ero Samurai
 <1984> Ero Samurai
 
-//<1985> エロエロ団ナンバー１
-<1985> エロエロ団ナンバー１
+//<1985> Ero Ero Numero Uno
+<1985> Ero Ero Numero Uno
 
 //<1986> Just a Pervert
 <1986> Just a Pervert
@@ -5983,8 +5982,8 @@
 //<1987> Uglyuri
 <1987> Uglyuri
 
-//<1988> ドピュッシー
-<1988> ドピュッシー
+//<1988> Depussy
+<1988> Depussy
 
 //<1989> Horndog
 <1989> Horndog
@@ -6013,8 +6012,8 @@
 //<1997> Kanade
 <1997> Kanade
 
-//<1998> Schoolgirl
-<1998> Schoolgirl
+//<1998> Female Student
+<1998> Female Student
 
 //<1999> ??
 <1999> ??
