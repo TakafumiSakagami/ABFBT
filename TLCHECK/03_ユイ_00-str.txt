@@ -4,46 +4,47 @@
 // anything else is unknown
 
 //<0000> 駐車場のようだった。
-<0000> 駐車場のようだった。
+<0000> A parking lot it seems.
 
 //<0001> そんなものがこの世界に必要なのだろうか？
-<0001> そんなものがこの世界に必要なのだろうか？
+<0001> Is such a thing necessary in this world?
 
 //<0002> それよりも、だ。
-<0002> それよりも、だ。
+<0002> Besides that.
 
 //<0003> こんな必要とされなさそうな場所に人だかりが出来ていた。
-<0003> こんな必要とされなさそうな場所に人だかりが出来ていた。
+<0003> In this seemingly unnecessary place there was a crowd gathering.
 
 //<0004> 一緒に、歌も聞こえてくる。曲は聞き覚えがある。
-<0004> 一緒に、歌も聞こえてくる。曲は聞き覚えがある。
+<0004> I could also hear singing. I think I’ve heard this before.
 
 //<0005> 誰かが路上ライブでもやっているようだ。
-<0005> 誰かが路上ライブでもやっているようだ。
+<0005> It seems someone is holding a concert here.
 
 //<0006> となれば、陽動部隊の岩沢以外に考えられないのだが、あの時に聴いた歌声とは明らかに違う。
-<0006> となれば、陽動部隊の岩沢以外に考えられないのだが、あの時に聴いた歌声とは明らかに違う。
+<0006> I can’t think of anyone other than Iwasawa from the diversion squad but this voice is completely different from that time.
 
 //<0007> ひたすら元気で、ひたすらひたむきな、そんな歌声だった。
-<0007> ひたすら元気で、ひたすらひたむきな、そんな歌声だった。
+<0007> High spirited, earnest, that kind of voice.
 
 //<0008> 引き寄せられるように近づいていく。
-<0008> 引き寄せられるように近づいていく。
+<0008> I approached as if lured. 
+//TLcheck Don’t think it matches the options
 
 //<0009> 見に行く
-<0009> 見に行く
+<0009> Go take a look.
 
 //<0010> 立ち去る
-<0010> 立ち去る
+<0010> Walk away
 
 //<0011> selbtn : 
 <0011> selbtn : 
 
 //<0012> まぁ、別に音楽に興味がある訳じゃないし良いか。
-<0012> まぁ、別に音楽に興味がある訳じゃないし良いか。
+<0012> Whatever, I don’t really have an interest in music.
 
 //<0013> 俺は立ち去ることにした。
-<0013> 俺は立ち去ることにした。
+<0013> I walked away.
 
 //<0014> se_yui_Crowsong_Gt
 <0014> se_yui_Crowsong_Gt
@@ -62,25 +63,27 @@
 <0018> nothing
 
 //<0019> 人ごみの中に割って入ると、戦線メンバーの服を着た女生徒があぐらをかいて、アコギを弾き、歌っていた。
-<0019> 人ごみの中に割って入ると、戦線メンバーの服を着た女生徒があぐらをかいて、アコギを弾き、歌っていた。
+<0019> I pushed my way into the middle of the crowd. A female student wearing the battlefront uniform was sitting cross-legged, playing an acoustic guitar, and singing. 
 
 //<0020> 見知らぬ顔。
-<0020> 見知らぬ顔。
+<0020> A face I hadn’t seen before. 
 
 //<0021> ゆりが言っていた、他にも何十人と潜伏しているメンバーのひとりか。
-<0021> ゆりが言っていた、他にも何十人と潜伏しているメンバーのひとりか。
+<0021> Is she one of the covert members Yuri mentioned. 
+//(referring to 4789 in day01)
 
 //<0022> しかし、どうしてこんなところでひとりで陽動をしているのだろうか？
-<0022> しかし、どうしてこんなところでひとりで陽動をしているのだろうか？
+<0022> But, why is she conducting a diversion alone in a place like this? 
+//TLcheck Not sure if conduct is the best word
 
 //<0023> そもそも今はオペレーション中ではない。
-<0023> そもそも今はオペレーション中ではない。
+<0023> There’s not even an operation going on right now.
 
 //<0024> なのに、なぜこんなことを？
-<0024> なのに、なぜこんなことを？
+<0024> So, why do all this?
 
 //<0025> 弾き語りが終わる。
-<0025> 弾き語りが終わる。
+<0025> The solo-performance ended.
 
 //<0026> nothing
 <0026> nothing
@@ -98,16 +101,17 @@
 <0030> nothing
 
 //<0031> 女生徒
-<0031> 女生徒
+<0031> Female Student
 
 //<0032> 「今日は以上です！　ご静聴ありがとうございましたー！」
-<0032> 「今日は以上です！　ご静聴ありがとうございましたー！」
+<0032> "That's all for today! Thank you very much for listening!"
 
 //<0033> 女生徒がそう頭を下げると、意外にも女性の黄色い声が飛び交う。
-<0033> 女生徒がそう頭を下げると、意外にも女性の黄色い声が飛び交う。
+<0033> With a surprisingly shrill voice, the girl bowed to her audience. 
+//TLcheck
 
 //<0034> そして、一斉に舞う花吹雪。なんなんだろう、ギターケースの中に放り込まれていく。
-<0034> そして、一斉に舞う花吹雪。なんなんだろう、ギターケースの中に放り込まれていく。
+<0034> Then, at the same time came a wave of paper scraps. What are those, she's stuffing them into the guitar case.
 
 //<0035> nothing
 <0035> nothing
@@ -128,13 +132,13 @@
 <0040> nothing
 
 //<0041> ケースから外れたその一枚を拾ってみる。
-<0041> ケースから外れたその一枚を拾ってみる。
+<0041> I picked up a paper that fell out of the case.
 
 //<0042> 『チャーハン』と書かれていた。食券だ。
-<0042> 『チャーハン』と書かれていた。食券だ。
+<0042> It was a meal-ticket with "Chinese Friend Rice" written on it.
 
 //<0043> 音無
-<0043> 音無
+<0043> Otonashi
 
 //<0044> クソ坊主
 <0044> クソ坊主
@@ -200,7 +204,7 @@
 <0064> ？？
 
 //<0065> （ひとりトルネードをしてるのか…）
-<0065> （ひとりトルネードをしてるのか…）
+<0065> (Is this a one man TORNADO?)
 
 //<0066> nothing
 <0066> nothing
@@ -218,7 +222,7 @@
 <0070> nothing
 
 //<0071> そんなことを考えながら女子同士、握手するのをしばらく眺めていた。
-<0071> そんなことを考えながら女子同士、握手するのをしばらく眺めていた。
+<0071> While pondering that I watched the girl shaking hands for a while.
 
 //<0072> nothing
 <0072> nothing
@@ -236,7 +240,7 @@
 <0076> nothing
 
 //<0077> やがて他の生徒が居なくなると、立ち尽くしていた俺に気づいた。
-<0077> やがて他の生徒が居なくなると、立ち尽くしていた俺に気づいた。
+<0077> When the other students had gone away, she noticed me standing still.
 
 //<0078> nothing
 <0078> nothing
@@ -254,13 +258,13 @@
 <0082> nothing
 
 //<0083> 女生徒
-<0083> 女生徒
+<0083> Female Student
 
 //<0084> 「えぇぇぇーー！！　この世界にゾンビがぁー！！」
-<0084> 「えぇぇぇーー！！　この世界にゾンビがぁー！！」
+<0084> "Eeehhh!! There are zombies in this world!!"
 
 //<0085> 音無
-<0085> 音無
+<0085> Otonashi
 
 //<0086> クソ坊主
 <0086> クソ坊主
@@ -326,7 +330,7 @@
 <0106> ？？
 
 //<0107> 「いや、人間だって」
-<0107> 「いや、人間だって」
+<0107> "Not really, I'm human."
 
 //<0108> nothing
 <0108> nothing
@@ -347,7 +351,7 @@
 <0113> 女生徒
 
 //<0114> 「え？　よく見ると、確かに戦線の制服ですね…痛くないんですか？」
-<0114> 「え？　よく見ると、確かに戦線の制服ですね…痛くないんですか？」
+<0114> "Eh? That certainly is the battlefront´s uniform isn't it. Doesn't it hurt?"
 
 //<0115> 音無
 <0115> 音無
@@ -416,7 +420,7 @@
 <0136> ？？
 
 //<0137> 「そりゃ痛てーよ。でも耐えられないほどではない…」
-<0137> 「そりゃ痛てーよ。でも耐えられないほどではない…」
+<0137> "Sure it hurts, but not so much that I can't bear it..."
 
 //<0138> nothing
 <0138> nothing
@@ -437,7 +441,7 @@
 <0143> 女生徒
 
 //<0144> 「まだ血が流れてるようですが…」
-<0144> 「まだ血が流れてるようですが…」
+<0144> "It looks like you're still bleeding though..."
 
 //<0145> 音無
 <0145> 音無
@@ -506,7 +510,7 @@
 <0166> ？？
 
 //<0167> 「気にすんな」
-<0167> 「気にすんな」
+<0167> "Don't worry about it."
 
 //<0168> 音無
 <0168> 音無
@@ -575,7 +579,8 @@
 <0189> ？？
 
 //<0190> 「入ったばっかの新入りだから、初めまして。本名は音無だが、今はただのエロ少年ですが、何か？」
-<0190> 「入ったばっかの新入りだから、初めまして。本名は音無だが、今はただのエロ少年ですが、何か？」
+<0190> 
+//TLCHECK
 
 //<0191> nothing
 <0191> nothing
@@ -596,7 +601,7 @@
 <0196> 女生徒
 
 //<0197> 「うわっ、キモッ！」
-<0197> 「うわっ、キモッ！」
+<0197> "Uwa, gross!"
 
 //<0198> 音無
 <0198> 音無
@@ -665,7 +670,7 @@
 <0219> ？？
 
 //<0220> 「お前は？」
-<0220> 「お前は？」
+<0220> "and your name is?"
 
 //<0221> 音無
 <0221> 音無
@@ -734,7 +739,7 @@
 <0242> ？？
 
 //<0243> 「入ったばっかの新入りだから、初めまして、音無だ」
-<0243> 「入ったばっかの新入りだから、初めまして、音無だ」
+<0243> "I'm a new member who just joined, pleased to meet you, I'm Otonashi."
 
 //<0244> nothing
 <0244> nothing
@@ -755,7 +760,7 @@
 <0249> 女生徒
 
 //<0250> 「あれ？　戦線の人ですか？」
-<0250> 「あれ？　戦線の人ですか？」
+<0250> "Wait, are you a member of the battlefront?"
 
 //<0251> nothing
 <0251> nothing
@@ -773,7 +778,7 @@
 <0255> nothing
 
 //<0256> 制服が違うから、すぐ気づかれる。
-<0256> 制服が違うから、すぐ気づかれる。
+<0256> You can quickly tell since the uniform is different.
 
 //<0257> 音無
 <0257> 音無
@@ -842,7 +847,7 @@
 <0278> ？？
 
 //<0279> 「ああ。入ったばっかの新入りなんだ。初めまして、音無だ」
-<0279> 「ああ。入ったばっかの新入りなんだ。初めまして、音無だ」
+<0279> "Yeah. I'm a new member who just joined, I'm Otonashi."
 
 //<0280> nothing
 <0280> nothing
@@ -860,10 +865,10 @@
 <0284> nothing
 
 //<0285> ユイ
-<0285> ユイ
+<0285> Yui
 
 //<0286> 「これはどうも、こちらこそ初めまして。ユイっていいます！」
-<0286> 「これはどうも、こちらこそ初めまして。ユイっていいます！」
+<0286> "Me too, pleased to meet you. My name is Yui."
 
 //<0287> 音無
 <0287> 音無
@@ -932,7 +937,7 @@
 <0308> ？？
 
 //<0309> 「何してたんだ？」
-<0309> 「何してたんだ？」
+<0309> "What were you doing?"
 
 //<0310> nothing
 <0310> nothing
@@ -953,10 +958,10 @@
 <0315> ユイ
 
 //<0316> 「そりゃ、もちろん、路上ライブですよ。今ではＮＰＣの子もファンになってくれて、聴きにきてくれるんです！」
-<0316> 「そりゃ、もちろん、路上ライブですよ。今ではＮＰＣの子もファンになってくれて、聴きにきてくれるんです！」
+<0316> "That, well it was a little concert of course. Just now an NPC girl became my fan, so she'll come and listen!"
 
 //<0317> はつらつとして、とても元気な子だ。
-<0317> はつらつとして、とても元気な子だ。
+<0317> She jumped around, she's a very energetic girl.
 
 //<0318> 音無
 <0318> 音無
@@ -1025,7 +1030,7 @@
 <0339> ？？
 
 //<0340> 「ひとりトルネードをしてるんだな」
-<0340> 「ひとりトルネードをしてるんだな」
+<0340> "You were doing TORNADO by yourself after all."
 
 //<0341> nothing
 <0341> nothing
@@ -1046,7 +1051,7 @@
 <0346> ユイ
 
 //<0347> 「あー、それは違いますっ」
-<0347> 「あー、それは違いますっ」
+<0347> "Oh, no that's not it."
 
 //<0348> nothing
 <0348> nothing
@@ -1067,7 +1072,7 @@
 <0353> ユイ
 
 //<0354> 「ガルデモの岩沢さんや、ひさ子さんも、昔はふたりきりでこんなことをやっていたと聞いたので、真似してるだけですっ」
-<0354> 「ガルデモの岩沢さんや、ひさ子さんも、昔はふたりきりでこんなことをやっていたと聞いたので、真似してるだけですっ」
+<0354> "I heard GirlDeMo's Iwasawa, and Hisako used to do this kind of thing together long ago. I'm just copying them."
 
 //<0355> 音無
 <0355> 音無
@@ -1136,7 +1141,7 @@
 <0376> ？？
 
 //<0377> 「じゃあ、なに？　陽動部隊となるバンドをもうひとつ作ろうってわけ？」
-<0377> 「じゃあ、なに？　陽動部隊となるバンドをもうひとつ作ろうってわけ？」
+<0377> "Okay, so? Are you going to start a second band for the diversion squad?"
 
 //<0378> nothing
 <0378> nothing
@@ -1157,7 +1162,7 @@
 <0383> ユイ
 
 //<0384> 「いえいえ、そんなそんなっ！　この世界にバンドはひとつだけです。ガルデモだけあればいいんです」
-<0384> 「いえいえ、そんなそんなっ！　この世界にバンドはひとつだけです。ガルデモだけあればいいんです」
+<0384> "No, no, no way. There's only one band in this world. Everything is fine as long as GirlDeMo exists."
 
 //<0385> nothing
 <0385> nothing
@@ -1178,7 +1183,7 @@
 <0390> ユイ
 
 //<0391> 「あたしはそれに憧れて、コピーみたいなことをしてるだけです」
-<0391> 「あたしはそれに憧れて、コピーみたいなことをしてるだけです」
+<0391> "I just copy them because I look up to them."
 
 //<0392> 音無
 <0392> 音無
@@ -1247,7 +1252,7 @@
 <0413> ？？
 
 //<0414> 「ガルデモ…あいつらか。確かに憧れるのもわかるな」
-<0414> 「ガルデモ…あいつらか。確かに憧れるのもわかるな」
+<0414> "GirlDeMo..Oh them. I can certainly understand admiring them."
 
 //<0415> 音無
 <0415> 音無
@@ -1316,7 +1321,8 @@
 <0436> ？？
 
 //<0437> 「ガルデモって…確か、作戦中に陽動で演奏するバンドだっけ？」
-<0437> 「ガルデモって…確か、作戦中に陽動で演奏するバンドだっけ？」
+<0437> 
+//TLCHECK
 
 //<0438> nothing
 <0438> nothing
@@ -1337,7 +1343,8 @@
 <0443> ユイ
 
 //<0444> 「ええぇぇええぇぇーー！！　それだけの知識で、戦線の幹部になれちゃったんですか！」
-<0444> 「ええぇぇええぇぇーー！！　それだけの知識で、戦線の幹部になれちゃったんですか！」
+<0444> "Eeeeehhhhh!! You became a high ranking battlefront member without even knowing that!"
+//TLCHECK No idea what this high rank/management thing is about, so that might need correcting
 
 //<0445> 音無
 <0445> 音無
@@ -1406,7 +1413,7 @@
 <0466> ？？
 
 //<0467> 「だって、この世界に来たのって、二日前だぜ？」
-<0467> 「だって、この世界に来たのって、二日前だぜ？」
+<0467> "Well, I just came to this world two days ago."
 
 //<0468> nothing
 <0468> nothing
@@ -1427,7 +1434,7 @@
 <0473> ユイ
 
 //<0474> 「なぜそんな人がいきなり幹部に…」
-<0474> 「なぜそんな人がいきなり幹部に…」
+<0474> "How is such a person such a high rank..."
 
 //<0475> 音無
 <0475> 音無
@@ -1496,7 +1503,7 @@
 <0496> ？？
 
 //<0497> 「知らねーよ…」
-<0497> 「知らねーよ…」
+<0497> "I don't know..."
 
 //<0498> nothing
 <0498> nothing
@@ -1517,13 +1524,13 @@
 <0503> ユイ
 
 //<0504> 「正式名称は、
-<0504> 「正式名称は、
+<0504> "Their official name is
 
 //<0505> Girls Dead Monster
 <0505> Girls Dead Monster
 
 //<0506> 。略してガルデモです！　ガルデモは凄いんですよ！　なんと言っても、ボーカル＆ギターの岩沢さんの存在感！」
-<0506> 。略してガルデモです！　ガルデモは凄いんですよ！　なんと言っても、ボーカル＆ギターの岩沢さんの存在感！」
+<0506> . Abbreviated as GirlDeMo!　GirlDeMo are amazing!　Whatever you say the vocalist and guitarist Iwasawa´s presence!"
 
 //<0507> nothing
 <0507> nothing
@@ -1544,13 +1551,13 @@
 <0512> ユイ
 
 //<0513> 「ひとりで作詞作曲までしちゃうんです！　
-<0513> 「ひとりで作詞作曲までしちゃうんです！　
+<0513> "She even writes and composes her songs alone!"
 
 //<0514> Crow Song
 <0514> Crow Song
 
 //<0515> は岩沢さんの人生そのもの！ってな歌で泣けるわ、盛り上がるわで、ライブ中にどうしたらいいかよくわかんない、鉄板曲なんですよ！」
-<0515> は岩沢さんの人生そのもの！ってな歌で泣けるわ、盛り上がるわで、ライブ中にどうしたらいいかよくわかんない、鉄板曲なんですよ！」
+<0515> is Iwasawa's life itself. When I hear it during a live event I don't whether to cry or cheer; it's their signature song!"
 {ebcf} 10 // 0515
 
 //<0516> 音無
@@ -1620,7 +1627,7 @@
 <0537> ？？
 
 //<0538> 「どうしたらいいかよくわからない曲が鉄板曲にはならんだろ…」
-<0538> 「どうしたらいいかよくわからない曲が鉄板曲にはならんだろ…」
+<0538> "You couldn't have a signature song that makes people unsure what to feel..."
 
 //<0539> nothing
 <0539> nothing
@@ -1641,13 +1648,13 @@
 <0544> ユイ
 
 //<0545> 「そして、最高に盛り上がるのが
-<0545> 「そして、最高に盛り上がるのが
+<0545> "And, the song that makes me the most excited is
 
 //<0546> Alchemy
 <0546> Alchemy
 
 //<0547> ！　リードギターのひさ子さんの殺伐としたリフで始まるキラーチューン！　もう殺伐とするわ、興奮するわで、どうしたらいいかよくわからないんですよ！」
-<0547> ！　リードギターのひさ子さんの殺伐としたリフで始まるキラーチューン！　もう殺伐とするわ、興奮するわで、どうしたらいいかよくわからないんですよ！」
+<0547> ! That killer song starting with Lead guitarist Hisako's bloodthirsty riffs. I just don't know whether to get excited or rip someone to shreds!"
 {f8c7} 10 // 0547
 
 //<0548> 音無
@@ -1717,7 +1724,7 @@
 <0569> ？？
 
 //<0570> 「どうしたらいいかよくわからない曲がキラーチューンにはならんだろ…」
-<0570> 「どうしたらいいかよくわからない曲がキラーチューンにはならんだろ…」
+<0570> "You couldn't have a killer song that makes people so unsure..."
 
 //<0571> nothing
 <0571> nothing
@@ -1738,7 +1745,7 @@
 <0576> ユイ
 
 //<0577> 「とにかくガルデモがこの世界で唯一無二のバンドなんです！　あたしはそのサポートをしているだけの新米です」
-<0577> 「とにかくガルデモがこの世界で唯一無二のバンドなんです！　あたしはそのサポートをしているだけの新米です」
+<0577> "Anyway, GirlDeMo is the only band in this world, and I'm just beginner who supports them."
 
 //<0578> 音無
 <0578> 音無
@@ -1807,7 +1814,7 @@
 <0599> ？？
 
 //<0600> 「じゃ、俺と似たような感じだな」
-<0600> 「じゃ、俺と似たような感じだな」
+<0600> "We're in a similar position then."
 
 //<0601> nothing
 <0601> nothing
@@ -1828,7 +1835,7 @@
 <0606> ユイ
 
 //<0607> 「一緒にするなや、ごらあああぁぁーー！！　ガルデモに対する愛は何倍もお前より上じゃああぁぁーー！！　遥か上空じゃあああぁーーーーー！！」
-<0607> 「一緒にするなや、ごらあああぁぁーー！！　ガルデモに対する愛は何倍もお前より上じゃああぁぁーー！！　遥か上空じゃあああぁーーーーー！！」
+<0607> "Heeyy, don't go lumping me with someone like you!! My love for GirlDeMo is much greater than yours!! I'm light-years ahead!!"
 
 //<0608> nothing
 <0608> nothing
@@ -1846,7 +1853,7 @@
 <0612> nothing
 
 //<0613> なんだ！？　いきなりキレキャラに変わりやがった…！
-<0613> なんだ！？　いきなりキレキャラに変わりやがった…！
+<0613> What the!? Her nice personality changed instantly!
 
 //<0614> 音無
 <0614> 音無
@@ -1915,7 +1922,7 @@
 <0635> ？？
 
 //<0636> 「わかった、わかった、お前のほうが断然上だよ。俺は土の中のモグラぐらいなもんだ」
-<0636> 「わかった、わかった、お前のほうが断然上だよ。俺は土の中のモグラぐらいなもんだ」
+<0636> "I get it, I get it, you're way ahead of me. I'm like a turtle in a motor race."
 
 //<0637> nothing
 <0637> nothing
@@ -1936,7 +1943,7 @@
 <0642> ユイ
 
 //<0643> 「そんなそんな謙遜せずとも、ミミズぐらいでいいじゃないですかっ」
-<0643> 「そんなそんな謙遜せずとも、ミミズぐらいでいいじゃないですかっ」
+<0643> "You don't have to be so modest, a snail would be more accurate."
 
 //<0644> 雌雄同体の貧毛目扱いされた…。
 <0644> 雌雄同体の貧毛目扱いされた…。
@@ -2008,7 +2015,7 @@
 <0666> ？？
 
 //<0667> 「よくわからんが、陽動のサポート、頑張れよ」
-<0667> 「よくわからんが、陽動のサポート、頑張れよ」
+<0667> "I don't really get it, but good luck supporting the diversion squad."
 
 //<0668> nothing
 <0668> nothing
@@ -2029,7 +2036,7 @@
 <0673> ユイ
 
 //<0674> 「言われなくても頑張りますよぅ」
-<0674> 「言われなくても頑張りますよぅ」
+<0674> "You don't have to tell me, I'll work hard regardless."
 
 //<0675> nothing
 <0675> nothing
@@ -2050,7 +2057,7 @@
 <0680> nothing
 
 //<0681> 後かたづけをするユイと別れた。
-<0681> 後かたづけをするユイと別れた。
+<0681> I walked away from Yui who was cleaning up after her concert.
 
 //<0682> dummy
 <0682> dummy
