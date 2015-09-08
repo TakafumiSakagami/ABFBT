@@ -1388,7 +1388,7 @@
 <0460> ??
 
 //<0461> 「これはドラマか映画の撮影じゃないのか？」
-<0461> "This is like a filming of some drama, right?"
+<0461> "This is like a filming of some drama, isn't it?"
 
 //<0462> Yuri
 <0462> Yuri
@@ -2029,7 +2029,7 @@
 <0673> ??
 
 //<0674> 「でも『死んだ世界戦線』って、死んだことを認めてることになるんじゃね？という意見により破棄」
-<0674> "But some argued that 'Afterlife Battlefront' would mean accepting we died."
+<0674> "But some argued that 'Afterlife Battlefront' would mean accepting that we died."
 
 //<0675> Yuri
 <0675> Yuri
@@ -4005,7 +4005,7 @@
 <1329> Hottie-chin
 
 //<1330> ホモ太
-<1330> ホモ太
+<1330> Homota
 
 //<1331> ひなチン
 <1331> Hina-chin
@@ -4065,8 +4065,8 @@
 //<1349> Hottie-chin
 <1349> Hottie-chin
 
-//<1350> ホモ太
-<1350> ホモ太
+//<1350> Homota
+<1350> Homota
 
 //<1351> Hina-chin
 <1351> Hina-chin
@@ -4128,8 +4128,8 @@
 //<1370> Hottie-chin
 <1370> Hottie-chin
 
-//<1371> ホモ太
-<1371> ホモ太
+//<1371> Homota
+<1371> Homota
 
 //<1372> Hina-chin
 <1372> Hina-chin
@@ -4245,8 +4245,8 @@
 //<1409> Hottie-chin
 <1409> Hottie-chin
 
-//<1410> ホモ太
-<1410> ホモ太
+//<1410> Homota
+<1410> Homota
 
 //<1411> Hina-chin
 <1411> Hina-chin
@@ -4607,7 +4607,7 @@
 
 //<1530> 「ああ、多分そいつら。Tenshiだから、あんたが成仏させるんだろ、違うのか？」
 <1530> "Ahh, probably. So if you're Tenshi, then you're going to heaven, right?"
-//(Literally "becoming Buddha")
+//(Literally "becoming Buddha", expression used to mean "entering Nirvana")
 
 //<1531> nothing
 <1531> nothing
