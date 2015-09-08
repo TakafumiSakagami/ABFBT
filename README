@@ -29,8 +29,11 @@ Once you have finished with the scene, you should move it to one of the other fo
 
 Quality Checking:
 
-Before checking a scene, make a new text file named
-Propose_*file name*
-For example, if you were checking 00_ab01a_day00-str.txt, you'd make a file named Propose_00_ab01a_day00-str.txt
+Look out for any typos, grammar fragments, and confusing sentences. If there is a sentence or phrase that relies heavily on Japanese Culture, note down either in the file or in the forum topic. We can then discuss on how best to explain the cultural reference.
 
-Look out for any typos, grammar fragments, and confusing sentences. If there is a sentence or phrase that relies heavily on Japanese Culture, note it in the Propose text file. We can then discuss on how best to explain the culture reference.
+Adding the Translations to your game:
+To add the translations to your game, you'll want to save a copy of the "1st beat Scene" folder in your ABVN directory.
+Copy any files from the TLCHECK and QC folders into your 1st beat Scene folder too. Then, rename the folder to "Scene"
+The tools you need to download can be found here: https://dl.dropboxusercontent.com/u/58805276/AngelBeats-1stBeat-Tools.rar
+Extract the tools to your ABVN directory, then launch packscene-compressed.bat. Let it do it's thing, wait for it to say that you can close the cmd window.
+You will be given a file named Scenetest.pck. Rename your Scene.pck to something else, and then rename Scenetext.pck to Scene.pck
